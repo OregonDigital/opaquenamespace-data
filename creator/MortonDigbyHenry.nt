@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://www.w3.org/2000/01/rdf-schema#comment> "Torrens, Deborah; Fashion Illustrated: A Review of Women's Dress, 1920-1950, New York: Hawthorne Books, Inc. Publishers, 1975. British fashion designer, designed for the Jacqmar Collection, Hathaway Shirt Company (New York) and designer/director of Reldan-Digby Morton"@en .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://www.w3.org/2000/01/rdf-schema#label> "Morton, Digby Henry"@en .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MortonDigbyHenry> <http://www.w3.org/2001/XMLSchema#date> "1906-1983"@en .

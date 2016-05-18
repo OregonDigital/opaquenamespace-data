@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/PiazzadiSpagna> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/PiazzadiSpagna> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/PiazzadiSpagna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/PiazzadiSpagna> <http://www.w3.org/2000/01/rdf-schema#comment> "Piazza di Spagna, Rome, Lazio, Italy. Rossi, Guido Alberto and Franco Lefï¿½vre; Rome From the Air, New York: Rizzoli International Publications, Inc., 1989"@en .
+<http://opaquenamespace.org/ns/repository/PiazzadiSpagna> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/PiazzadiSpagna> <http://www.w3.org/2000/01/rdf-schema#label> "Piazza di Spagna"@en .
+<http://opaquenamespace.org/ns/repository/PiazzadiSpagna> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

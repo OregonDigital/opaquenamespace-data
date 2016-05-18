@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Los Angeles firm consisting of partners Octavius Morgan, John Walls and Stiles Oliver Clements known for their art deco designs and the Richfield Tower in LA. Know as Morgan & Walls at the end of the 19th century."@en .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://www.w3.org/2000/01/rdf-schema#label> "Morgan, Walls and Clements"@en .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MorganWallsandClements> <http://www.w3.org/2001/XMLSchema#date> "last quarter 19th century to second quarter 20th century"@en .

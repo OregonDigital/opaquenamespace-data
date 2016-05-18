@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/CapitalMuseum> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CapitalMuseum> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CapitalMuseum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/CapitalMuseum> <http://www.w3.org/2000/01/rdf-schema#comment> "Capital Museum, Beijing, Beijing Shi, China. Li Yiping; Jin De Zhen Ming Qing Yu Yao Chang Tu Xiang Yu Shou Du Bo Wu Guan Cang 'Qing Hua Yu Yao Chang Tu Yuan Zhuo Mian' De Nian Dai, Wen Wu, vol. 2003, no. 11"@en .
+<http://opaquenamespace.org/ns/repository/CapitalMuseum> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/CapitalMuseum> <http://www.w3.org/2000/01/rdf-schema#label> "Capital Museum"@en .
+<http://opaquenamespace.org/ns/repository/CapitalMuseum> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://www.w3.org/2000/01/rdf-schema#comment> "Chicago Daily Tribune; International Competition for a New Administration Building for the Chicago Tribune, Chicago: Chicago Daily Tribune, 1923. American architect, born Mt. Vernon, Illinois, graduated from University of Illinois, worked as an architect in Chicago, associate of Frank Lloyd Wright after 1929"@en .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://www.w3.org/2000/01/rdf-schema#label> "Morgan, Charles L."@en .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MorganCharlesL> <http://www.w3.org/2001/XMLSchema#date> "1890-1947"@en .

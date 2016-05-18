@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://www.w3.org/2000/01/rdf-schema#comment> "Gao Minglu; Total Modernity and the Avant-Garde in Twentieth-Century Chinese Art. An artist collective founded in October 1986 by Song Haidong who taught at the Shanghai Art College. In the group's manifesto, they advocated that artists leave their studios and engage with the people at large, thus bypassing the old value systems and institutions. In their performance art, the works were unconventional: often violent, masochistic and sadistic, featuring wild behavior and violence enacted on their own and each others' bodies."@en .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://www.w3.org/2000/01/rdf-schema#label> "M Art Group"@en .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MArtGroup> <http://www.w3.org/2001/XMLSchema#date> "formed 1986"@en .

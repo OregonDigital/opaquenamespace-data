@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://www.w3.org/2000/01/rdf-schema#comment> "Howell, Georgina; In Vogue: Six Decades of Fashion, reprint of the 1975 edition, London: Allen Lane, Penguin Books Ltd., 1976. Fashion photographer known for his images of Twiggy"@en .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://www.w3.org/2000/01/rdf-schema#label> "Lategan, Barry"@en .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LateganBarry> <http://www.w3.org/2001/XMLSchema#date> "active ca. 1975-ca. 2010"@en .

@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://www.w3.org/2000/01/rdf-schema#comment> "Mendelson, Jordana; Documenting Spain: Artists, Exhibition Culture, and the Modern Nation, 1929-1939, University Park: Pennsylvania State University Press, 2005. Spanish educational project created within the national Museum of Education and the Second Spanish Republic"@en .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://www.w3.org/2000/01/rdf-schema#label> "Misiones Pedagogicas"@en .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MisionesPedagogicas> <http://www.w3.org/2001/XMLSchema#date> "1931-1936"@en .

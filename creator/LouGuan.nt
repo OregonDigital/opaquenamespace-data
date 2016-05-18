@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). l44g38 Alternate names: Lou Kuan, ?? Song dynasty From Zhejiang province. Painted landscapes in manner of Ma Yuan, also birds and flowers. -- Seymour"@en .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://www.w3.org/2000/01/rdf-schema#label> "Lou, Guan"@en .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LouGuan> <http://www.w3.org/2001/XMLSchema#date> "13th century"@en .

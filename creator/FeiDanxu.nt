@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). f25d24x34 Alternate names: Fei Tan-hsï¿½, ??? Qing dynasty (1802-1858) Fei Danxu (1802?50), along with Gai Qi (1774?1829) had popularized the genre of beautiful ladies in Shanghai in the late 19th century.--DOA"@en .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://www.w3.org/2000/01/rdf-schema#label> "Fei, Danxu"@en .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/FeiDanxu> <http://www.w3.org/2001/XMLSchema#date> "1802 - 1850"@en .

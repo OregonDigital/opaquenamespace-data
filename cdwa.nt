@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/cdwa> <http://purl.org/dc/terms/issued> "2016-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/cdwa> <http://purl.org/dc/terms/modified> "2016-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/cdwa> <http://purl.org/dc/terms/title> "Categories for the Description of Works of Art (CDWA)"@en .
+<http://opaquenamespace.org/ns/cdwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
+<http://opaquenamespace.org/ns/cdwa> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://www.getty.edu/research/publications/electronic_publications/cdwa/" .
+<http://opaquenamespace.org/ns/cdwa> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://www.getty.edu/research/publications/electronic_publications/cdwa/" .

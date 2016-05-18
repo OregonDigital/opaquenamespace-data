@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/stylePeriod/Manghitid> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/Manghitid> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/Manghitid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/stylePeriod/Manghitid> <http://www.w3.org/2000/01/rdf-schema#comment> "http://www.papersearch.net/view/detail.asp?detail_key=1b400150. The Manghitid dynasty was founded by Muhammad Rahim, a chief of Manghit tribe, who was enthroned in 1756 through the execution of a Chingisid Bukharan khan. However, as one of the Bukharan 92 tribes, the Manghit tribe could not successfully claim their suzerainty over other tribes, who attained their own areas of influence. The Manghitids devised various measures to secure loyalty of other tribes, yet intractable nomadic tribes, including Khitai-Qipchaqs, refused to acknowledge Manghitids` legitimacy"@en .
+<http://opaquenamespace.org/ns/stylePeriod/Manghitid> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/stylePeriod/Manghitid> <http://www.w3.org/2000/01/rdf-schema#label> "Manghitid"@en .
+<http://opaquenamespace.org/ns/stylePeriod/Manghitid> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

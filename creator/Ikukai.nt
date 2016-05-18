@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://www.w3.org/2000/01/rdf-schema#comment> "Swinton, Elizabeth de Sabato; Women of the Pleasure Quarter, New York: Hudson Hills Press, in association with Worcester Art Museum, 1995. Nothing is known of this artist, who worked in a manner derived from that of Hokusai when he used the name Sori (late 1794-1798)"@en .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://www.w3.org/2000/01/rdf-schema#label> "Ikukai"@en .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Ikukai> <http://www.w3.org/2001/XMLSchema#date> "fl. early 1800s"@en .

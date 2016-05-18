@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Chicago firm was the successor to D.H. Burnham & Co., by Daniel Burnham's surviving partner Ernesst Graham and Burnham's sons, Hubert and Daniel, Jr. In 1917, the Burnhams left the firm and Graham formed the current firm with Anderson et al. They were the largest architectural firm under one roof in the first half of the 20th century."@en .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://www.w3.org/2000/01/rdf-schema#label> "Graham, Anderson, Probst and White"@en .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/GrahamAndersonProbstandWhite> <http://www.w3.org/2001/XMLSchema#date> "formed 1917"@en .

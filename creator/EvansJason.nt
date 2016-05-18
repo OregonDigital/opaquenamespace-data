@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Jason Evans was born in Holyhead on June the 5th 1968. That makes him a Welsh Gemini, but does not account for his interest in psychedelic musics. He is a multi-disciplinary photographer whose main output has been through the fashion and music media and preferred mode of transport has been the bicycle. He enjoys teaching at UCA Farnham."@en .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://www.w3.org/2000/01/rdf-schema#label> "Evans, Jason"@en .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/EvansJason> <http://www.w3.org/2001/XMLSchema#date> "born 1968"@en .

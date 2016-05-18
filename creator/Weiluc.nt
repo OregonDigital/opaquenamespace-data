@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://www.w3.org/2000/01/rdf-schema#comment> "Rennert, Jack; Posters of the Belle Epoque: the Wine Spectator Collection, New York: Wine Spectator Press, 1990. Lucien-Henri Weil, who signed himself 'Weiluc,' made his artistic debut in 1896 in 'La Caricature.' He then went on to illustrate for other magazines and exhibited regularly at the Salon des Humoristes."@en .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://www.w3.org/2000/01/rdf-schema#label> "Weiluc"@en .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Weiluc> <http://www.w3.org/2001/XMLSchema#date> "1873-1947"@en .

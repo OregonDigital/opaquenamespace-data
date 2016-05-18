@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://www.w3.org/2000/01/rdf-schema#comment> "M?therich, Florentine and J.E. Gaehde; Carolingian Painting, New York: George Braziller, 1976."@en .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://www.w3.org/2000/01/rdf-schema#comment> "Mï¿½therich, Florentine and J.E. Gaehde; Carolingian Painting, New York: George Braziller, 1976."@en .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://www.w3.org/2000/01/rdf-schema#label> "Court School of Charlemagne"@en .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CourtSchoolofCharlemagne> <http://www.w3.org/2001/XMLSchema#date> "768-814"@en .

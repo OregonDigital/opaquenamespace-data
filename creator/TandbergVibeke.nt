@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Vibeke Tandberg is a Norwegian artist who works with photography and video. His works sparkle between the quest for personal identity and that of social identity. In the images of Tandberg, the idea of 'role playing' is constantly changing: identification of archetypes becomes hybridization, through cloning, and even the experience of playing the role of being self- same."@en .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://www.w3.org/2000/01/rdf-schema#label> "Tandberg, Vibeke"@en .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/TandbergVibeke> <http://www.w3.org/2001/XMLSchema#date> "born 1967"@en .

@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://www.w3.org/2000/01/rdf-schema#comment> "Sun Dazhang; Islamic Buildings (Ancient Chinese Architecture series, v.8), English edition, New York: Springer-Verlag Wien, 2003. Muslim missionary during the Tonghe reign of the Liao Dynasty"@en .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://www.w3.org/2000/01/rdf-schema#label> "Nasalutin"@en .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Nasalutin> <http://www.w3.org/2001/XMLSchema#date> "end 10th century"@en .

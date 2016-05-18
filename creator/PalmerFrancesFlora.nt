@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. born in Leicester, England, she was one of the principal artists working for the lithographic publishing firm of Currier & Ives. Although many of her works were unsigned, she remains one of the best known designers, draughtsmen and lithographers for the company."@en .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://www.w3.org/2000/01/rdf-schema#label> "Palmer, Frances Flora"@en .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PalmerFrancesFlora> <http://www.w3.org/2001/XMLSchema#date> "1812-1876"@en .

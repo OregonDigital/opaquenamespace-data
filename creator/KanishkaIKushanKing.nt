@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://www.w3.org/2000/01/rdf-schema#comment> "Errington, Elizabeth and Joe Cribb; Crossroads of Asia: Transformation in Image and Symbol in the Art of Ancient Afghanistan and Pakistan, Cambridge: Ancient India and Iran Trust, 1992. Kanishka era dates are controversial and the source of much contested scholarship to this day"@en .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://www.w3.org/2000/01/rdf-schema#label> "Kanishka I, Kushan King"@en .
+<http://opaquenamespace.org/ns/creator/KanishkaIKushanKing> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

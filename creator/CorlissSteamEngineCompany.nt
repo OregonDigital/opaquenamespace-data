@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Originally known as Fairbanks, Clark & Company; renamed Fairbanks, Bancroft and Co. in 1843; renamed Bancroft, Nightingale and Co. in 1846; renamed Corliss,Nightingale and Co. in 1847; renamed Corliss Steam Engine Company in 1857. It was purchased by the International Power Company in 1900."@en .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://www.w3.org/2000/01/rdf-schema#label> "Corliss Steam Engine Company"@en .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CorlissSteamEngineCompany> <http://www.w3.org/2001/XMLSchema#date> "19th century"@en .

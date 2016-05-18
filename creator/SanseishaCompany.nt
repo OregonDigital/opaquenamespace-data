@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://www.w3.org/2000/01/rdf-schema#comment> "Clark, Timothy; Demon of Painting: The Art of Kawanabe Kyosai, London: British Museum Press, 1993. Workshop managed by metalsmith brothers Oshima Katsujiro and Oshima Yasutaro under the business name Sanseisha, which during the period 1875 to 1879 produced some of the finest bronzes ever produced in Japan."@en .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://www.w3.org/2000/01/rdf-schema#label> "Sanseisha Company"@en .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/SanseishaCompany> <http://www.w3.org/2001/XMLSchema#date> "1875-1879"@en .

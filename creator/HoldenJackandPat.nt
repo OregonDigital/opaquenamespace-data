@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://www.w3.org/2000/01/rdf-schema#comment> "Turner, Suzanne and A.J. Meek; Gardens of Louisiana: Places of Work and Wonder, Baton Rouge: Louisiana State University Press, 1997. Landscapers and restorers of Maison Chenal who are also historians of early Louisiana material culture"@en .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://www.w3.org/2000/01/rdf-schema#label> "Holden, Jack and Pat"@en .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HoldenJackandPat> <http://www.w3.org/2001/XMLSchema#date> "active after 1975"@en .

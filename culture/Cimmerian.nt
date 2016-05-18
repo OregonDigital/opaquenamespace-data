@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/culture/Cimmerian> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Cimmerian> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Cimmerian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/culture/Cimmerian> <http://www.w3.org/2000/01/rdf-schema#comment> "http://en.wikipedia.org/wiki/Cimmerians. The Cimmerians or Kimmerians (Greek: ï¿½?Î¹Î¼Î¼Î­ÏÎ¹Î¿Î¹, Kimmerioi) were an ancient Indo-European people living north of the Caucasus and the Sea of Azov as early as 1300 BC[1] until they were driven southward by the Scythians into Anatolia during the 8th century BC"@en .
+<http://opaquenamespace.org/ns/culture/Cimmerian> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/culture/Cimmerian> <http://www.w3.org/2000/01/rdf-schema#label> "Cimmerian"@en .
+<http://opaquenamespace.org/ns/culture/Cimmerian> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

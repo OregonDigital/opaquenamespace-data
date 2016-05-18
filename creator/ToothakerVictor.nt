@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://www.w3.org/2000/01/rdf-schema#comment> "Tucker, Kevin; Gustav Stickley and the American Arts & Crafts Movement, Dallas: Dallas Museum of Art, 2010. Designer with Gustav Stickley's Craftsman Workshop and head of the metal shop from 1907-1911."@en .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://www.w3.org/2000/01/rdf-schema#label> "Toothaker, Victor"@en .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ToothakerVictor> <http://www.w3.org/2001/XMLSchema#date> "active ca. 1907-1911"@en .

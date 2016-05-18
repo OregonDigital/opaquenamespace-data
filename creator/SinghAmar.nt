@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://www.w3.org/2000/01/rdf-schema#comment> "Crites, Mitchell Shelby and Ameeta Nanji; India Sublime: Princely Palace Hotels of Rajasthan, New York: Rizzoli International Publications, 2007. General Amar Singh was the Commander of the Jaipur State Force and the Thakur of Kanota."@en .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://www.w3.org/2000/01/rdf-schema#label> "Singh, Amar"@en .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/SinghAmar> <http://www.w3.org/2001/XMLSchema#date> "died 1942"@en .

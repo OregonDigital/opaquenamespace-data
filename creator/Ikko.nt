@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/creator/Ikko> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://www.w3.org/2000/01/rdf-schema#comment> "Kurstin, Joseph and Gilles Lorin; Peacock's Feather: Gentlemen's Jewelry of Old Japan, Hollywood, FL: International Netsuke Society, 2006. Ikko was a prolific artist of the early to middle 19th century. He is considered one of the great artists of his time and excelled in his pip cases and tonkotsu, as well as with netsuke. His use of multiple woods, ivory, jade, mother-of-pearl, and multiple other materials in combination in his compositions is unparalleled."@en .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://www.w3.org/2000/01/rdf-schema#label> "Ikko"@en .
+<http://opaquenamespace.org/ns/creator/Ikko> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

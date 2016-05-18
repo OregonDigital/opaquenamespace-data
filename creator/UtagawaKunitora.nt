@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Pupil of Toyokuni; is said to have worked under his teacher's name. His work was scanty. Somewhat influenced by Hokusai and Shunshosai Hokuju, his prints also show signs of Western influence in pronounced contrasts in light. Some works reminiscent of artists of the preceeding generation."@en .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://www.w3.org/2000/01/rdf-schema#label> "Utagawa, Kunitora"@en .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/UtagawaKunitora> <http://www.w3.org/2001/XMLSchema#date> "ca. 1804 - ca. 1850"@en .

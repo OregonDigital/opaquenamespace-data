@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Born in London in 1973, Clare Richardson studied in Bristol for her BA, worked as an assistant for several leading fashion photographers including Liz Collins and Rankin, before returning to fine art practice. To date, her projects have explored marginal communities rooted in the idyllic and mythical; social groups beyond the mainstream who occupy alternative territories associated with another time, place and ideology. Behind this work resides the legacy of Richardson's own background of perpetual relocation ('a peripatetic childhood') that has instilled an ongoing fascination with a sense of belonging."@en .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://www.w3.org/2000/01/rdf-schema#label> "Richardson, Clare"@en .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RichardsonClare> <http://www.w3.org/2001/XMLSchema#date> "born 1973"@en .

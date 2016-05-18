@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://www.w3.org/2000/01/rdf-schema#comment> "Piotrovsky, M.B. and Rogers, J.M., eds.; Heaven On Earth: Art from Islamic Lands: Works from The State Hermitage Museum and the Khalili Collection, New York: Prestel Publishing, 2004."@en .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://www.w3.org/2000/01/rdf-schema#label> "Annaqqash, Mas'ud ibn Ahmad"@en .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/AnnaqqashMasudibnAhmad> <http://www.w3.org/2001/XMLSchema#date> "1163"@en .

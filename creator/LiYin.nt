@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/LiYin> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://www.w3.org/2000/01/rdf-schema#comment> "Weidner, Marsha, Ellen Johnston Laing, Irving Yucheng Lo, Christina Chu, and James Robinson; Views from Jade Terrace: Chinese Women Artists 1300-1912, Indianapolis: Indianapolis Museum of Art, 1988 (0847810038). l32y29 Alternate names: Li Yin, ??? Qing dynasty From Hangzhou, Zhejiang province. Parents made her study poetry and painting as a child and had established a reputation by 15. Concubine to Ge Zhengqi, who became Vice Minister of the Court of IMperial Entertainments in Beijing. At the capital she was able to study famous works of art and practiced painting and calligraphy with Ge. Retired to the south and enjoyed a close relationship until his death. She became Buddhist and supported herself by her art, which continued to receive acclaim. Subsequent scholars and critics continues to praise her work centuries after her death. Excelled as a flower painter. --Weidner Painted landscapes, flowers, birds in the style of Chen Shun. --Seymour"@en .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://www.w3.org/2000/01/rdf-schema#label> "Li, Yin"@en .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LiYin> <http://www.w3.org/2001/XMLSchema#date> "1616 - 1685"@en .

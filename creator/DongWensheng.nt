@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://www.w3.org/2000/01/rdf-schema#comment> "Fibicher, Bernhard and Matthias Frehner; Mahjong: Contemporary Chinese Art from the Sigg Collection, Ostfildern: Hatje Cantz Verlag, 2005. Chinese artist, born in Lianyun, Jiangsu Province; graduated 1990 from the Normal Technical University in Changzhou. He lives and works in Changzhou."@en .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://www.w3.org/2000/01/rdf-schema#label> "Dong, Wensheng"@en .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/DongWensheng> <http://www.w3.org/2001/XMLSchema#date> "b. 1970"@en .

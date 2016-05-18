@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/HosomiMuseum> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/HosomiMuseum> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/HosomiMuseum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/HosomiMuseum> <http://www.w3.org/2000/01/rdf-schema#comment> "Hosomi Museum, Kyoto (Kyoto), Kinki, Japan. Fischer, Felice, et al.; Arts of Hon'Ami Koetsu, Japanese Renaissance Master, Philadelphia: Philadephi Museum of Art, 2000"@en .
+<http://opaquenamespace.org/ns/repository/HosomiMuseum> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/HosomiMuseum> <http://www.w3.org/2000/01/rdf-schema#label> "Hosomi Museum"@en .
+<http://opaquenamespace.org/ns/repository/HosomiMuseum> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture> <http://www.w3.org/2000/01/rdf-schema#comment> "Schmidt, Peter and Mercedes da la Garza and Enrique Nalda; Maya, New York: Rizzoli, 1998. Distinguished by compact mounds made from rough cut blocks, groups of complexes or monumental architectonic masses, connected by  networks of walkways called, sacbeoob. A variant / sub - style is identified as the Megalithic style where fine stone cutting is utilized in designing building materials."@en .
+<http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture> <http://www.w3.org/2000/01/rdf-schema#label> "Late Petï¿½n architecture"@en .
+<http://opaquenamespace.org/ns/stylePeriod/LatePetenarchitecture> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

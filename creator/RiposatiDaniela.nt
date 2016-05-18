@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://www.w3.org/2000/01/rdf-schema#comment> "Heiken, Grant, Renato Funiciello, and Donatella De Rita; Seven Hills of Rome, 3rd printing, Princeton, NJ: Princeton University Press, 2007. Italian scientific illustrator at the Italian National Institute for Geophysics and Volcanology"@en .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://www.w3.org/2000/01/rdf-schema#label> "Riposati, Daniela"@en .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RiposatiDaniela> <http://www.w3.org/2001/XMLSchema#date> "active late 20th-early 21st century"@en .

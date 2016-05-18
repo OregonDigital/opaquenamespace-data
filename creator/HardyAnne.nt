@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. 1970 Born in United Kingdom. Lives and works in London. Anne Hardy?s photographs picture depopulated rooms that suggest surreal fictions. Working in her studio, Hardy builds each of her sets entirely from scratch; a labour intensive process of constructing an empty room, then developing its interior down to the most minute detail. Using the transient nature of photography, Hardy?s images withhold the actual experience of her environments, allowing our relationship with them to be in our imagination. Her photos evoke a sense of mystery, suggesting connections to other places we imagine might exist."@en .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://www.w3.org/2000/01/rdf-schema#label> "Hardy, Anne"@en .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HardyAnne> <http://www.w3.org/2001/XMLSchema#date> "born 1970"@en .

@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/SurimonoCollectionoftheBeckerFamily> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/SurimonoCollectionoftheBeckerFamily> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/SurimonoCollectionoftheBeckerFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/SurimonoCollectionoftheBeckerFamily> <http://www.w3.org/2000/01/rdf-schema#comment> "Surimono Collection of the Becker Family, Ithaca, New York, United States. Meech, Julia and Jane Oliver; Designed for Pleasure: The World of Edo Japan in Prints and Paintings, 1680-1860, New York; Seattle: Asia Society; University of Washington Press, 2008"@en .
+<http://opaquenamespace.org/ns/repository/SurimonoCollectionoftheBeckerFamily> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/SurimonoCollectionoftheBeckerFamily> <http://www.w3.org/2000/01/rdf-schema#label> "Surimono Collection of the Becker Family"@en .
+<http://opaquenamespace.org/ns/repository/SurimonoCollectionoftheBeckerFamily> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

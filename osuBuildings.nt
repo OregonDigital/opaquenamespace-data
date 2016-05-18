@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/osuBuildings> <http://purl.org/dc/terms/issued> "2015-08-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuBuildings> <http://purl.org/dc/terms/modified> "2015-08-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuBuildings> <http://purl.org/dc/terms/modified> "2016-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuBuildings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
+<http://opaquenamespace.org/ns/osuBuildings> <http://www.w3.org/2000/01/rdf-schema#label> "Oregon State University Buildings"@en .

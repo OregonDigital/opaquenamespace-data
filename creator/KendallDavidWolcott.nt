@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://www.w3.org/2000/01/rdf-schema#comment> "Kaplan, Wendy; 'The Art That is Life': The Arts and Crafts Movement in America, 1875 -1920, Boston: Little, Brown and Company, 1987. Designer and draftsman for Phoenix Furniture Company (Grand Rapid, MI) from 1979-1910."@en .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://www.w3.org/2000/01/rdf-schema#label> "Kendall, David Wolcott"@en .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/KendallDavidWolcott> <http://www.w3.org/2001/XMLSchema#date> "1851-1910"@en .

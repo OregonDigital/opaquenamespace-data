@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/subject/DeadSeaRift> <http://purl.org/dc/terms/issued> "2016-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/DeadSeaRift> <http://purl.org/dc/terms/modified> "2016-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/DeadSeaRift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/subject/DeadSeaRift> <http://www.w3.org/2000/01/rdf-schema#comment> "Also called the Dead Sea Transform (DST) fault system. https://en.wikipedia.org/wiki/Dead_Sea_Transform" .
+<http://opaquenamespace.org/ns/subject/DeadSeaRift> <http://www.w3.org/2000/01/rdf-schema#label> "Dead Sea Rift" .

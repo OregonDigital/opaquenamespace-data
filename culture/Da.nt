@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/culture/Da> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Da> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/culture/Da> <http://www.w3.org/2000/01/rdf-schema#comment> "http://en.wikipedia.org/wiki/Dai_people. The Dai people are one of several ethnic groups living in the Xishuangbanna Dai Autonomous Prefecture and the Dehong Dai and Jingpo Autonomous Prefecture (both in southern Yunnan, China), but by extension can apply to groups in Laos, Vietnam, Thailand, and Burma when Dai is used to mean specifically Tai Lue, Chinese Shan, Tai Dam, Tai Khao or even Tai in general"@en .
+<http://opaquenamespace.org/ns/culture/Da> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/culture/Da> <http://www.w3.org/2000/01/rdf-schema#label> "Da"@en .
+<http://opaquenamespace.org/ns/culture/Da> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

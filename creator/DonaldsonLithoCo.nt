@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://www.w3.org/2000/01/rdf-schema#comment> "Daniel, Noel; Magic: 1400s-1950s, Cologne: Taschen, 2009. Located in Newport, Kentucy. The Donaldson Art Sign Company in Covington and the Donaldson Lithography Company in Newport can be traced back to a partnership between William M. Donaldson and Henry Elms. These two entrepreneurs began a small lithography business in Cincinnati on August 10, 1863 . By the end of the first year of operation, the firm owned and operated seven hand printing presses. With the death of Mr. Elms in 1872, the business became the sole property of Donaldson. The company was officially incorporated as the Donaldson Lithograph Co. in 1883."@en .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://www.w3.org/2000/01/rdf-schema#label> "Donaldson Litho Co."@en .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/DonaldsonLithoCo> <http://www.w3.org/2001/XMLSchema#date> "1883-1987"@en .

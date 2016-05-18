@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/Junayd> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. from Iraq; Mongol painter of miniatures and leading illustrator of the Jalayirid school. His style, using richly dressed figures in formal settings, deeply influenced later developments in Persian painting. Very little is known about Junayd's life. He was a pupil of the painter Shams ad-Din, and from 1382 to 1410 he worked in the service of Sultan Ahmad of the Mongol Jalayirid dynasty of Baghdad. He perpetuated the traditions of the great artists of the late Il Khan period of the Tabriz school, where Shams ad-Din had been trained. The result was a jewellike, multifaceted art that formed some of the basic patterns later adapted by Persian miniature painters. His work includes illustrations for Khwaju Kermani's Khamseh ('Five Poems'), completed in 1396, and margin illustrations for Sultan Ahmad's Divan. --Encyclopedia Britannica"@en .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://www.w3.org/2000/01/rdf-schema#label> "Junayd"@en .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Junayd> <http://www.w3.org/2001/XMLSchema#date> "fl. 14th century"@en .

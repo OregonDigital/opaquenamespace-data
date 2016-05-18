@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). z36d45l32 Alternate names: Chang Tun-li (Chang Hsï¿½n-li; Zhang Xunli), ??? Song dynasty A native of Bianliang (modern Kaifeng), Henan Province, and son-in-law of the Northern Song (960?1127) emperor Zhezong (reg 1086?1100)...specialized in a Six Dynasties (ad 222?589) style of figure painting. --DOA"@en .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang, Dunli"@en .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhangDunli> <http://www.w3.org/2001/XMLSchema#date> "active ca. 1190-1194"@en .

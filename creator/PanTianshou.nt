@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://www.w3.org/2000/01/rdf-schema#comment> "Laing, Ellen Johnston; Winking Owl: Art from the People's Republic of China, Berkeley: University of California Press, 1988 (0520060970). Chinese painter from Hangzhou, Zhejiang, Province; calligrapher, art historian, traditional-style painter; taught at the art academy in Hangzhou; known for his finger paintings and his monumental scrolls; much persecuted during the Cultural Revolution."@en .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://www.w3.org/2000/01/rdf-schema#label> "Pan, Tianshou"@en .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PanTianshou> <http://www.w3.org/2001/XMLSchema#date> "1897-1971"@en .

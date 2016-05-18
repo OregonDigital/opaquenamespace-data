@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://www.w3.org/2000/01/rdf-schema#comment> "Damian, Carol; Virgin of the Andes; Art and Ritual in Colonial Cuzco, Miami Beach: Grassfield Press, 1995. The school of Cuzco, the first indigenous organization of artists in the New World, flourished until around 1800. Initially dependent on the tastes and demands of their Spanish patrons, or influenced by the styles of the certain Spanish artists to whom they were exposed, Cuzco artists went on to develop characteristic elements that merged Italian Renaissance, Mannerist, Flemish, and Spanish Baroque traditions with the indigenous styles."@en .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://www.w3.org/2000/01/rdf-schema#label> "School of Cuzco"@en .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/SchoolofCuzco> <http://www.w3.org/2001/XMLSchema#date> "Late 16th century - 19th century"@en .

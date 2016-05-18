@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://www.w3.org/2000/01/rdf-schema#comment> "Barnhart, Richard, James Cahill and Wu Hung; Three Thousand Years of Chinese Painting, New Haven; Beijing: Yale University Press; Foreign Languages Press, 1997. Chinese painter, Shandong native; after the Republican period he became a leader in the Chinese Painting Academy and Chinese Painting Research Society"@en .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://www.w3.org/2000/01/rdf-schema#label> "Yu, Fei'an"@en .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YuFeian> <http://www.w3.org/2001/XMLSchema#date> "1889-1959"@en .

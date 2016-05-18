@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Philadephia architect who worked with the firm of Frank Furness; later formed a firm with Stanford B. Lewis; was the winner of the 1901 design competition for the new Pennsylvania State Capitol."@en .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://www.w3.org/2000/01/rdf-schema#label> "Huston, Joseph Miller"@en .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HustonJosephMiller> <http://www.w3.org/2001/XMLSchema#date> "1866-1940"@en .

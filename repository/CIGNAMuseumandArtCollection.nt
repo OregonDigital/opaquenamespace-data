@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/CIGNAMuseumandArtCollection> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CIGNAMuseumandArtCollection> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CIGNAMuseumandArtCollection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/CIGNAMuseumandArtCollection> <http://www.w3.org/2000/01/rdf-schema#comment> "CIGNA Museum and Art Collection, Philadelphia, Pennsylvania, United States. Haskell, Barbara; American Century: Art and Culture 1900-1950, 1st ed, New York: Whitney Museum of American Art , 1999  (0393047237)"@en .
+<http://opaquenamespace.org/ns/repository/CIGNAMuseumandArtCollection> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/CIGNAMuseumandArtCollection> <http://www.w3.org/2000/01/rdf-schema#label> "CIGNA Museum and Art Collection"@en .
+<http://opaquenamespace.org/ns/repository/CIGNAMuseumandArtCollection> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

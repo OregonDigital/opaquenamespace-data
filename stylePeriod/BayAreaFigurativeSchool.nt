@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool> <http://www.w3.org/2000/01/rdf-schema#comment> "http://www.oxfordreference.com/view/10.1093/acref/9780195335798.001.0001/acref-9780195335798-e-153. Term applied to a group of American artists active in San Francisco from 1950 to the mid-1960s who forged a vibrant brand of figurative expressionism. Originating in the studios and art schools of postwar San Francisco, the movement transcended its regional identity to attain national recognition as a major trend in mid-20th-century American art."@en .
+<http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool> <http://www.w3.org/2000/01/rdf-schema#label> "Bay-Area Figurative School"@en .
+<http://opaquenamespace.org/ns/stylePeriod/BayAreaFigurativeSchool> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

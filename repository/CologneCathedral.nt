@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/CologneCathedral> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CologneCathedral> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CologneCathedral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/CologneCathedral> <http://www.w3.org/2000/01/rdf-schema#comment> "Cologne Cathedral, Cologne, North Rhine-Westphalia, Germany. Janson, H. W.; Key Monuments of the History of Art: a visual survey., Text Edition, Fourth Printing, Englewood Cliffs, NJ and New York: Prentice-Hall and Harry N. Abrams, 1962"@en .
+<http://opaquenamespace.org/ns/repository/CologneCathedral> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/CologneCathedral> <http://www.w3.org/2000/01/rdf-schema#label> "Cologne Cathedral"@en .
+<http://opaquenamespace.org/ns/repository/CologneCathedral> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

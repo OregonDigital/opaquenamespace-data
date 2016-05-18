@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://www.w3.org/2000/01/rdf-schema#comment> "Kunst- und Ausstelleungshalle der Bundesrepublik Deutschland; Gandhara: Das Buddhistische Erbe Pakistans Legenden, Klï¿½ster und Paradiese, Mainz: Verlag Philipp von Zabern, 2008. Director-General of the Archaeological Survey of India from 1902 to 1928; director of the archaeological museum at Taxila, Pakistan for twenty years."@en .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://www.w3.org/2000/01/rdf-schema#label> "Marshall, Sir John Hubert"@en .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MarshallSirJohnHubert> <http://www.w3.org/2001/XMLSchema#date> "1876-1958"@en .

@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/SansoCollection> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/SansoCollection> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/SansoCollection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/SansoCollection> <http://www.w3.org/2000/01/rdf-schema#comment> "Sanso Collection, United States. Zaigai Nihon no shih? (Japanese Art: Selections from Western Collections) v.3, Tokyo: Mainichi Shinbunsha, 1979"@en .
+<http://opaquenamespace.org/ns/repository/SansoCollection> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/SansoCollection> <http://www.w3.org/2000/01/rdf-schema#label> "Sanso Collection"@en .
+<http://opaquenamespace.org/ns/repository/SansoCollection> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

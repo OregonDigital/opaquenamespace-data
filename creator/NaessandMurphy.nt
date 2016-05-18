@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://www.w3.org/2000/01/rdf-schema#comment> "UO VRC Slide Collections. The firm Shaw, Naess and Murphy, founded by Alfred Shaw, Sigurd Naess and Charles F. Murphy in 1937, became Naess and Murphy, then C.F. Murphy Associates in 1957, and Murphy/Jahn in 1981. Gene R. Summers was Partner in Charge of Design at C.F. Murphy Associates from 1967 to 1973. Helmut Jahn joined C.F. Murphy Associates in 1967. He became Principal and Director of Planning and Design in 1973. C.F. Murphy Associates and Pace Associates were associated architectural firms with Ludwig Mies van der Rohe for Crown Hall (Illinois Institute of Technology, Chicago, Illinois), 1950-1956."@en .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://www.w3.org/2000/01/rdf-schema#label> "Naess and Murphy"@en .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/NaessandMurphy> <http://www.w3.org/2001/XMLSchema#date> "until 1957"@en .

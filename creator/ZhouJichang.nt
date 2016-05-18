@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). z46j24c35 Alternate names: Chou Chi-ch'ang, ??? Song dynasty Two obscure painters of Ningbo, for instance, Zhou Jichang and Lin Tinggui (neither of them Chan Buddhists), responded in 1178 to a commission from Japan to produce the set of 100 hanging scrolls representing 500 arhats (all but 12 in Shinjuan, Daitokuji, Kyoto); they were painted in a style then current in the imperial academy in nearby Lin?an (modern Hangzhou). --DOA"@en .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://www.w3.org/2000/01/rdf-schema#label> "Zhou, Jichang"@en .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhouJichang> <http://www.w3.org/2001/XMLSchema#date> "active ca. 1160 - 1188"@en .

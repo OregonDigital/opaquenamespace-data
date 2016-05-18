@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/LinChun> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). l38c53 Alternate names: Lin Ch'un, ?? Song dynasty Painted flowers and birds, following Zhao Chang. --Seymour (Re: Li Di) In his style as well as his choice of subject-matter Li Di is very close to another Southern Song painter, Lin Chun (fl 12th?13th century), who also came from Qiantang near Hangzhou and who also served in the Imperial Painting Academy. --DOA"@en .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://www.w3.org/2000/01/rdf-schema#label> "Lin, Chun"@en .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LinChun> <http://www.w3.org/2001/XMLSchema#date> "12th century"@en .

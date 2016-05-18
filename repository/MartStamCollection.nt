@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/MartStamCollection> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/MartStamCollection> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/MartStamCollection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/MartStamCollection> <http://www.w3.org/2000/01/rdf-schema#comment> "Mart Stam Collection, New York, New York, United States. Itten, Johannes; Art of Color: the Subjective Experience and Objective Rationale of Color, English edition, New York: John Wiley & Sons, Inc., 2002"@en .
+<http://opaquenamespace.org/ns/repository/MartStamCollection> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/MartStamCollection> <http://www.w3.org/2000/01/rdf-schema#label> "Mart Stam Collection"@en .
+<http://opaquenamespace.org/ns/repository/MartStamCollection> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

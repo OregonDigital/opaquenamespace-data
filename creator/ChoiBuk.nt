@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://www.w3.org/2000/01/rdf-schema#comment> "New History of World Art (Sekai bijutsu daizenshu. Toyo hen) v. 11, Tokyo: Shogakkan, 1997. Choi Buk, was a painter of the late Joseon period. Anything related to his social status and birth place and date are not known. Choi Buk was acquainted with Danwon, Kim Deuksin, Yi Inmun, but his works are dissimilar to theirs. The representative works painted by Choi Buk are Geumgangsan pyohunsado (??? ????), Joeosansu (????), Cho-ok sansudo (?????)."@en .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://www.w3.org/2000/01/rdf-schema#label> "Choi, Buk"@en .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ChoiBuk> <http://www.w3.org/2001/XMLSchema#date> "late Chosen period"@en .

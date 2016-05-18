@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://www.w3.org/2000/01/rdf-schema#comment> "Oursel, Raymond; Living Architecture: Romanesque, London: Oldbourne, 1967. Bï¿½chtelenweg 4 CH-3084 Wabern-Bern Telefon: +41 31 960 82 44 Telefax: +41 31 960 82 72 druckerei@druckmarkt-schweiz.ch (fï¿½r Druckunterlagen) media@druckmarkt-schweiz.ch (fï¿½r Media-Unterlagen)"@en .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://www.w3.org/2000/01/rdf-schema#label> "Buri Druck AG"@en .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BuriDruckAG> <http://www.w3.org/2001/XMLSchema#date> "active 20th century"@en .

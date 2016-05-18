@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://www.w3.org/2000/01/rdf-schema#comment> "Gurrieri, Francesco; Cathedral of Santa Maria del Fiore in Florence, Florence: Cassa di Risparmio, 1994. Italian jurist, mathematician, writer and humanist who completed his law studies in Padua, settled in Florence, critic of the architectural designs of the dome of the Santa Maria del Fiore by Brunelleschi"@en .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://www.w3.org/2000/01/rdf-schema#label> "Gherardo da Prato, Giovanni di"@en .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/GherardodaPratoGiovannidi> <http://www.w3.org/2001/XMLSchema#date> "1360-before 1446"@en .

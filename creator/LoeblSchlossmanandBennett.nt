@@ -1,0 +1,14 @@
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://schema.org/additionalName> "Loebl, Schlossman & Bennett"@en .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://www.w3.org/2000/01/rdf-schema#comment> "Saliga, Pauline A.; Sky's the Limit: A Century of Chicago Skyscrapers, New York: Rizzoli International Publications, Inc., 1990. Later became Loeble Schlossman and Hackl"@en .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://www.w3.org/2000/01/rdf-schema#label> "Loebl, Schlossman and Bennett"@en .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LoeblSchlossmanandBennett> <http://www.w3.org/2001/XMLSchema#date> "1925-ca. 1963"@en .

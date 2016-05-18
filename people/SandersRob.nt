@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/people/SandersRob> <http://purl.org/dc/terms/issued> "2016-04-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/SandersRob> <http://purl.org/dc/terms/modified> "2016-04-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/SandersRob> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/SandersRob> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon Athletics Department donor. Son of Robert Sanders, UO football player"@en .
+<http://opaquenamespace.org/ns/people/SandersRob> <http://www.w3.org/2000/01/rdf-schema#label> "Sanders, Rob"@en .

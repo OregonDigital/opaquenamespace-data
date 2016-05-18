@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. alternate names: Agha Mirak, in full Sayyid Aqa Jalal Ad-din Mirak Al-hasani Persian painter, an admired portraitist and an excellent colourist, who painted in a sumptuous style. A descendant of the Prophet Muhammad and a native of Esfahan, he worked mostly in Tabriz, the capital of the Safavid empire. He knew the Persian painter Behzad, who was director of the royal library and its manager of manuscript illustration. Aqa Mirak, as one of the senior court artists, was a colleague of the highly regarded painter Sultan Muhammad. He also was the teacher of Shah Quli, a Persian painter later active at the court of the Ottoman sultan Sï¿½leyman the Magnificent. A bon vivant and poet, Aqa Mirak became a boon companion of the Safavid Shah Tahmasp I, who was a committed patron of the arts."@en .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://www.w3.org/2000/01/rdf-schema#label> "Aqa Mirak"@en .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/AqaMirak> <http://www.w3.org/2001/XMLSchema#date> "fl. 16th century"@en .

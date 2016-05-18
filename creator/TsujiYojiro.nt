@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://www.w3.org/2000/01/rdf-schema#comment> "Tsuji, Nobuo, Kiyoshi Hirai, and Yoshiaki Yabe; Shiro to chashitsu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992. Nishimura D?nin (1504?55), another master tea kettle maker employed by J??, also cast temple bells and lanterns. His pupil Tsuji Yojir? made kettles for Sen no riky?, who was Toyotomi Hideyoshi?s tea master. Riky? had the Kyoto craftsman Tsuji Yojir? ( fl late 16th century) cast a simple but elegantly proportioned iron vessel, such as one named Amidad?gama (?Amida Hall Kettle?); its upper half was patterned with small bosses."@en .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://www.w3.org/2000/01/rdf-schema#label> "Tsuji, Yojiro"@en .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/TsujiYojiro> <http://www.w3.org/2001/XMLSchema#date> "16th century"@en .

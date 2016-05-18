@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional> <http://www.w3.org/2000/01/rdf-schema#comment> "Clark, Rosalind; Architecture Oregon Style, Portland, OR: Professional Book Center, 1983."@en .
+<http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional> <http://www.w3.org/2000/01/rdf-schema#label> "Northwest Regional"@en .
+<http://opaquenamespace.org/ns/stylePeriod/NorthwestRegional> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://www.w3.org/2000/01/rdf-schema#comment> "Roberts, Laurance P.; Dictionary of Japanese Artists: Painting, Sculpture, Ceramics, Prints, Lacquer, First paperback edition, Tokyo; New York: Weatherhill, 1990. Japanese Ukiyo-e artist and poet, born and worked in Osaka, produced posters and actor prints. Alt. names: Ashimaro (Yoshimaro), Ashimaru, Jukodo, Ko Yoshikuni, Kojodo."@en .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://www.w3.org/2000/01/rdf-schema#label> "Yoshikuni, Toyokawa"@en .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YoshikuniToyokawa> <http://www.w3.org/2001/XMLSchema#date> "active 1803-ca. 1840"@en .

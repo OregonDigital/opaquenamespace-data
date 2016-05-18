@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/YangXun> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://www.w3.org/2000/01/rdf-schema#comment> "Cahill, James; Parting at the Shore: Chinese Painting of the Early and Middle Ming Dynasty, 1368-1580, New York; Tokyo: Weatherhill, 1978. Chinese painter in the Ming Dynasty"@en .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://www.w3.org/2000/01/rdf-schema#label> "Yang, Xun"@en .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YangXun> <http://www.w3.org/2001/XMLSchema#date> "active late 15th century"@en .

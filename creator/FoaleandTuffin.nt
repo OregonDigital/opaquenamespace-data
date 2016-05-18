@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://www.w3.org/2000/01/rdf-schema#comment> "Howell, Georgina; In Vogue: Six Decades of Fashion, reprint of the 1975 edition, London: Allen Lane, Penguin Books Ltd., 1976. Marion Foale and Sally Tuffin studied together at the Royal College of Art and left to start a clothing design business in Carnaby Street. Together with Mary Quant and Betsey Johnson, Foale and Tuffin were licensed to Puritan Fashion Corporation under a label called Paraphernalia."@en .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://www.w3.org/2000/01/rdf-schema#label> "Foale & Tuffin"@en .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/FoaleandTuffin> <http://www.w3.org/2001/XMLSchema#date> "1961-ca. 1975"@en .

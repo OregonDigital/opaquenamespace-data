@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://www.w3.org/2000/01/rdf-schema#comment> "UO VRC Slide Collections. king of the Konbaung dynasty, second son of the dynasty founder Alaungpaya and considered the most militaristic king of the dynasty, through which he preserved Burma's independence over four Chinese invasions and a victory over Siam in 1767."@en .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://www.w3.org/2000/01/rdf-schema#label> "Hsinbyushin, King of Burma"@en .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HsinbyushinKingofBurma> <http://www.w3.org/2001/XMLSchema#date> "r. 1763-1776"@en .

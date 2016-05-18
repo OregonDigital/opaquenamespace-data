@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio> <http://www.w3.org/2000/01/rdf-schema#comment> "Robinson, William H, Jordi Falgï¿½s, and Carmen Belen Lord; Barcelona and Modernity: Picasso, Gaudï¿½, Mirï¿½, Dalï¿½, Cleveland, New Haven: Cleveland Museum of Art, Yale University Press, 2006. A Spanish avant-garde movement associated with Joaquï¿½n Torres-Garcï¿½a.  His focus on the subject of the city offered a clean break from the classicism of Noucentisme and was well suited for his experiments in cubist form.  Art-Evoluciï¿½ was one of the first movements in Spain to integrate the formal innovations and theories prevalent in the broader European avant-garde."@en .
+<http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio> <http://www.w3.org/2000/01/rdf-schema#label> "Art-Evoluciï¿½"@en .
+<http://opaquenamespace.org/ns/stylePeriod/ArtEvolucio> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). z37s43l28 Alternate names: Chao Shih-lei, ??? Song dynasty Member of the Imperial house of SOng. Official in Guangdong province. Painted river scenery, flowers, and bamboo. --Seymour"@en .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://www.w3.org/2000/01/rdf-schema#label> "Zhao, Shilei"@en .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhaoShilei> <http://www.w3.org/2001/XMLSchema#date> "ca. 1098 - 1150"@en .

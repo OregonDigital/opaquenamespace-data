@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://www.w3.org/2000/01/rdf-schema#comment> "Hiesinger, Kathryn Bloom; Art Nouveau in Munich: Masters of Jugendstil from the Stadtmuseum, Munich, and Other Public and Private Collections, Philadelphia, Munich: Philadelphia Museum of Art, Prestel-Verlag, 1988. corporation, Munich"@en .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://www.w3.org/2000/01/rdf-schema#label> "Wenzel Till"@en .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WenzelTill> <http://www.w3.org/2001/XMLSchema#date> "before 1897"@en .

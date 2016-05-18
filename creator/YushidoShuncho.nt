@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://www.w3.org/2000/01/rdf-schema#comment> "Hiller, J.; Japanese Colour Prints, Third Edition, Second Impression, London: Phaidon Press Ltd., 1993 (0714827215). suspect, but cannot confirm that he is the same as Katsukawa Shunch?, sometimes called Yushido --JCS"@en .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://www.w3.org/2000/01/rdf-schema#label> "Yushido, Shuncho"@en .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YushidoShuncho> <http://www.w3.org/2001/XMLSchema#date> "ca. 1780-1800"@en .

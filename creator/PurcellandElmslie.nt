@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://www.w3.org/2000/01/rdf-schema#comment> "Peirce, Donald C.; Art & Enterprise: American Decorative Art, 1825-1917: The Virginia Carroll Crawford Collection, Atlanta: High Museum of Art, 1999 (0939802872). Based in Minneapolis and Chicago, giving way to George Grant Elmslie & Associaitons, an informal partnership with Elmslie, Lawrence A. Fournier and Frederick A. Strauel."@en .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://www.w3.org/2000/01/rdf-schema#label> "Purcell and Elmslie"@en .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PurcellandElmslie> <http://www.w3.org/2001/XMLSchema#date> "1912-1921"@en .

@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://www.w3.org/2000/01/rdf-schema#comment> "Wachs, Iris; Half a Century of Chinese Woodblock Prints: From the Communist Revoltuion to the Open-Door Policy and Beyond, 1945-1998, Ein Harod (Israel): Museum of Art in Ein Harod, 1999. In 1984 Huang entered the print department of the Central Academy of Fine Arts. He specializes in depictions of the human figure in a style that has been called 'rogue cynicism,' because the people portrayed are not idealized."@en .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://www.w3.org/2000/01/rdf-schema#label> "Huang, Huaxiang"@en .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HuangHuaxiang> <http://www.w3.org/2001/XMLSchema#date> "born 1962"@en .

@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://www.w3.org/2000/01/rdf-schema#comment> "Smith, Lawrence; Ukiyoe: Images of Unknown Japan, London: British Museum Publications, Ltd., 1988. He was probably a member of the official Kano School of painters, but he clearly cannot be the Kano Hironobu known to have lived in the early eighteenth century."@en .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://www.w3.org/2000/01/rdf-schema#label> "Hironobu"@en .
+<http://opaquenamespace.org/ns/creator/Hironobu> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

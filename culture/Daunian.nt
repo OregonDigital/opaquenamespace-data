@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/culture/Daunian> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Daunian> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Daunian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/culture/Daunian> <http://www.w3.org/2000/01/rdf-schema#comment> "http://en.wikipedia.org/wiki/Daunia. The Daunia is a historical and geographical region in Apulia, southern Italy, mostly coincident with modern Province of Foggia. Its inhabitants were called the Daunians by the ancient Greeks and were also known as the Daunii and the Apulians to the ancient Romans."@en .
+<http://opaquenamespace.org/ns/culture/Daunian> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/culture/Daunian> <http://www.w3.org/2000/01/rdf-schema#label> "Daunian"@en .
+<http://opaquenamespace.org/ns/culture/Daunian> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

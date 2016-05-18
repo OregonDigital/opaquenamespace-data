@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://www.w3.org/2000/01/rdf-schema#comment> "New History of World Art (Sekai bijutsu daizenshu. Toyo hen) v. 11, Tokyo: Shogakkan, 1997. King Gongmin (1330?1374) ruled Goryeo Dynasty Korea from 1351 until 1374. He was the second son of King Chungsuk. In addition to his various Korean names (see right), he bore the Mongolian name Bay?n Tem?r (?????)."@en .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://www.w3.org/2000/01/rdf-schema#comment> "New History of World Art (Sekai bijutsu daizenshu. Toyo hen) v. 11, Tokyo: Shogakkan, 1997. King Gongmin (1330?1374) ruled Goryeo Dynasty Korea from 1351 until 1374. He was the second son of King Chungsuk. In addition to his various Korean names (see right), he bore the Mongolian name Bayï¿½n Temï¿½r (?????)."@en .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://www.w3.org/2000/01/rdf-schema#label> "King Gongmin"@en .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/KingGongmin> <http://www.w3.org/2001/XMLSchema#date> "1330?1374"@en .

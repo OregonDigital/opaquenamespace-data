@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Born in the Netherlands, Hassink (1966) is most known for her global photo art projects that deal with the world of economic power. In a precise and almost scientific way she has mapped the economic globalization of our society by focusing on global FORTUNE 500 companies since 1993. She has collaborated with the most powerful CEOs in the world on projects that take place primarily in their headquarters."@en .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://www.w3.org/2000/01/rdf-schema#label> "Hassink, Jacqueline"@en .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HassinkJacqueline> <http://www.w3.org/2001/XMLSchema#date> "born 1966"@en .

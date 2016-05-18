@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://www.w3.org/2000/01/rdf-schema#comment> "Wachs, Iris; Half a Century of Chinese Woodblock Prints: From the Communist Revoltuion to the Open-Door Policy and Beyond, 1945-1998, Ein Harod (Israel): Museum of Art in Ein Harod, 1999. Jiang Bibo was born in Guiyang, Guizhou province. Upon her graduation from Sichuan Academy of Fine Arts in 1962, Jiang joined the faculty and later became a professor and head for the print department, She has studied oil painting and also is an accomplished sculptor. From 1985-1987 she was a visiting professor, first in the United States and then in Canada. She has been a member of the council of the Chinese Artists' Association and a member of the Chinese Printmakers' Association."@en .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://www.w3.org/2000/01/rdf-schema#label> "Jiang, Bibo"@en .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/JiangBibo> <http://www.w3.org/2001/XMLSchema#date> "born 1939"@en .

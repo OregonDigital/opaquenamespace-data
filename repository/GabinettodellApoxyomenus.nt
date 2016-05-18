@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/GabinettodellApoxyomenus> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/GabinettodellApoxyomenus> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/GabinettodellApoxyomenus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/GabinettodellApoxyomenus> <http://www.w3.org/2000/01/rdf-schema#comment> "Gabinetto dell' Apoxyomenus, Rome (Vatican City), Holy See (Santa Sede), Italy. Becatti, Giovanni; Art of Ancient Greece and Rome: From the Rise of Greece to the Fall of Rome, New York: Harry N. Abrams, Inc. Publishers, 1967"@en .
+<http://opaquenamespace.org/ns/repository/GabinettodellApoxyomenus> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/GabinettodellApoxyomenus> <http://www.w3.org/2000/01/rdf-schema#label> "Gabinetto dell' Apoxyomenus"@en .
+<http://opaquenamespace.org/ns/repository/GabinettodellApoxyomenus> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

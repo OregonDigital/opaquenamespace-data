@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://www.w3.org/2000/01/rdf-schema#comment> "Rennert, Jack; Posters of the Belle Epoque: the Wine Spectator Collection, New York: Wine Spectator Press, 1990. A self-taught amateur, Biais left little data about himself. He gained some notoriety with his humorous drawings, and executed a series of drawings for two Paris hospitals. For a time, he became somewhat famous as Jane Avril's husband. Belatedly, he became interested in lithography and executed some posters for his wife and other stage personalities."@en .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://www.w3.org/2000/01/rdf-schema#label> "Biais, Maurice"@en .
+<http://opaquenamespace.org/ns/creator/BiaisMaurice> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

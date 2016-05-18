@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://www.w3.org/2000/01/rdf-schema#comment> "Chueca, Pilar; Sustainable Homes, Barcelona: Links, 2009. Students participating in the Solar Decathlon competition organized by the U.S. Department of Energy and the National Renewable Energy Laboratory"@en .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://www.w3.org/2000/01/rdf-schema#label> "Students at the University of Virginia"@en .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/StudentsattheUniversityofVirginia> <http://www.w3.org/2001/XMLSchema#date> "ca. 2005"@en .

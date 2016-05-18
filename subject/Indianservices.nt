@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://www.w3.org/2000/01/rdf-schema#comment> "US Department of the Interior, Bureau of Indian Affairs, Office of Indian Services. As defined by their website, the Office of Indian Services Mission is: To facilitate support for tribal people and tribal governments by promoting safe and quality living environments, strong communities, self sufficient and individual rights, while enhancing protection of the lives, prosperity and well being of American Indians and Alaska Natives."@en .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://www.w3.org/2000/01/rdf-schema#label> "Indian services"@en .
+<http://opaquenamespace.org/ns/subject/Indianservices> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

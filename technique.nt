@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/technique> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/technique> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/technique> <http://purl.org/dc/terms/publisher> "Opaque Namespace"@en .
+<http://opaquenamespace.org/ns/technique> <http://purl.org/dc/terms/title> "Technique controlled vocabulary"@en .
+<http://opaquenamespace.org/ns/technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .

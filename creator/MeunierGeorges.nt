@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://www.w3.org/2000/01/rdf-schema#comment> "Rennert, Jack; Posters of the Belle Epoque: the Wine Spectator Collection, New York: Wine Spectator Press, 1990. Georges Meunier (1869-1942), a native of Paris, was educated both in the classical tradition and in the new decorative arts. He started as a painter, good enough to have works accepted for the exhibition by the Sociï¿½tï¿½ des Artistes Franï¿½ais as well as the Salon des Humoristes. In poster work, in which he became active at the age of 25, he was greatly influenced by Jules Chï¿½ret; in fact, much of his work was lithographed at the Chaix shop where Chï¿½ret also did his posters. A majority of Georges Meunier's poster output dates from the Golden Years, 1894-98; later, he became more active as a book illustrator."@en .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://www.w3.org/2000/01/rdf-schema#label> "Meunier, Georges"@en .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MeunierGeorges> <http://www.w3.org/2001/XMLSchema#date> "1869-1942"@en .

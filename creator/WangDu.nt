@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/WangDu> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://www.w3.org/2000/01/rdf-schema#comment> "Fibicher, Bernhard and Matthias Frehner; Mahjong: Contemporary Chinese Art from the Sigg Collection, Ostfildern: Hatje Cantz Verlag, 2005. Chinese artist, born in Wuhan, Hubei Province; graduated 1985 from the Academy of Fine Arts, Guangzhou; has lived and worked in Paris since 1990."@en .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://www.w3.org/2000/01/rdf-schema#label> "Wang, Du"@en .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WangDu> <http://www.w3.org/2001/XMLSchema#date> "b. 1956"@en .

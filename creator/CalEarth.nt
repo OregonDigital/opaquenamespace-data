@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://www.w3.org/2000/01/rdf-schema#comment> "Uffelen, Chris van; Low Price Houses, Salenstein: Braun, 2011. The California Institute of Earth Art and Architecture is a foundation that focuses on Earth and Ceramic Architecture technologies. Founded in 1986 by its director, Nader Khalili (1936-2008), its scope spans technical innovations published by NASA for lunar and Martian construction, to housing design and development for the world's homeless for the United Nations."@en .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://www.w3.org/2000/01/rdf-schema#label> "Cal-Earth"@en .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CalEarth> <http://www.w3.org/2001/XMLSchema#date> "founded 1986"@en .

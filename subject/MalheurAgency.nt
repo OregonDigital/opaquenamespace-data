@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://schema.org/additionalName> "United States. Office of Indian Affairs. Malheur Agency"@en .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://www.w3.org/2000/01/rdf-schema#comment> "Division of the US Department of the Interior, Bureau of Indian Affairs, that oversaw the Malheur Indian Reservation in southeast Oregon."@en .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://www.w3.org/2000/01/rdf-schema#label> "Malheur Agency"@en .
+<http://opaquenamespace.org/ns/subject/MalheurAgency> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://www.w3.org/2000/01/rdf-schema#comment> "Gao Minglu; Inside Out: New Chinese Art, San Francisco, New York, Berkeley: San Francisco Museum of Modern Art, Asia Society Galleries, University of California Press, 1998. Chinese artist; alternate name: Man Ching-Ying. Born in Hong Kong, studied at Chinese University of Hong Kong, 1991."@en .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://www.w3.org/2000/01/rdf-schema#label> "Man, Phoebe"@en .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ManPhoebe> <http://www.w3.org/2001/XMLSchema#date> "born 1969"@en .

@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/WenShu> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). w27s45 Alternate names: Wen Shu, ?? Ming dynasty One of the most important women painters of the Ming dynasty. Member of prestigious Wen family in Suzhou, Jiangsu province. Daughter of Wen Congjian, a landscape painter and descendant of Wen Zhenming. Shu married Zhao Lingzhun, a descedant of an equally distinguished family that included Zhao Mengfu (husband of Guan Daosheng). The families lived in 'refined retirement.' Shu began to paint after the Zhao family fortunes declined, possibly to help support the family. A skilled painter of flowers, rocks, pines, insects, and figures, she soon gained a reputation and was teaching as well as selling her work. Her daughter painted orchids and bamboo. --Weidner"@en .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://www.w3.org/2000/01/rdf-schema#label> "Wen, Shu"@en .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WenShu> <http://www.w3.org/2001/XMLSchema#date> "1595 - 1634"@en .

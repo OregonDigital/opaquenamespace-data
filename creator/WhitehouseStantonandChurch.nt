@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://www.w3.org/2000/01/rdf-schema#comment> "http://nwda.orbiscascade.org/ark:/80444/xv29419. During the early 1920s, Whitehouse practiced under the firm name of Morris H. Whitehouse, Architect. In 1926, the name was changed to Morris H. Whitehouse & Associates after he established a partnership with A. Glenn Stanton and Walter E. Church. Significant projects from this period include Temple Beth Israel, the United States Courthouse, and Multnomah Civic Stadium in Portland, Or. In 1932, the firm became known as Whitehouse, Stanton & Church, but Stanton left to start his own firm in 1935."@en .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://www.w3.org/2000/01/rdf-schema#label> "Whitehouse, Stanton & Church"@en .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WhitehouseStantonandChurch> <http://www.w3.org/2001/XMLSchema#date> "1932-1935"@en .

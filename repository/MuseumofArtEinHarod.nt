@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/repository/MuseumofArtEinHarod> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/MuseumofArtEinHarod> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/MuseumofArtEinHarod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/MuseumofArtEinHarod> <http://www.w3.org/2000/01/rdf-schema#comment> "Museum of Art Ein Harod , 'En H?arod, Northern, Israel. Wachs, Iris; Half a Century of Chinese Woodblock Prints: From the Communist Revoltuion to the Open-Door Policy and Beyond, 1945-1998, Ein Harod (Israel): Museum of Art in Ein Harod, 1999"@en .
+<http://opaquenamespace.org/ns/repository/MuseumofArtEinHarod> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/repository/MuseumofArtEinHarod> <http://www.w3.org/2000/01/rdf-schema#label> "Museum of Art Ein Harod"@en .
+<http://opaquenamespace.org/ns/repository/MuseumofArtEinHarod> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

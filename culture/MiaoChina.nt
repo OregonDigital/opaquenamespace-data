@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/culture/MiaoChina> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/MiaoChina> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/MiaoChina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/culture/MiaoChina> <http://www.w3.org/2000/01/rdf-schema#comment> "Garrett, Valery M; Chinese clothing : an illustrated guide, Hong Kong ; New York: Oxford University Press, 1994. The Miao (Chinese: ï¿½??; pinyin: MiÃ¡o) are a linguistically and culturally related group of people recognized by the government of the People's Republic of China as one of the 56 official minority groups."@en .
+<http://opaquenamespace.org/ns/culture/MiaoChina> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/culture/MiaoChina> <http://www.w3.org/2000/01/rdf-schema#label> "Miao (China)"@en .
+<http://opaquenamespace.org/ns/culture/MiaoChina> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

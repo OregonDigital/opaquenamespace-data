@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://www.w3.org/2000/01/rdf-schema#comment> "Yang Xiaoneng; Tracing the Past, Drawing the Future: Master Ink Painters in Twentieth-Century China, Milan: Continents Editions, 2010. Chinese painter, calligrapher and celebrated seal carver; alternate name: Zhongzheng, also known as Yinnong; native of the Xiaoshan District of Hangzhou in Zhejiang province; known for his elegant seal and clerical scripts, particularly the 'jade sinew' seal script and his 'tiny bead character' seals were widely admired."@en .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://www.w3.org/2000/01/rdf-schema#label> "Han, Deng'an"@en .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/HanDengan> <http://www.w3.org/2001/XMLSchema#date> "1905-1976"@en .

@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://www.w3.org/2000/01/rdf-schema#comment> "Bradbury, Dominic; Iconic House: Architectural Masterworks since 1900, London: Thames & Hudson, 2009. originally established in 1931 as Scott and Good, becoming Michael Scott Architect in 1938 and Michael Scott and Partners in 1957. Head office located in Dublin and additional offices in London, Galway and Cork."@en .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://www.w3.org/2000/01/rdf-schema#label> "Scott Tallon Walker"@en .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ScottTallonWalker> <http://www.w3.org/2001/XMLSchema#date> "est. 1975"@en .

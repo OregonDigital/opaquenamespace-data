@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Partnership of F.G. Collinson and G.J. Lock, former employees of Jackson & Graham who employed designers including T.E. Collcutt and E.W. Godwin (who produced exclusive designs for the company from 1872-1874)."@en .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://www.w3.org/2000/01/rdf-schema#label> "Collinson & Lock"@en .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CollinsonandLock> <http://www.w3.org/2001/XMLSchema#date> "1870-1897"@en .

@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/culture/Chokwe> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Chokwe> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Chokwe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/culture/Chokwe> <http://www.w3.org/2000/01/rdf-schema#comment> "Biebuyck, Daniel P., Susan Kelliher and Linda McRae; African Ethnonyms: Index to Art-Producing People of Africa, New York: G. K. Hall, 1996. Angola, Zaire,  Zambia Alternate name: Bachokwe, Badjok, Badjokwe, Bajokwe, Batshioko, Ciokwe, Cokwe, Djok, Djokwe, Kioko, Kiokue, Quioco, Shioko, Tschokwe, Tshioko, Tshokwe, Tuchokwe, Watschiwokwe Bantu language  Chokwe is the current usage in most art sources while linguists seem to prefer the form Cokwe. One of the groups included in the Lunda-Lovale peoples."@en .
+<http://opaquenamespace.org/ns/culture/Chokwe> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/culture/Chokwe> <http://www.w3.org/2000/01/rdf-schema#label> "Chokwe"@en .
+<http://opaquenamespace.org/ns/culture/Chokwe> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

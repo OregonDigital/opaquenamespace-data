@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/georss/box> <http://purl.org/dc/terms/issued> "2016-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/georss/box> <http://purl.org/dc/terms/modified> "2016-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/georss/box> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/georss/box> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://www.georss.org/model.html"@aa .
+<http://opaquenamespace.org/ns/georss/box> <http://www.w3.org/2000/01/rdf-schema#label> "Bounding Box"@en .
+<http://opaquenamespace.org/ns/georss/box> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://www.georss.org/model.html"@aa .

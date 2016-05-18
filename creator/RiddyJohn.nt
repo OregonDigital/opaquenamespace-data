@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. b. 1959, Northampton, England. One of the most distinctive voices in British contemporary photography, John Riddy?s practice exists in a singular relationship to a particular photographic inheritance. His photographs are meditations on the individuality and poetry of certain places. His subject matter is broad ? ranging from the unassuming domestic interior to images of Renaissance or Modernist architecture and the specific qualities of certain city spaces. Time, atmosphere, spatial illusion and cultural histories are compressed and extended in pictures that aim to defeat our expectations of photographic descriptions."@en .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://www.w3.org/2000/01/rdf-schema#label> "Riddy, John"@en .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RiddyJohn> <http://www.w3.org/2001/XMLSchema#date> "born 1959"@en .

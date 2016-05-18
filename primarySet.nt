@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/primarySet> <http://purl.org/dc/terms/issued> "2016-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/primarySet> <http://purl.org/dc/terms/modified> "2016-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/primarySet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://opaquenamespace.org/ns/primarySet> <http://www.w3.org/2000/01/rdf-schema#comment> "Used to hold a single, unique Set, that can be used for OAI purposes."@en .
+<http://opaquenamespace.org/ns/primarySet> <http://www.w3.org/2000/01/rdf-schema#label> "Primary Set"@en .

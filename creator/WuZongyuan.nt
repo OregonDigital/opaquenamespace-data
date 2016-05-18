@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). w32z58y37 Alternate names: Wu Tsung-yï¿½an, ??? Northern Song dynasty From Hunan province. Painted Buddhist and Daoist figures, imitated Daozi and Wang Kuan. -- Seymour In the Northern Song period (960?1127), the new capital at Bianliang (modern Kaifeng, Henan Province), became the centre of Chinese painting. By the mid-11th century Wu Zongyuan (d 1050) dominated figure painting; his style was based on the bravura manner of Wu Daozi. --DOA"@en .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://www.w3.org/2000/01/rdf-schema#label> "Wu, Zongyuan"@en .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WuZongyuan> <http://www.w3.org/2001/XMLSchema#date> "early 11th century, d. 1050"@en .

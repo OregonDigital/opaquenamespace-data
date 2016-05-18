@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://www.w3.org/2000/01/rdf-schema#comment> "Built by Marlboro Packard, of Searsport Main in 1869, the John C. Potter was a cargo ship that ran between San Francisco and Seattle carrying lumber from 1888-1903"@en .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://www.w3.org/2000/01/rdf-schema#label> "John C. Potter (Ship)"@en .
+<http://opaquenamespace.org/ns/subject/JohnCPotterShip> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

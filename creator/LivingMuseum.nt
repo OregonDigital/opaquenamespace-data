@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://www.w3.org/2000/01/rdf-schema#comment> "Heartney, Eleanor; Art & Today, New York: Phaidon Press, Inc., 2008. a group of artists-in-residence at the Creedmoor Psychiatric Center in Queens, NY who are also patients at the hospital. The project refuse to consider their artmaking simply a form of therapy or as a diagnostic tool."@en .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://www.w3.org/2000/01/rdf-schema#label> "Living Museum"@en .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LivingMuseum> <http://www.w3.org/2001/XMLSchema#date> "founded 1983"@en .

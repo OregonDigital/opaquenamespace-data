@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/RenXun> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). r26x37 Alternate names: Jen Hsï¿½n, ?? Qing dynasty From Zhejiang. He is grouped with his older brother Ren Xiong (1820-1864), his son Ren Yu (1853?1901) and his student Ren yi as one of the ?Four Rens? who dominated late 19th-century painting in Shanghai. --DOA Painted flowers, figures, family tradition. --Seymour"@en .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://www.w3.org/2000/01/rdf-schema#label> "Ren, Xun"@en .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RenXun> <http://www.w3.org/2001/XMLSchema#date> "1835 - 1893"@en .

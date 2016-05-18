@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/localCollectionName/GertrudeBassWarnerPapers19091923> <http://purl.org/dc/terms/issued> "2015-12-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GertrudeBassWarnerPapers19091923> <http://purl.org/dc/terms/modified> "2015-12-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GertrudeBassWarnerPapers19091923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/GertrudeBassWarnerPapers19091923> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection Ax701 in Special Collections and University Archives, University of Oregon." .
+<http://opaquenamespace.org/ns/localCollectionName/GertrudeBassWarnerPapers19091923> <http://www.w3.org/2000/01/rdf-schema#label> "Gertrude Bass Warner Papers, 1909-1923" .

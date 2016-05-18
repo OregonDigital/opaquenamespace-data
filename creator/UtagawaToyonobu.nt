@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://www.w3.org/2000/01/rdf-schema#comment> "Pins, Jacob; Japanese Pillar Print: Hashira-e, London: Robert G. Sawers Publishing, 1982. Ukiyo-e printmaker. Some scholars feel that this is merely an early name for Utagawa Toyoharu; others regard him as identical with Ishikawa Toyonobu; still others think he was a pupil of Ishikawa Toyonobu. It is probable that he was a fellow-artist--and possibly and brother--of Toyoharu. Prints with this signature very rare: only six or so have survived."@en .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://www.w3.org/2000/01/rdf-schema#label> "Utagawa, Toyonobu"@en .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/UtagawaToyonobu> <http://www.w3.org/2001/XMLSchema#date> "fl. 1770-1780"@en .

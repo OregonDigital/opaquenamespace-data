@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13,  (1050138x). Fully developed in the transitional period from Zhengzhou to Anyang.  Patterns cover greater amount of vessel surface.  Decoration executed on the model, rather than in the mold.  Vessels of this type are found at Zhengzhou, Erligang, Panlongcheng, and Anyang."@en .
+<http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII> <http://www.w3.org/2000/01/rdf-schema#label> "Shang Style III"@en .
+<http://opaquenamespace.org/ns/stylePeriod/ShangStyleIII> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

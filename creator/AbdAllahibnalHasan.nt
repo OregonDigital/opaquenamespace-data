@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://www.w3.org/2000/01/rdf-schema#comment> "Grabar, Oleg; Dome of the Rock, New York: Rizzoli International Publications, 1996 (0847819426). architect of the rebuilt Aqsa Mosque"@en .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://www.w3.org/2000/01/rdf-schema#label> "'Abd Allah ibn al-Hasan"@en .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/AbdAllahibnalHasan> <http://www.w3.org/2001/XMLSchema#date> "1035"@en .

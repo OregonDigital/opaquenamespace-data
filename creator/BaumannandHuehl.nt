@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://www.w3.org/2000/01/rdf-schema#comment> "Condit, Carl W.; Chicago School of Architecture: a history of commercial and public building in the Chicago area, 1875-1925., Revised and Enlarged Edition, Paperback Edition, Chicago: University of Chicago Press, 1973. partnership formed in 1889 and ended with Baumann's untimely death in the same year. Harris W. Huehl completed their collaborative project, the Chamber of Commerce building in Chicago, singlehandedly."@en .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://www.w3.org/2000/01/rdf-schema#label> "Baumann and Huehl"@en .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BaumannandHuehl> <http://www.w3.org/2001/XMLSchema#date> "1889"@en .

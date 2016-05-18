@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/georss> <http://purl.org/dc/terms/issued> "2016-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/georss> <http://purl.org/dc/terms/modified> "2016-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/georss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
+<http://opaquenamespace.org/ns/georss> <http://www.w3.org/2000/01/rdf-schema#comment> "Enabling the use of GeoRSS predicates: http://www.georss.org/rdf_rss1.html"@en .
+<http://opaquenamespace.org/ns/georss> <http://www.w3.org/2000/01/rdf-schema#label> "GeoRSS"@en .

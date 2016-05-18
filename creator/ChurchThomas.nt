@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. American landscape architect who led the Modernist movement in California and designed and built more than 2000 gardens in his 50-year career"@en .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://www.w3.org/2000/01/rdf-schema#label> "Church, Thomas"@en .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ChurchThomas> <http://www.w3.org/2001/XMLSchema#date> "active ca. 1925-1977"@en .

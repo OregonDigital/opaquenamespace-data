@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Charles Henri Ford (February 10, 1913 - September 27, 2002) was an American poet, novelist, filmmaker, photographer, and collage artist best known for his editorship of the Surrealist magazine View (1940-1947) in New York City, and as the partner of the artist Pavel Tchelitchew."@en .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://www.w3.org/2000/01/rdf-schema#label> "Ford, Charles Henri"@en .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/FordCharlesHenri> <http://www.w3.org/2001/XMLSchema#date> "1913-2002"@en .

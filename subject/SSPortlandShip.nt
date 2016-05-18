@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://www.w3.org/2000/01/rdf-schema#comment> "The SS Portland was built in 1889 near Gloucester, Massachuseetts by the New England Shipbuilding Compnay. It transported over a ton of gold from the Klondike to Seattle Washington in 1897 and sparked the 1897-1898 gold rush. It sank in the Portland Gale off Cape Ann in 1898."@en .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://www.w3.org/2000/01/rdf-schema#label> "S.S. Portland (Ship)"@en .
+<http://opaquenamespace.org/ns/subject/SSPortlandShip> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

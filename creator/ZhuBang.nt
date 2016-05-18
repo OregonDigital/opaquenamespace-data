@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). z47b25 Alternate names: Chu Pang, ?? Ming dynasty From Anhui province. Painted landscapes and figures, followed Zhang Lu. --Seymour Zhe School: Others who followed Wu Wei, generally with less originality, were Jiang Song, a native of Nanjing, Zhu Bang from Anhui, and Chen Zihe and Zheng Wenlin from Fujian. These artists have usually been regarded by both Chinese and foreign writers as signalling a period of decline of the Zhe school, although some revisionist writers have challenged this view. --DOA"@en .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://www.w3.org/2000/01/rdf-schema#label> "Zhu, Bang"@en .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhuBang> <http://www.w3.org/2001/XMLSchema#date> "ca. 1522 - 1566"@en .

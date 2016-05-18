@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/subject/AllenEdwin> <http://purl.org/dc/terms/issued> "2016-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/AllenEdwin> <http://purl.org/dc/terms/modified> "2016-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/AllenEdwin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/subject/AllenEdwin> <http://www.w3.org/2000/01/rdf-schema#comment> "Lane County Circuit Court Judge, 1985 Lane County Distinguished University of Oregon Alumnus award winner, UO alumnus"@aa .
+<http://opaquenamespace.org/ns/subject/AllenEdwin> <http://www.w3.org/2000/01/rdf-schema#comment> "Lane County Circuit Court Judge, 1985 Lane County Distinguished University of Oregon Alumnus award winner, UO alumnus"@en .
+<http://opaquenamespace.org/ns/subject/AllenEdwin> <http://www.w3.org/2000/01/rdf-schema#label> "Allen, Edwin"@aa .
+<http://opaquenamespace.org/ns/subject/AllenEdwin> <http://www.w3.org/2000/01/rdf-schema#label> "Allen, Edwin"@en .

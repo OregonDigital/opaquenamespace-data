@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://www.w3.org/2000/01/rdf-schema#comment> "Coolidge, John; Mill and Mansion: a Study of Architecture and Society in Lowell, Massachusetts, 1820-1942, New York: Columbia University Press, 1942. photographer"@en .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://www.w3.org/2000/01/rdf-schema#label> "Noyes, Margaret"@en .
+<http://opaquenamespace.org/ns/creator/NoyesMargaret> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

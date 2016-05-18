@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/seriesName> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/seriesName> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/seriesName> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/seriesName> <http://purl.org/dc/terms/publisher> "Opaque Namespace"@en .
+<http://opaquenamespace.org/ns/seriesName> <http://purl.org/dc/terms/title> "seriesName controlled vocabulary"@en .
+<http://opaquenamespace.org/ns/seriesName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
+<http://opaquenamespace.org/ns/seriesName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Class> .
+<http://opaquenamespace.org/ns/seriesName> <http://www.w3.org/2000/01/rdf-schema#comment> "Title of series within collection."@en .
+<http://opaquenamespace.org/ns/seriesName> <http://www.w3.org/2000/01/rdf-schema#label> "Series Name"@en .

@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://www.w3.org/2000/01/rdf-schema#comment> "Robinson, William H, Jordi Falgï¿½s, and Carmen Belen Lord; Barcelona and Modernity: Picasso, Gaudï¿½, Mirï¿½, Dalï¿½, Cleveland, New Haven: Cleveland Museum of Art, Yale University Press, 2006. Joan Busquets i Janï¿½ studied at La Llotja in Barcelona under General Guitart i Lostalï¿½ (1859-1926). After his studies Busquets was awarded a 'borsa de viatge' to visit museums in Spain. His first major exhibition was the Third Exposition of Fine and Industrial Arts (Barcelona, 1896), where he received an honorable mention. He became director of the Busquets workshop after his father, Joan Busquets i Cornet (1845-1915), retired."@en .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://www.w3.org/2000/01/rdf-schema#label> "Busquets i Janï¿½, Joan"@en .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BusquetsiJaneJoan> <http://www.w3.org/2001/XMLSchema#date> "1874-1949"@en .

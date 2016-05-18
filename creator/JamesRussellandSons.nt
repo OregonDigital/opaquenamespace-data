@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://www.w3.org/2000/01/rdf-schema#comment> "The Royal Commonwealth Society Photograph Collection . James Russell and Sons was a commercial photographic firm based in London, England. The company was established in 1852. It occupied a number of premises: 29 Union Road, Tufnell Park 1883-85; 199 Brompton Road 1884-88; 49 Brecknock Road 1886-99, 17 Baker Street 1889-. The company was still in business in 1908 (Pritchard 1994, pp.100-101). During the late nineteenth century the firm also had studios at 13 High Street, Windsor and 50 Clarendon Road, Southsea."@en .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://www.w3.org/2000/01/rdf-schema#label> "James Russell and Sons"@en .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/JamesRussellandSons> <http://www.w3.org/2001/XMLSchema#date> "ca. 1850-ca. 1908"@en .

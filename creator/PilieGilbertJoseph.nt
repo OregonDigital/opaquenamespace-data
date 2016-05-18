@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://www.w3.org/2000/01/rdf-schema#comment> "Gleason, David King; Plantation Homes of Louisiana and the Natchez Area, Baton Rouge: Louisiana State University Press, 1982. father of Celine Pilie Roman, wife of Jacques Telesphore Roman, the first owners of a Louisiana plantation house named Oak Alley"@en .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://www.w3.org/2000/01/rdf-schema#label> "Pilie, Gilbert Joseph"@en .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PilieGilbertJoseph> <http://www.w3.org/2001/XMLSchema#date> "first half 19th century"@en .

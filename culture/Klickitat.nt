@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/culture/Klickitat> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Klickitat> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/culture/Klickitat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/culture/Klickitat> <http://www.w3.org/2000/01/rdf-schema#comment> "Harper, J. Russell; Paul Kane's Frontier, Austin; Ottawa: University of Texas Press; National Gallery of Canada, 1971. United States, PLATEAU: headwaters of the Cowlitz, Lewis, White salmon and Klichkitat rivers in Central Washington Alternate names: Qulh-hwai-pum Language: Sahaptian"@en .
+<http://opaquenamespace.org/ns/culture/Klickitat> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/culture/Klickitat> <http://www.w3.org/2000/01/rdf-schema#label> "Klickitat"@en .
+<http://opaquenamespace.org/ns/culture/Klickitat> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

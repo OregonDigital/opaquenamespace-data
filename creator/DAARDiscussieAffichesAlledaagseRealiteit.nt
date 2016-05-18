@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://www.w3.org/2000/01/rdf-schema#comment> "Evans, David and Sylvia Gohl; Photomontage: a Political Weapon, London: Gordon Fraser, 1986. note on shelf list card: P. Kooijman and H. Zoete"@en .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://www.w3.org/2000/01/rdf-schema#label> "DAAR (Discussie Affiches Alledaagse Realiteit)"@en .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/DAARDiscussieAffichesAlledaagseRealiteit> <http://www.w3.org/2001/XMLSchema#date> "active late 20th century"@en .

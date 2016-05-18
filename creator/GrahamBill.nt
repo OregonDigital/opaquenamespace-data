@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://www.w3.org/2000/01/rdf-schema#comment> "Name and dates derived from a website. Rock concert promoter and booking agent in San Francisco who became associated with the Fillmore Auditorium, known for his promotion of the Rolling Stones and discovery of Janis Joplin, instrumental in commissioning and marketing psychedelic concert posters. He was also married at one time to artist Bonnie MacLean, who is the mother of his son and the house artist for the Fillmore."@en .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://www.w3.org/2000/01/rdf-schema#label> "Graham, Bill"@en .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/GrahamBill> <http://www.w3.org/2001/XMLSchema#date> "1931-1991"@en .

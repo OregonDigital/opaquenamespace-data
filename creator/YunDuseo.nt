@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://www.w3.org/2000/01/rdf-schema#comment> "New History of World Art (Sekai bijutsu daizenshu. Toyo hen) v. 11, Tokyo: Shogakkan, 1997. Yun Du-seo (1668?1715) was a painter and scholar of the Joseon period. He is the grandson of Yun Seondo, a great scholar in Korean history. He passed the gwageo exam, but did not enter government service. Rather, he devoted his whole life to painting and studying Confucianism. His self-portrait is regarded as one of the many masterpieces of Korean art. Yun Duseo is also known for his yeongmohwa (animal-and-bird painting)."@en .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://www.w3.org/2000/01/rdf-schema#label> "Yun, Du-seo"@en .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YunDuseo> <http://www.w3.org/2001/XMLSchema#date> "1668?1715"@en .

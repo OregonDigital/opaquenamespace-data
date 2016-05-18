@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://schema.org/alternateName> "Pendleton Roundup"@en .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://www.w3.org/2000/01/rdf-schema#comment> "A frontier exhibition of picturesque pastimes, Indian and military spectacles, cowboy racing and bronco busting for the championship of the Northwest. The rodeo began in 1910 and continues to the present day."@en .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://www.w3.org/2000/01/rdf-schema#label> "Pendleton Round-Up"@en .
+<http://opaquenamespace.org/ns/subject/PendletonRoundUp> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

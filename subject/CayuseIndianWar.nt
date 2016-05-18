@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://www.w3.org/2000/01/rdf-schema#comment> "Conflict between the Cayuse people and the European-American settlers in the Oregon Territory, 1847-1855. It was set off by the Whitman Massacre near present day Walla Walla Washington."@en .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://www.w3.org/2000/01/rdf-schema#label> "Cayuse Indian War"@en .
+<http://opaquenamespace.org/ns/subject/CayuseIndianWar> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

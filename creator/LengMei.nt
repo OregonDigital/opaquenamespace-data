@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/LengMei> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). l29m27 Alternate names: Leng Mei, ?? Qing dynasty Western artists did not exert any direct influence on Chinese painting, but within the palace Western style and perspective are traceable in the female portraits of Jiao Bingzhen (1662?1722), for example Shinu tuce (?Album of paintings of beautiful women?; Beijing, Pal. Mus.) or Shinu tuce yu (Taipei, N. Pal. Mus.), and in the paintings of Leng Mei (fl late 17th century?early 18th), Chen Mei (fl 18th century) and Tangdai. Through their works, knowledge of Western style and technique gradually spread among the painters of 18th-century China. --DOA"@en .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://www.w3.org/2000/01/rdf-schema#label> "Leng, Mei"@en .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/LengMei> <http://www.w3.org/2001/XMLSchema#date> "active ca. 1662 - 1722"@en .

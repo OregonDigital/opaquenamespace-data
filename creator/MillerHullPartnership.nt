@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://www.w3.org/2000/01/rdf-schema#comment> "Stang, Alanna and Christopher Hawthorne; Green House: New Directions in Sustainable Architecture, New York: Princeton Architectural Press, 2005. Architectural firm founded in 1977 by David Miller and Robert Hull. In 1985 Norm Strong was named partner, and in 1994 Craig Curtis became the fourth partner. In 2008 the Miller|Hull Partnership added three new partners, Sian Roberts, Ron Rochon and Scott Wolf. The office is located in downtown Seattle and has a staff of sixty-three. In-house capabilities include master planning, urban design, full-service architectural, interior design, and space planning."@en .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://www.w3.org/2000/01/rdf-schema#label> "Miller/Hull Partnership"@en .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MillerHullPartnership> <http://www.w3.org/2001/XMLSchema#date> "active 1977-"@en .

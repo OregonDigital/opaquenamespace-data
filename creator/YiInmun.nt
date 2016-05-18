@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://www.w3.org/2000/01/rdf-schema#comment> "New History of World Art (Sekai bijutsu daizenshu. Toyo hen) v. 11, Tokyo: Shogakkan, 1997. Yi Inmun (1745-1821), also known as Yuchun, was a court painter of the late Joseon Dynasty, primarily of landscapes artist. He also held a military position in the court. Perhaps his best- known work is a silk scroll entitled Gangsan mujindo (Streams and Mountains Without End; hangul: ?????; hanja: ?????), which is displayed in the National Museum of Korea in Seoul."@en .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://www.w3.org/2000/01/rdf-schema#label> "Yi, Inmun"@en .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/YiInmun> <http://www.w3.org/2001/XMLSchema#date> "1745-1821"@en .

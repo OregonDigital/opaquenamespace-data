@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://www.w3.org/2000/01/rdf-schema#comment> "Lobenthal, Joel; Radical Rags: Fashions of the Sixties, New York: Abbeville Press Publishers, 1990. American fashion designer in the 1970s, later focused on designing for the theater. He has made a fashion comeback since 2002. He has been recognized with three American Fashion Critics' Annual Coty Awards."@en .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://www.w3.org/2000/01/rdf-schema#label> "Burrows, Stephen"@en .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BurrowsStephen> <http://www.w3.org/2001/XMLSchema#date> "active ca. 1970- ca. 2010"@en .

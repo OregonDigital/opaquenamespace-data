@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/subject/AlbrechtRobert> <http://purl.org/dc/terms/issued> "2016-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/AlbrechtRobert> <http://purl.org/dc/terms/modified> "2016-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/AlbrechtRobert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/subject/AlbrechtRobert> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon, English professor, Dean of the College of Arts and Sciences"@aa .
+<http://opaquenamespace.org/ns/subject/AlbrechtRobert> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon, English professor, Dean of the College of Arts and Sciences"@en .
+<http://opaquenamespace.org/ns/subject/AlbrechtRobert> <http://www.w3.org/2000/01/rdf-schema#label> "Albrecht, RObert"@en .
+<http://opaquenamespace.org/ns/subject/AlbrechtRobert> <http://www.w3.org/2000/01/rdf-schema#label> "Albrecht, Robert"@aa .

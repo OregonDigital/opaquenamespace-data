@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://www.w3.org/2000/01/rdf-schema#comment> "Tsuji, Nobuo, Kiyoshi Hirai, and Yoshiaki Yabe; Shiro to chashitsu, Nihon Bijutsu Zenshu, Tokyo: Kodansha, 1992. Joan is one of Japan's most celebrated tea ceremony houses and a designated national treasure. It was built in 1618 by Oda Uraku, a younger brother of Oda Nobunaga and a disciple of Sen-no-rikyu, Japan's most famous master of the tea ceremony. (http://www.japan-guide.com/e/e3352.html)"@en .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://www.w3.org/2000/01/rdf-schema#label> "Oda, Uraku"@en .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/OdaUraku> <http://www.w3.org/2001/XMLSchema#date> "1618"@en .

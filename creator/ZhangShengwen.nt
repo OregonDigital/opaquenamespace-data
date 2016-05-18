@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://www.w3.org/2000/01/rdf-schema#comment> "Holden, Wendy; 'A Guide to Cataloguing Chinese Art', Visual Resources Association Special Bulletin No. 13, (1050138x). z36s42w27 Alternate names: Chang Sheng-wen, ??? Song dynasty Another important Buddhist handscroll comes from Dali, in Yunnan. Showing the entire (?local) pantheon and dated 1178, this long handscroll (Taipei, N. Pal. Mus.) was painted on paper with faint colours by Zhang Shengwen (fl 12th century) in a style close to that of Li Gonglin. The brushwork is highly controlled, and the painting has a dense, linear organization with great attention to detail. The greatest value of this scroll lies in its iconography, which is partly dominated by esoteric Buddhist images and local historical figures, many of whom have not been identified. --DOA"@en .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang, Shengwen"@en .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/ZhangShengwen> <http://www.w3.org/2001/XMLSchema#date> "early 13th century"@en .

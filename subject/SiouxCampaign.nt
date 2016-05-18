@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://www.w3.org/2000/01/rdf-schema#comment> "Also known as the Great Sioux War of 1876, wherein the Lakota Sioux and Northern Cheyenne took up arms to protect their lands from American settlers after negotiations with the US federal government failed"@en .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://www.w3.org/2000/01/rdf-schema#label> "Sioux Campaign"@en .
+<http://opaquenamespace.org/ns/subject/SiouxCampaign> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

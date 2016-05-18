@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/stylePeriod/AltunHa> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/AltunHa> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/stylePeriod/AltunHa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/stylePeriod/AltunHa> <http://www.w3.org/2000/01/rdf-schema#comment> "Reents-Budet, Dorie; Painting the Maya Universe: Royal Ceramics form the Classic Period, Durham; London: Duke University Press, 1994. Named after the site in central Belize where the majority of vessels have been discovered. The style is distinctive not only for the black backgrounds but also for the unusually colorful head variant hieroglyphs of the pss texts painted on these vessels. These vases may provide us with the first evidence of Yucatec Mayan being spoken so far south of its traditional area, the Yucatan Peninsula of Mexico."@en .
+<http://opaquenamespace.org/ns/stylePeriod/AltunHa> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/stylePeriod/AltunHa> <http://www.w3.org/2000/01/rdf-schema#label> "Altun-Ha"@en .
+<http://opaquenamespace.org/ns/stylePeriod/AltunHa> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

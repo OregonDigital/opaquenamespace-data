@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/exhibit> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/exhibit> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Class> .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/2000/01/rdf-schema#comment> "Curated set or grouping created for a special display or exhibit not related to a formal collection."@en .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/2000/01/rdf-schema#label> "Exhibit"@en .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> "http://opaquenamespace.org/ns/set"@en .
+<http://opaquenamespace.org/ns/exhibit> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://opaquenamespace.org/ns/exhibit> .

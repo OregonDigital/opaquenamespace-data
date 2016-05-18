@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://www.w3.org/2000/01/rdf-schema#comment> "Period of implementation of the House Concurrent Resolution 108 of 1953 and Public Law 280 in which relationships between tribes and the US federal government were terminated. This effectively ended the reservation system and removed federal aid to tribes while members of tribes became full citizens of the US and reservation lands became subject to the jurisdiction of states."@en .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://www.w3.org/2000/01/rdf-schema#label> "Termination (1953-1968)"@en .
+<http://opaquenamespace.org/ns/subject/Termination19531968> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

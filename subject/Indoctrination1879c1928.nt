@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://www.w3.org/2000/01/rdf-schema#comment> "Period in which Native Americans were pressured or forced to assimilate with prevailing European-American culture. It was during this time that boarding schools were established and Native American children taken from their families to be educated and assimilated into while culture."@en .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://www.w3.org/2000/01/rdf-schema#label> "Indoctrination (1879- c.1928)"@en .
+<http://opaquenamespace.org/ns/subject/Indoctrination1879c1928> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

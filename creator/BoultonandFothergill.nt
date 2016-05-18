@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://www.w3.org/2000/01/rdf-schema#comment> "Goodison, Nicholas; Matthew Boulton: Ormolu, revised edition, London: Christie's, 2002. British manufacturers for metalwork, including plating and gilding, and for the manufacture of gilded ornamentation or ormolu."@en .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://www.w3.org/2000/01/rdf-schema#label> "Boulton & Fothergill"@en .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/BoultonandFothergill> <http://www.w3.org/2001/XMLSchema#date> "1762-1782"@en .

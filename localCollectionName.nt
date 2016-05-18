@@ -1,0 +1,13 @@
+<http://opaquenamespace.org/ns/localCollectionName> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName> <http://purl.org/dc/terms/publisher> "Opaque Namespace"@en .
+<http://opaquenamespace.org/ns/localCollectionName> <http://purl.org/dc/terms/title> "localCollectionName controlled vocabulary"@en .
+<http://opaquenamespace.org/ns/localCollectionName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
+<http://opaquenamespace.org/ns/localCollectionName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Class> .
+<http://opaquenamespace.org/ns/localCollectionName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://opaquenamespace.org/ns/localCollectionName> <http://www.w3.org/2000/01/rdf-schema#comment> "Title given to a collection by the holding institution."@en .
+<http://opaquenamespace.org/ns/localCollectionName> <http://www.w3.org/2000/01/rdf-schema#label> "Local Collection Name"@en .
+<http://opaquenamespace.org/ns/localCollectionName> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> "isPartOf"@en .
+<http://opaquenamespace.org/ns/localCollectionName> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://opaquenamespace.org/ns/localCollectionName> .
