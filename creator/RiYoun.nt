@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/RiYoun> <http://purl.org/dc/terms/date> "active 1736-1795" .
+<http://opaquenamespace.org/ns/creator/RiYoun> <http://purl.org/dc/terms/issued> "2016-07-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiYoun> <http://purl.org/dc/terms/modified> "2016-07-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RiYoun> <http://schema.org/alternateName> "Li, Yongyun"@en .
+<http://opaquenamespace.org/ns/creator/RiYoun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/RiYoun> <http://www.w3.org/2000/01/rdf-schema#comment> "Chinese printmaker of the Qing Dynasty, Qianlong Period, Jordan Schnitzer Museum of Art collection"@en .
+<http://opaquenamespace.org/ns/creator/RiYoun> <http://www.w3.org/2000/01/rdf-schema#label> "Ri, Yo-un"@en .
