@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/HirataGoyoII> <http://purl.org/dc/terms/date> "active early 20th century" .
+<http://opaquenamespace.org/ns/creator/HirataGoyoII> <http://purl.org/dc/terms/issued> "2016-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HirataGoyoII> <http://purl.org/dc/terms/modified> "2016-07-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HirataGoyoII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/creator/HirataGoyoII> <http://www.w3.org/2000/01/rdf-schema#comment> "Japanese artist, Jordan Schnitzer Museum of Art collection"@en .
+<http://opaquenamespace.org/ns/creator/HirataGoyoII> <http://www.w3.org/2000/01/rdf-schema#label> "Hirata, Gôyô II"@en .
