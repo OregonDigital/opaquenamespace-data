@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/BaileyKatherine> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BaileyKatherine> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BaileyKatherine> <http://schema.org/alternateName> "Bailey, Kathryn"@en .
+<http://opaquenamespace.org/ns/people/BaileyKatherine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BaileyKatherine> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon Business Administration secretary"@en .
+<http://opaquenamespace.org/ns/people/BaileyKatherine> <http://www.w3.org/2000/01/rdf-schema#label> "Bailey, Katherine"@en .
