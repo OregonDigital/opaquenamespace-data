@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/ConradAnnetteBuchanan> <http://purl.org/dc/terms/date> "1945/2013" .
+<http://opaquenamespace.org/ns/people/ConradAnnetteBuchanan> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ConradAnnetteBuchanan> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ConradAnnetteBuchanan> <http://schema.org/alternateName> "Buchanan, Annette Leslie"@en .
+<http://opaquenamespace.org/ns/people/ConradAnnetteBuchanan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ConradAnnetteBuchanan> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon alumna, class of 1967. Managing editor of the Daily Emerald. Copy editor at The Oregonian 1975-1997."@en .
+<http://opaquenamespace.org/ns/people/ConradAnnetteBuchanan> <http://www.w3.org/2000/01/rdf-schema#label> "Conrad, Annette Buchanan"@en .
