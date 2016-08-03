@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/GiustinaNataleB> <http://purl.org/dc/terms/date> "1918-04-25/2005-08-19" .
+<http://opaquenamespace.org/ns/people/GiustinaNataleB> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GiustinaNataleB> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GiustinaNataleB> <http://schema.org/alternateName> "Giustina, Nat"@en .
+<http://opaquenamespace.org/ns/people/GiustinaNataleB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/GiustinaNataleB> <http://www.w3.org/2000/01/rdf-schema#comment> "Oregon State University alumnus, class of 1941. Giustina Brothers, Giustina Land and Timber Company, Tokatee Golf Club. Husband of Jacqueline Laraway Giustina. Son of Erminio and Irene Onorato Giustina."@en .
+<http://opaquenamespace.org/ns/people/GiustinaNataleB> <http://www.w3.org/2000/01/rdf-schema#label> "Giustina, Natale B."@en .
