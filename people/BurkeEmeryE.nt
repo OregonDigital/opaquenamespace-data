@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/BurkeEmeryE> <http://purl.org/dc/terms/date> "died 1883" .
+<http://opaquenamespace.org/ns/people/BurkeEmeryE> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BurkeEmeryE> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BurkeEmeryE> <http://schema.org/alternateName> "Burke, E. E."@en .
+<http://opaquenamespace.org/ns/people/BurkeEmeryE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BurkeEmeryE> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon alumnus, class of 1881  and president of the Alumni Assocation 1883-1884 (died in office)."@en .
+<http://opaquenamespace.org/ns/people/BurkeEmeryE> <http://www.w3.org/2000/01/rdf-schema#label> "Burke, Emery E."@en .
