@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/BrodieEE> <http://purl.org/dc/terms/date> "born 1876" .
+<http://opaquenamespace.org/ns/people/BrodieEE> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BrodieEE> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BrodieEE> <http://schema.org/alternateName> "Brodie, Edward Everett"@en .
+<http://opaquenamespace.org/ns/people/BrodieEE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BrodieEE> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon alumnus, graduated before 1901? Oregon newspaper publisher and editor. Former President of the National Editorial Association, former President of the Oregon Editorial Association. Oregon City board of education member, Secretary of the Commercial Club of Oregon City, Director of the Oregon State Chamber of Commerce and of the McLoughlin Memorial Association. Married to Imogen Harding, daughter of George A. Harding and great granddaughter of Samuel K. Barlow."@en .
+<http://opaquenamespace.org/ns/people/BrodieEE> <http://www.w3.org/2000/01/rdf-schema#label> "Brodie, E. E."@en .
