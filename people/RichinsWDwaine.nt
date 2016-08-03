@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/RichinsWDwaine> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RichinsWDwaine> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RichinsWDwaine> <http://schema.org/alternateName> "Richins, W. D."@en .
+<http://opaquenamespace.org/ns/people/RichinsWDwaine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/RichinsWDwaine> <http://www.w3.org/2000/01/rdf-schema#comment> "Univeristy of Oregon faculty of Business Administration ca. 1950s"@en .
+<http://opaquenamespace.org/ns/people/RichinsWDwaine> <http://www.w3.org/2000/01/rdf-schema#label> "Richins, W. Dwaine"@en .
