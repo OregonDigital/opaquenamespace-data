@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/DorrisArtGallery> <http://purl.org/dc/terms/date> "1891/1917" .
+<http://opaquenamespace.org/ns/creator/DorrisArtGallery> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DorrisArtGallery> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DorrisArtGallery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/DorrisArtGallery> <http://www.w3.org/2000/01/rdf-schema#comment> "Photography studio in Eugene, Oregon. Proprietor Sue M. Dorris, University of Oregon alumna, class of 1890 and 1893."@en .
+<http://opaquenamespace.org/ns/creator/DorrisArtGallery> <http://www.w3.org/2000/01/rdf-schema#label> "Dorris Art Gallery"@en .
