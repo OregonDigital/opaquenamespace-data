@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/BradetichMarilynM> <http://purl.org/dc/terms/date> "1932/2011" .
+<http://opaquenamespace.org/ns/people/BradetichMarilynM> <http://purl.org/dc/terms/issued> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BradetichMarilynM> <http://purl.org/dc/terms/modified> "2016-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BradetichMarilynM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BradetichMarilynM> <http://www.w3.org/2000/01/rdf-schema#comment> "Faculty, University of Oregon School of Law and School of Music, 1974-1999"@en .
+<http://opaquenamespace.org/ns/people/BradetichMarilynM> <http://www.w3.org/2000/01/rdf-schema#label> "Bradetich, Marilyn M."@en .
