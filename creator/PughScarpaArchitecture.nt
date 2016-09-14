@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://www.w3.org/2000/01/rdf-schema#comment> "Stang, Alanna and Christopher Hawthorne; Green House: New Directions in Sustainable Architecture, New York: Princeton Architectural Press, 2005. architectural firm founded in Santa Monica, CA"@en .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://www.w3.org/2000/01/rdf-schema#label> "Pugh + Scarpa Architecture"@en .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/PughScarpaArchitecture> <http://www.w3.org/2001/XMLSchema#date> "active late 20th early 21st century"@en .
