@@ -5,4 +5,4 @@
 <http://opaquenamespace.org/ns/technique/hingedbinding> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/technique/hingedbinding> <http://www.w3.org/2000/01/rdf-schema#label> "hinged binding"@en .
 <http://opaquenamespace.org/ns/technique/hingedbinding> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/technique/hingedbinding> <https://schema.org/alternateName> "crossed structure binding"@en .
+<http://opaquenamespace.org/ns/technique/hingedbinding> <http://schema.org/alternateName> "crossed structure binding"@en .

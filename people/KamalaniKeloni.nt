@@ -6,4 +6,4 @@
 <http://opaquenamespace.org/ns/people/KamalaniKeloni> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/people/KamalaniKeloni> <http://www.w3.org/2000/01/rdf-schema#label> "Kamalani, Keloni"@en .
 <http://opaquenamespace.org/ns/people/KamalaniKeloni> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/people/KamalaniKeloni> <https://schema.org/alternateName> "Kamalani, Keloni Kimo Logan Sarasin"@en .
+<http://opaquenamespace.org/ns/people/KamalaniKeloni> <http://schema.org/alternateName> "Kamalani, Keloni Kimo Logan Sarasin"@en .
