@@ -1,5 +1,5 @@
-<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/modified> "2016-09-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/issued> "2015-08-25" .
+<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/modified> "2016-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Class> .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
