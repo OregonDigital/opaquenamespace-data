@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/DLCDsubject/MedicalMarijuanaFacilities> <http://purl.org/dc/terms/issued> "2017-01-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/DLCDsubject/MedicalMarijuanaFacilities> <http://purl.org/dc/terms/modified> "2017-01-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/DLCDsubject/MedicalMarijuanaFacilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/DLCDsubject/MedicalMarijuanaFacilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/DLCDsubject/MedicalMarijuanaFacilities> <http://www.w3.org/2000/01/rdf-schema#comment> "Facilities primarily for the sale and dispensation of marijuana for medical purposes"@en .
+<http://opaquenamespace.org/ns/DLCDsubject/MedicalMarijuanaFacilities> <http://www.w3.org/2000/01/rdf-schema#label> "Medical marijuana facilities"@en .
