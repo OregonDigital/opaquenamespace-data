@@ -13,4 +13,3 @@
 <http://opaquenamespace.org/ns/TestVocabulary> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "Blahblah" .
 <http://opaquenamespace.org/ns/TestVocabulary> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://opaquenamespace.org/ns/TestVocabulary> .
 <http://opaquenamespace.org/ns/TestVocabulary> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> "asdf" .
-<http://opaquenamespace.org/ns/TestVocabulary> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> "http://opaquenamespace.org/ns/TestVocabulary" .
