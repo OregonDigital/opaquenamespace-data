@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/cco_viewDate> <http://purl.org/dc/terms/issued> "2017-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/cco_viewDate> <http://purl.org/dc/terms/modified> "2017-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/cco_viewDate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://opaquenamespace.org/ns/cco_viewDate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/cco_viewDate> <http://www.w3.org/2000/01/rdf-schema#comment> "Use for any date or range of dates associated with the creation or production of the image. Use with caution."@en .
+<http://opaquenamespace.org/ns/cco_viewDate> <http://www.w3.org/2000/01/rdf-schema#label> "View Date"@en .
