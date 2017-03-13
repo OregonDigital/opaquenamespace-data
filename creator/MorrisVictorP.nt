@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://purl.org/dc/terms/date> "1881/1974" .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://purl.org/dc/terms/issued> "2017-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://purl.org/dc/terms/modified> "2017-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://schema.org/alternateName> "Morris, Victor Pierpont"@en .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://www.w3.org/2000/01/rdf-schema#comment> "Faculty, University of Oregon 1926-1959, Dean of the School of Business Administration 1936-1957, interim President 1953–1954. Appears in the Gertrude Bass Warner manuscript collections, University of Oregon."@en .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://www.w3.org/2000/01/rdf-schema#label> "Morris, Victor P."@en .
+<http://opaquenamespace.org/ns/creator/MorrisVictorP> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
