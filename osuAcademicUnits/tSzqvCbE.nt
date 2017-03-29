@@ -1,0 +1,4 @@
+<http://opaquenamespace.org/ns/osuAcademicUnits/tSzqvCbE> <http://purl.org/dc/terms/date> "1889/1899, 1907/1922, 1954/1962" .
+<http://opaquenamespace.org/ns/osuAcademicUnits/tSzqvCbE> <http://purl.org/dc/terms/issued> "2017-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuAcademicUnits/tSzqvCbE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/osuAcademicUnits/tSzqvCbE> <http://www.w3.org/2000/01/rdf-schema#label> "Military Science and Tactics"@en .
