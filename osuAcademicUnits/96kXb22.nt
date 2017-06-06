@@ -1,4 +1,0 @@
-<http://opaquenamespace.org/ns/osuAcademicUnits/96kXb22> <http://purl.org/dc/terms/date> "2014/open" .
-<http://opaquenamespace.org/ns/osuAcademicUnits/96kXb22> <http://purl.org/dc/terms/issued> "2017-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/osuAcademicUnits/96kXb22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/osuAcademicUnits/96kXb22> <http://www.w3.org/2000/01/rdf-schema#label> "Applied Economics"@en .
