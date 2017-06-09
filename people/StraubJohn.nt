@@ -1,5 +1,7 @@
+<http://opaquenamespace.org/ns/people/StraubJohn> <http://purl.org/dc/terms/date> "1853/1932" .
 <http://opaquenamespace.org/ns/people/StraubJohn> <http://purl.org/dc/terms/issued> "2016-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/StraubJohn> <http://purl.org/dc/terms/modified> "2016-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/StraubJohn> <http://purl.org/dc/terms/modified> "2017-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/StraubJohn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/people/StraubJohn> <http://www.w3.org/2000/01/rdf-schema#comment> "1853-1932. University of Oregon faculty 1878-1930"@en .
+<http://opaquenamespace.org/ns/people/StraubJohn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/StraubJohn> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon faculty, 1878-1930. Pictured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
 <http://opaquenamespace.org/ns/people/StraubJohn> <http://www.w3.org/2000/01/rdf-schema#label> "Straub, John"@en .
