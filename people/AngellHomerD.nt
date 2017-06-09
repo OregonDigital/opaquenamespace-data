@@ -6,4 +6,4 @@
 <http://opaquenamespace.org/ns/people/AngellHomerD> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
 <http://opaquenamespace.org/ns/people/AngellHomerD> <http://www.w3.org/2000/01/rdf-schema#label> "Angell, Homer D."@en .
 <http://opaquenamespace.org/ns/people/AngellHomerD> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
-<http://opaquenamespace.org/ns/people/AngellHomerD> <http://www.w3.org/2002/07/owl#sameAs> "http://id.loc.gov/authorities/names/no2012027510.html" .
+<http://opaquenamespace.org/ns/people/AngellHomerD> <http://www.w3.org/2002/07/owl#sameAs> "http://id.loc.gov/authorities/names/no2012027510" .
