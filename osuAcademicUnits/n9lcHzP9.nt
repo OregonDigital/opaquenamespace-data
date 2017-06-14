@@ -1,6 +1,6 @@
-<http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://purl.org/dc/terms/date> "1968/2014" .
-<http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://purl.org/dc/terms/issued> "2016-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://purl.org/dc/terms/modified> "2017-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://purl.org/dc/terms/date> "1968/2017" .
+<http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://purl.org/dc/terms/issued> "2016-11-02" .
+<http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://purl.org/dc/terms/modified> "2017-06-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
 <http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/osuAcademicUnits/n9lcHzP9> <http://www.w3.org/2000/01/rdf-schema#label> "Biochemistry and Biophysics"@en .
