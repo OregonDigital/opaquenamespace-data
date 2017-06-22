@@ -1,0 +1,4 @@
+<http://opaquenamespace.org/ns/creator/OregonCavemenInc> <http://purl.org/dc/terms/issued> "2017-06-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OregonCavemenInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/OregonCavemenInc> <http://www.w3.org/2000/01/rdf-schema#comment> "Reuniting Finley and Bohlman Collection"@en .
+<http://opaquenamespace.org/ns/creator/OregonCavemenInc> <http://www.w3.org/2000/01/rdf-schema#label> "Oregon Cavemen Inc."@en .
