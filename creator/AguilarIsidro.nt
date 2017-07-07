@@ -1,8 +1,8 @@
+<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://purl.org/dc/terms/date> "unknown/1803" .
 <http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://purl.org/dc/terms/issued> "2017-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://purl.org/dc/terms/modified> "2017-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://schema.org/alternateName> "Aguilár, Isídro"@en .
 <http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/2000/01/rdf-schema#comment> "unknown/1803"@en .
-<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/2000/01/rdf-schema#label> "skos:PersonalName"@en .
-<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
+<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/2000/01/rdf-schema#label> "Aguilár, Isídro"@en .
+<http://opaquenamespace.org/ns/creator/AguilarIsidro> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
