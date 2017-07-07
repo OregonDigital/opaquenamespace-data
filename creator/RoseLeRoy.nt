@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://purl.org/dc/terms/issued> "2017-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://purl.org/dc/terms/modified> "2017-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://schema.org/alternateName> "Rose, LeRoy"@en .
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://www.w3.org/2000/01/rdf-schema#comment> "1927/1996"@en .
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://www.w3.org/2000/01/rdf-schema#label> "skos:PersonalName"@en .
+<http://opaquenamespace.org/ns/creator/RoseLeRoy> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
