@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://purl.org/dc/terms/date> "1868-1936" .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://purl.org/dc/terms/issued> "2017-06-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://purl.org/dc/terms/modified> "2017-06-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://schema.org/alternateName> "Hyer, F."@en .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://schema.org/alternateName> "Hyer, Florentine"@en .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://www.w3.org/2000/01/rdf-schema#comment> "Artist and illustrator; University of Oregon Historic Sheet Music Collection (\"Betty's music box\", 1917)"@en .
+<http://opaquenamespace.org/ns/creator/HyerFlorine1868> <http://www.w3.org/2000/01/rdf-schema#label> "Hyer, Florine, 1868-"@en .
