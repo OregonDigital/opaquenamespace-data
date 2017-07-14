@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://purl.org/dc/terms/date> "1864/1935" .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://purl.org/dc/terms/issued> "2017-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://purl.org/dc/terms/modified> "2017-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://schema.org/alternateName> "Munthe, Johan W."@en .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://www.w3.org/2000/01/rdf-schema#comment> "Norwegian cavalry officer and Chinese art collector. Appears in the Gertrude Bass Warner, 1879-1954 (UA022) collection. See VIAF ID: 20481909"@en .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://www.w3.org/2000/01/rdf-schema#label> "Munthe, Johan Wilhelm Normann"@en .
+<http://opaquenamespace.org/ns/creator/MuntheJohanWilhelmNormann> <http://www.w3.org/2002/07/owl#sameAs> "http://viaf.org/viaf/20481909/" .
