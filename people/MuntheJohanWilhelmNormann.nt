@@ -1,4 +1,4 @@
-<http://opaquenamespace.org/ns/people/MuntheJohanWilhelmNormann> <http://purl.org/dc/terms/date> "1864-1935" .
+<http://opaquenamespace.org/ns/people/MuntheJohanWilhelmNormann> <http://purl.org/dc/terms/date> "1864/1935" .
 <http://opaquenamespace.org/ns/people/MuntheJohanWilhelmNormann> <http://purl.org/dc/terms/issued> "2017-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/MuntheJohanWilhelmNormann> <http://purl.org/dc/terms/modified> "2017-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/MuntheJohanWilhelmNormann> <http://schema.org/alternateName> "Munthe, Johan W."@en .
