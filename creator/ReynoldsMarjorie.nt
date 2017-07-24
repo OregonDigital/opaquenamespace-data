@@ -1,6 +1,6 @@
 <http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://purl.org/dc/terms/issued> "2017-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://purl.org/dc/terms/modified> "2017-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://purl.org/dc/terms/modified> "2017-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://www.w3.org/2000/01/rdf-schema#comment> "Employee, Museum of Art, University of Oregon, Eugene, Oregon. Appears in the Gertrude Bass Warner manuscript collections, University of Oregon."@en .
-<http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://www.w3.org/2000/01/rdf-schema#label> "Reynolds, Marjorie"@en .
+<http://opaquenamespace.org/ns/creator/ReynoldsMarjorie> <http://www.w3.org/2000/01/rdf-schema#label> "Reynolds, Marjorie T."@en .
