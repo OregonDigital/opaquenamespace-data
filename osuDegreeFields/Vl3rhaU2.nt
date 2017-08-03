@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/osuDegreeFields/Vl3rhaU2> <http://purl.org/dc/terms/date> "{1923,1925..1926,1929,1932..1933,1941,1947,1949..1950,1955,1957..1969,1971..1974,1976..1977,1979,1986,1992,2008,2013}" .
+<http://opaquenamespace.org/ns/osuDegreeFields/Vl3rhaU2> <http://purl.org/dc/terms/issued> "2017-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields/Vl3rhaU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/osuDegreeFields/Vl3rhaU2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/osuDegreeFields/Vl3rhaU2> <http://www.w3.org/2000/01/rdf-schema#label> "Agricultural Education"@en .
