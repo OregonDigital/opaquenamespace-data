@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/osuDegreeFields> <http://purl.org/dc/terms/issued> "2017-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields> <http://purl.org/dc/terms/modified> "2017-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields> <http://purl.org/dc/terms/title> "Oregon State University Degree Fields"@en .
+<http://opaquenamespace.org/ns/osuDegreeFields> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
+<http://opaquenamespace.org/ns/osuDegreeFields> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/osuDegreeFields> <http://www.w3.org/2000/01/rdf-schema#comment> "These entities and date ranges were compiled from processed electronic theses and dissertations, and may contain gaps or other errors."@en .
