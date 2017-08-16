@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/subject/Auroch> <http://purl.org/dc/terms/issued> "2017-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Auroch> <http://purl.org/dc/terms/modified> "2017-08-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/Auroch> <http://schema.org/alternateName> "Urus"@en .
+<http://opaquenamespace.org/ns/subject/Auroch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/subject/Auroch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/subject/Auroch> <http://www.w3.org/2000/01/rdf-schema#comment> "The urus or aurochs, Bos primigenius Bojanus 1827, is the extinct ancestor of most modern domesticated cattle races ... Closely related to the urus are the European bison, Bison bonasus ... --Ekström, J. The Late Quaternary history of the urus (Bos primigenius Bojanus 1827) in Sweden, 1993: p. 1"@en .
+<http://opaquenamespace.org/ns/subject/Auroch> <http://www.w3.org/2000/01/rdf-schema#label> "Auroch"@en .
+<http://opaquenamespace.org/ns/subject/Auroch> <http://www.w3.org/2002/07/owl#sameAs> "http://id.loc.gov/authorities/subjects/sh85141521" .
