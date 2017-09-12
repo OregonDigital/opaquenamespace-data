@@ -5,4 +5,4 @@
 <http://opaquenamespace.org/ns/repository/KircheStNikolaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
 <http://opaquenamespace.org/ns/repository/KircheStNikolaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/repository/KircheStNikolaus> <http://www.w3.org/2000/01/rdf-schema#comment> "Catholic Church, Lerchenfeldstrasse 3  9500 Wil, Switzerland. Appears in the Art and Architecture Images collection, University of Oregon"@en .
-<http://opaquenamespace.org/ns/repository/KircheStNikolaus> <http://www.w3.org/2000/01/rdf-schema#label> "Kirche St. Nikolaus (Wil, Switzerland)"@en .
+<http://opaquenamespace.org/ns/repository/KircheStNikolaus> <http://www.w3.org/2000/01/rdf-schema#label> "Kirche St. Nikolaus (Wil, Switzerland)"@de .
