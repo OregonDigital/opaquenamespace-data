@@ -1,5 +1,6 @@
 <http://opaquenamespace.org/ns/subject/TerpantandMarchand> <http://purl.org/dc/terms/issued> "2017-09-12"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/subject/TerpantandMarchand> <http://purl.org/dc/terms/modified> "2017-09-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/TerpantandMarchand> <http://schema.org/alternateName> "Terpant and Marchand"@en .
 <http://opaquenamespace.org/ns/subject/TerpantandMarchand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
 <http://opaquenamespace.org/ns/subject/TerpantandMarchand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/subject/TerpantandMarchand> <http://www.w3.org/2000/01/rdf-schema#comment> "Company that created Booklet. At 58bis, Av. de Neuilly, Neuily-Paris. Booklet in in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
