@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/seriesName/SeriesIGlassPlateNegativesLeeMoorhouse> <http://purl.org/dc/terms/issued> "2017-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/seriesName/SeriesIGlassPlateNegativesLeeMoorhouse> <http://purl.org/dc/terms/modified> "2017-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/seriesName/SeriesIGlassPlateNegativesLeeMoorhouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/seriesName/SeriesIGlassPlateNegativesLeeMoorhouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/seriesName/SeriesIGlassPlateNegativesLeeMoorhouse> <http://www.w3.org/2000/01/rdf-schema#comment> "Lee Moorhouse photographs, in accordance with the Archives West published finding aid: http://archiveswest.orbiscascade.org/ark:/80444/xv94299"@en .
+<http://opaquenamespace.org/ns/seriesName/SeriesIGlassPlateNegativesLeeMoorhouse> <http://www.w3.org/2000/01/rdf-schema#label> "Series I: Glass Plate Negatives"@en .
