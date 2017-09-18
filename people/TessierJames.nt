@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/TessierJames> <http://purl.org/dc/terms/issued> "2017-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/TessierJames> <http://purl.org/dc/terms/modified> "2017-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/TessierJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/TessierJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/TessierJames> <http://www.w3.org/2000/01/rdf-schema#comment> "Assistant Coach, University of Oregon Women's Volleyball, 2017-"@en .
+<http://opaquenamespace.org/ns/people/TessierJames> <http://www.w3.org/2000/01/rdf-schema#label> "Tessier, James"@en .
