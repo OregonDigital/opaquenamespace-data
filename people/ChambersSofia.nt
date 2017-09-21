@@ -1,6 +1,8 @@
+<http://opaquenamespace.org/ns/people/ChambersSofia> <http://purl.org/dc/terms/isReplacedBy> "http://opaquenamespace.org/ns/people/ChambersSofiaE" .
 <http://opaquenamespace.org/ns/people/ChambersSofia> <http://purl.org/dc/terms/issued> "2017-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/ChambersSofia> <http://purl.org/dc/terms/modified> "2017-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/ChambersSofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ChambersSofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/people/ChambersSofia> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon Women's Soccer team 2017-."@en .
 <http://opaquenamespace.org/ns/people/ChambersSofia> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/people/ChambersSofia> <http://www.w3.org/2000/01/rdf-schema#label> "Chambers, Sofia"@en .
