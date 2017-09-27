@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/localCollectionName/pub_010-13d> <http://purl.org/dc/terms/issued> "2017-09-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/pub_010-13d> <http://purl.org/dc/terms/modified> "2017-09-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/pub_010-13d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/pub_010-13d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/pub_010-13d> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in Special Collections & Archives Research Center, Oregon State University Libraries."@en .
+<http://opaquenamespace.org/ns/localCollectionName/pub_010-13d> <http://www.w3.org/2000/01/rdf-schema#label> "Lamplighter Literary Magazine (PUB 010-13d)"@en .
