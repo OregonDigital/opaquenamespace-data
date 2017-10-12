@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/WuTang> <http://purl.org/dc/terms/issued> "2017-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WuTang> <http://purl.org/dc/terms/modified> "2017-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WuTang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WuTang> <http://www.w3.org/2000/01/rdf-schema#comment> "Winner of the Murray Warner Essay Contest in 1932 and University of Oregon student. Appears in the Gertrude Bass Warner papers, 1879-1954 (UA 022) collection, University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/people/WuTang> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/people/WuTang> <http://www.w3.org/2000/01/rdf-schema#label> "Wu, Tang"@en .
+<http://opaquenamespace.org/ns/people/WuTang> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
