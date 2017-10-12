@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/WarnkeLouiseNWarnkeLouiseN> <http://purl.org/dc/terms/issued> "2017-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WarnkeLouiseNWarnkeLouiseN> <http://purl.org/dc/terms/modified> "2017-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WarnkeLouiseNWarnkeLouiseN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WarnkeLouiseNWarnkeLouiseN> <http://www.w3.org/2000/01/rdf-schema#comment> "Assistant to the Director of the De Young Museum, San Francisco, California, ca. 1951. Appears in the Gertrude Bass Warner papers, 1879-1954 (UA 022) collection, University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/creator/WarnkeLouiseNWarnkeLouiseN> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/WarnkeLouiseNWarnkeLouiseN> <http://www.w3.org/2000/01/rdf-schema#label> "Warnke, Louise N."@en .
+<http://opaquenamespace.org/ns/creator/WarnkeLouiseNWarnkeLouiseN> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
