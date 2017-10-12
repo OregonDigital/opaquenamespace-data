@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://purl.org/dc/terms/date> "1899/1929" .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://purl.org/dc/terms/issued> "2017-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://purl.org/dc/terms/modified> "2017-10-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://schema.org/alternateName> "Eugene Morning Register (Eugene, Or.)"@en .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://www.w3.org/2000/01/rdf-schema#comment> "Daily newpaper, Eugene, Oregon. LCCN: sn 96088115 OCLC: 37529798. The Eugene Morning Register became the Morning Register (LCCN: sn 96088114 OCLC: 37529794) in 1905. It merged with the The Guard (Eugene, Or.) (LCCN: sn 93051613 OCLC: 30326355) in 1930 to become the Eugene Register-Guard (Eugene, Or.) (LCCN: sn 85042472 OCLC: 6493245) and later the Register Guard (LCCN: sn 83008665 OCLC: 9836354 ISSN: 0739-8557) in 1983."@en .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://www.w3.org/2000/01/rdf-schema#label> "Morning Register (Eugene, Or.)"@en .
+<http://opaquenamespace.org/ns/creator/MorningRegisterEugeneOr> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
