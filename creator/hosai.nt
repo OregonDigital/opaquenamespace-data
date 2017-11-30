@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/hosai> <http://purl.org/dc/terms/issued> "2017-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/hosai> <http://purl.org/dc/terms/modified> "2017-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/hosai> <http://schema.org/alternateName> "Takeuchi, Eikyu"@en .
+<http://opaquenamespace.org/ns/creator/hosai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/hosai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/hosai> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nosatsu practitioner in Meiji-Taisho Japan. Appears in the Gertrude Bass Warner Collection of Japanese Votive Slips (nōsatsu), 1850s to 1930s digital collection, University of Oregon Libraries"@en .
+<http://opaquenamespace.org/ns/creator/hosai> <http://www.w3.org/2000/01/rdf-schema#label> "Hosai"@en .
