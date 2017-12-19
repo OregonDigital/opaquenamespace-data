@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/JohnCAinsworthpapers18581911> <http://purl.org/dc/terms/date> "1858/1911" .
+<http://opaquenamespace.org/ns/localCollectionName/JohnCAinsworthpapers18581911> <http://purl.org/dc/terms/issued> "2017-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnCAinsworthpapers18581911> <http://purl.org/dc/terms/modified> "2017-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnCAinsworthpapers18581911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnCAinsworthpapers18581911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnCAinsworthpapers18581911> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 250 of the University of Oregon Special Collections and University Archives. John Commingers Ainsworth (1822-1893) was the major founder of the Oregon SteamNavigation (OSN) Company, the most powerful transportation monopoly in the Pacific Northwest."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnCAinsworthpapers18581911> <http://www.w3.org/2000/01/rdf-schema#label> "John C. Ainsworth papers, 1858-1911"@en .
