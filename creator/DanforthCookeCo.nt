@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://purl.org/dc/terms/date> "1825/1865" .
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://purl.org/dc/terms/issued> "2018-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://purl.org/dc/terms/modified> "2018-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://schema.org/alternateName> "Danforth Cooke and Company"@en .
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://www.w3.org/2000/01/rdf-schema#comment> "Locomotive builders of Patterson, New Jersey. Later became Danforth Locomotive & Machine Company (1865-1882), Cooke Locomotive & Machine Company (1882-1901) and Cooke Works of the American Locomotive Compnay (1901-after 1926). Appears in the Jon C. Ainsworth papers, 1858-1911 (Coll 250) of the University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/creator/DanforthCookeCo> <http://www.w3.org/2000/01/rdf-schema#label> "Danforth Cooke & Co"@en .
