@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/Colverfamilypaperscirca18601888> <http://purl.org/dc/terms/date> "1860/1888" .
+<http://opaquenamespace.org/ns/localCollectionName/Colverfamilypaperscirca18601888> <http://purl.org/dc/terms/issued> "2018-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/Colverfamilypaperscirca18601888> <http://purl.org/dc/terms/modified> "2018-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/Colverfamilypaperscirca18601888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/localCollectionName/Colverfamilypaperscirca18601888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/Colverfamilypaperscirca18601888> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in the University of Oregon Special Collections and University Archives. Samuel Colver (1815-1891) came to Oregon in 1850, where he served as an Indian Agent and U.S. Marshall, and helped found the community of Phoenix, Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/Colverfamilypaperscirca18601888> <http://www.w3.org/2000/01/rdf-schema#label> "Colver family papers, circa 1860-1888"@en .
