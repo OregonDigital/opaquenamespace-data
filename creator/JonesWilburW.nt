@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/JonesWilburW> <http://purl.org/dc/terms/issued> "2018-01-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JonesWilburW> <http://purl.org/dc/terms/modified> "2018-01-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/JonesWilburW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/JonesWilburW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/JonesWilburW> <http://www.w3.org/2000/01/rdf-schema#comment> "Son of Wilbur A. Jones and Nellie Rose (Newbury) Jones. Appears in the Colver Family papers, circa 1860-1888 (Ax 126) in the University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/creator/JonesWilburW> <http://www.w3.org/2000/01/rdf-schema#label> "Jones, Wilbur W."@en .
