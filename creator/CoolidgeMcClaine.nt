@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://purl.org/dc/terms/date> "1880/1937" .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://purl.org/dc/terms/issued> "2018-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://purl.org/dc/terms/modified> "2018-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://schema.org/alternateName> "Coolidge and McClaine"@en .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://www.w3.org/2000/01/rdf-schema#comment> "Ai Coolidge (1823-1908) and Adolphus 'Jake' FIelding McClaine (1932-1899) of Silverton, Oregon formed a bank in 1880, incorporated in 1890, and sold to the First National Bank of Portland in 1937. Appears in the Willis Dunagan diaries and legal papers, 1858-1897 (Ax 133) collection of the University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://www.w3.org/2000/01/rdf-schema#label> "Coolidge & McClaine"@en .
+<http://opaquenamespace.org/ns/creator/CoolidgeMcClaine> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
