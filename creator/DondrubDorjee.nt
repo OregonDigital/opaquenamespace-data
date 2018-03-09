@@ -1,0 +1,4 @@
+<http://opaquenamespace.org/ns/creator/DondrubDorjee> <http://purl.org/dc/terms/issued> "2018-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DondrubDorjee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/DondrubDorjee> <http://www.w3.org/2000/01/rdf-schema#comment> "Author of Solar Electricity Generating Panels: Final Report to the British Embassy, Beijing. Appears in the e-Asia Digital Library, University of Oregon Libraries."@en .
+<http://opaquenamespace.org/ns/creator/DondrubDorjee> <http://www.w3.org/2000/01/rdf-schema#label> "Dondrub, Dorjee"@en .
