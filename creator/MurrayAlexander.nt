@@ -1,0 +1,4 @@
+<http://opaquenamespace.org/ns/creator/MurrayAlexander> <http://purl.org/dc/terms/issued> "2018-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/MurrayAlexander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/MurrayAlexander> <http://www.w3.org/2000/01/rdf-schema#comment> "Author of Doings in China: Being the Personal Narrative of an Officer Engaged in the Late Chinese Expedition, From the Recapture of Chusan in 1841, to the Peace of Nankin in 1842. Appears in the e-Asia Digital Library, University of Oregon Libraries."@en .
+<http://opaquenamespace.org/ns/creator/MurrayAlexander> <http://www.w3.org/2000/01/rdf-schema#label> "Murray, Alexander"@en .
