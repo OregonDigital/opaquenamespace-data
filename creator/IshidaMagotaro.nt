@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://purl.org/dc/terms/date> "1874/1936" .
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://purl.org/dc/terms/issued> "2018-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://purl.org/dc/terms/modified> "2018-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://schema.org/alternateName> "石田孫太郎"@ja .
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://www.w3.org/2000/01/rdf-schema#comment> "Author of Neko to iro no shikou 猫と色の嗜好. Appears in the e-Asia Digital Library, University of Oregon Libraries."@en .
+<http://opaquenamespace.org/ns/creator/IshidaMagotaro> <http://www.w3.org/2000/01/rdf-schema#label> "Ishida, Magotaro"@en .
