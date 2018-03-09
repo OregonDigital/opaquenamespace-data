@@ -1,3 +1,4 @@
+<http://opaquenamespace.org/ns/creator/HuJun> <http://purl.org/dc/terms/date> "1869/1944" .
 <http://opaquenamespace.org/ns/creator/HuJun> <http://purl.org/dc/terms/issued> "2018-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/HuJun> <http://purl.org/dc/terms/modified> "2018-03-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/HuJun> <http://schema.org/alternateName> "胡鈞"@zh .
