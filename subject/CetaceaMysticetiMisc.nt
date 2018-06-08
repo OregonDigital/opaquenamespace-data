@@ -1,0 +1,4 @@
+<http://opaquenamespace.org/ns/subject/CetaceaMysticetiMisc> <http://purl.org/dc/terms/issued> "2018-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/CetaceaMysticetiMisc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/subject/CetaceaMysticetiMisc> <http://www.w3.org/2000/01/rdf-schema#comment> "Appears in the Oregon Institute of Marine Biology Slides and Photographs collection, University of Oregon."@en .
+<http://opaquenamespace.org/ns/subject/CetaceaMysticetiMisc> <http://www.w3.org/2000/01/rdf-schema#label> "Cetacea, Mysticeti--Miscellaneous"@en .
