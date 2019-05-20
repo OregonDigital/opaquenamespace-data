@@ -1,5 +1,8 @@
 <http://opaquenamespace.org/ns/creator/BarnesMaud> <http://purl.org/dc/terms/issued> "2016-08-01"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/BarnesMaud> <http://purl.org/dc/terms/modified> "2016-08-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BarnesMaud> <http://purl.org/dc/terms/modified> "2019-05-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BarnesMaud> <http://schema.org/alternateName> "Barnes, Maud Frances"@en .
 <http://opaquenamespace.org/ns/creator/BarnesMaud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BarnesMaud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/BarnesMaud> <http://www.w3.org/2000/01/rdf-schema#comment> "This person participated in women's archery at the University of Oregon in 1919, and pictured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
+<http://opaquenamespace.org/ns/creator/BarnesMaud> <http://www.w3.org/2000/01/rdf-schema#comment> "Appears in the Gertrude Bass Warner papers, 1879-1954 (UA 022) collection, University of Oregon Special Collections and University Archives. "@en .
 <http://opaquenamespace.org/ns/creator/BarnesMaud> <http://www.w3.org/2000/01/rdf-schema#label> "Barnes, Maud"@en .
