@@ -1,7 +1,9 @@
 <http://opaquenamespace.org/ns/people/LinnFletcher> <http://purl.org/dc/terms/issued> "2017-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/LinnFletcher> <http://purl.org/dc/terms/modified> "2017-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/LinnFletcher> <http://purl.org/dc/terms/modified> "2019-06-19"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/2000/01/rdf-schema#comment> "Alumni class of 1890. Pictured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
-<http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/2000/01/rdf-schema#comment> "Donor to the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection. "@en .
+<http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
 <http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/2000/01/rdf-schema#label> "Linn, Fletcher"@en .
-<http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/people/LinnFletcher> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
