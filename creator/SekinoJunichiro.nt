@@ -7,4 +7,4 @@
 <http://opaquenamespace.org/ns/creator/SekinoJunichiro> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/creator/SekinoJunichiro> <http://www.w3.org/2000/01/rdf-schema#label> "Sekino Jun'ichiro"@en .
 <http://opaquenamespace.org/ns/creator/SekinoJunichiro> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/creator/SekinoJunichiro> <http://www.w3.org/2001/XMLSchema#date> "1914-1988"@en .
+<http://opaquenamespace.org/ns/creator/SekinoJunichiro> <http://purl.org/dc/terms/date> "1914-1988" .
