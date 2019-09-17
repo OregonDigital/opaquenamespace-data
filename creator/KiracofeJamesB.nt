@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://purl.org/dc/terms/issued> "2019-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://purl.org/dc/terms/modified> "2019-09-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://schema.org/alternateName> "Kiracofe, James B."@en .
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://schema.org/alternateName> "Kiracofe, Barry"@en .
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://www.w3.org/2000/01/rdf-schema#comment> "Photographer and Director of the Inter-American Institute for Advanced Studies in Cultural History, Free Union, Virginia. Appears in the Art and Architecture Images collection."@en .
+<http://opaquenamespace.org/ns/creator/KiracofeJamesB> <http://www.w3.org/2000/01/rdf-schema#label> "Kiracofe, James Bartholomay"@en .
