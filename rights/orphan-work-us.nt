@@ -1,8 +1,8 @@
 <http://opaquenamespace.org/ns/rights/orphan-work-us> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/rights/orphan-work-us> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/RightsStatement> .
+<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://purl.org/dc/terms/modified> "2019-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/rights/orphan-work-us> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/RightsStatement> .
+<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/rights/orphan-work-us> <http://www.w3.org/2000/01/rdf-schema#comment> "The Orphan works statement can be applied to objects that have been identified as orphan works in the country of first publication and in line with the requirements of the country. This rights statement applies to orphan works as defined in the United States of America. When an object has an orphan work statement, a good faith effort has been applied to try to identify the copyright holder and seek permission."@en .
-<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://www.w3.org/2000/01/rdf-schema#label> "Orphan Work"@en .
+<http://opaquenamespace.org/ns/rights/orphan-work-us> <http://www.w3.org/2000/01/rdf-schema#label> "Orphan Work - United States"@en .
