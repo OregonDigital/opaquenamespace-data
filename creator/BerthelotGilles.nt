@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/BerthelotGilles> <http://purl.org/dc/terms/issued> "2019-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BerthelotGilles> <http://purl.org/dc/terms/modified> "2019-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BerthelotGilles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BerthelotGilles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/BerthelotGilles> <http://www.w3.org/2000/01/rdf-schema#comment> "Mayor of Tours and Treasurer-General of the French King's finances. Patron of Château d'Azay-le-Rideau, Azay-le-Rideau, France. Active early 16th century. Appears in the Art and Architecture Images collection, University of Oregon."@en .
+<http://opaquenamespace.org/ns/creator/BerthelotGilles> <http://www.w3.org/2000/01/rdf-schema#label> "Berthelot, Gilles"@fr .
