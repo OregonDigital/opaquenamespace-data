@@ -4,4 +4,4 @@
 <http://opaquenamespace.org/ns/creator/ClermontAntoineIIIde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/ClermontAntoineIIIde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/ClermontAntoineIIIde> <http://www.w3.org/2000/01/rdf-schema#comment> "French Lieutenant General and Grand Maître des Eaux et Forêts. Commissioned the building of the chateau of Ancy-le-Franc, Ancy-le-Franc, France in 1542. Appears in the Art and Architecture Images collection, University of Oregon."@en .
-<http://opaquenamespace.org/ns/creator/ClermontAntoineIIIde> <http://www.w3.org/2000/01/rdf-schema#label> "Clermont, Antoine III de"@en .
+<http://opaquenamespace.org/ns/creator/ClermontAntoineIIIde> <http://www.w3.org/2000/01/rdf-schema#label> "Clermont, Antoine III de"@fr .
