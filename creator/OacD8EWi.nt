@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://purl.org/dc/terms/date> "1924-11-13/2016-09-29" .
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://purl.org/dc/terms/issued> "2019-10-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://purl.org/dc/terms/modified> "2019-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://schema.org/alternateName> "Schmitt, Roman Augustine"@en .
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor, cosmochemistry; joined OSU in 1966. Joint appointment at Radiation Center and Dept. of Chemistry; retired, 1998"@en .
+<http://opaquenamespace.org/ns/creator/OacD8EWi> <http://www.w3.org/2000/01/rdf-schema#label> "Schmitt, Roman A."@en .
