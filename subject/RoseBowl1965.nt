@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/subject/RoseBowl1965> <http://purl.org/dc/terms/date> "1965-01-01" .
+<http://opaquenamespace.org/ns/subject/RoseBowl1965> <http://purl.org/dc/terms/issued> "2019-10-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/RoseBowl1965> <http://purl.org/dc/terms/modified> "2019-10-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/RoseBowl1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/subject/RoseBowl1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/subject/RoseBowl1965> <http://www.w3.org/2000/01/rdf-schema#comment> "Michigan vs. Oregon State"@en .
+<http://opaquenamespace.org/ns/subject/RoseBowl1965> <http://www.w3.org/2000/01/rdf-schema#label> "Rose Bowl (Football game) (1965 : Pasadena, Calif.)"@en .
