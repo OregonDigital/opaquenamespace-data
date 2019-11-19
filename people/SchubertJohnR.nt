@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/SchubertJohnR> <http://purl.org/dc/terms/issued> "2019-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/SchubertJohnR> <http://purl.org/dc/terms/modified> "2019-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/SchubertJohnR> <http://schema.org/alternateName> "Schubert, John Rockwell"@en .
+<http://opaquenamespace.org/ns/people/SchubertJohnR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/SchubertJohnR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/SchubertJohnR> <http://www.w3.org/2000/01/rdf-schema#comment> "Assistant chemist, Agricultural Chemistry department, employed at OSU 1951-1963, including completing Ph.D. at OSC in 1956. Completed M.S. at OSC in 1950. See also MSS Schubert."@en .
+<http://opaquenamespace.org/ns/people/SchubertJohnR> <http://www.w3.org/2000/01/rdf-schema#label> "Schubert, John R."@en .
