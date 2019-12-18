@@ -1,3 +1,4 @@
+<http://opaquenamespace.org/ns/creator/DementEllisSamuel> <http://purl.org/dc/terms/isReplacedBy> "http://id.loc.gov/authorities/names/no2019185113" .
 <http://opaquenamespace.org/ns/creator/DementEllisSamuel> <http://purl.org/dc/terms/issued> "2017-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/DementEllisSamuel> <http://purl.org/dc/terms/modified> "2017-09-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/DementEllisSamuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
