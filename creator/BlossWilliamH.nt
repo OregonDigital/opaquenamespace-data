@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://purl.org/dc/terms/date> "1959-04-04/1921-06-22" .
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://purl.org/dc/terms/issued> "2020-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://purl.org/dc/terms/modified> "2020-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://schema.org/alternateName> "Bloss, BIll"@en .
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://www.w3.org/2000/01/rdf-schema#comment> "First coach of Oregon State Agricultural College football team and quarterback, in 1893. Created oldest extant map of OSAC campus. Son of OSAC President John McKnight Bloss."@en .
+<http://opaquenamespace.org/ns/creator/BlossWilliamH> <http://www.w3.org/2000/01/rdf-schema#label> "Bloss, William H."@en .
