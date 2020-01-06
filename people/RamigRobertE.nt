@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/RamigRobertE> <http://purl.org/dc/terms/issued> "2020-01-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RamigRobertE> <http://purl.org/dc/terms/modified> "2020-01-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RamigRobertE> <http://schema.org/alternateName> "Ramig, Bob"@en .
+<http://opaquenamespace.org/ns/people/RamigRobertE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/RamigRobertE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/RamigRobertE> <http://www.w3.org/2000/01/rdf-schema#comment> "Robert (Bob) E. Ramig was a Courtesy Associate Professor of Soils at Pendleton Experiment Station and a soil scientist with the U.S. Department of Agriculture from 1961-1994."@en .
+<http://opaquenamespace.org/ns/people/RamigRobertE> <http://www.w3.org/2000/01/rdf-schema#label> "Ramig, Robert E."@en .
