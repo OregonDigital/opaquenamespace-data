@@ -1,4 +1,4 @@
-<http://opaquenamespace.org/ns/creator/HowellJoseph> <http://purl.org/dc/terms/date> "1850-1910 circa" .
+<http://opaquenamespace.org/ns/creator/HowellJoseph> <http://purl.org/dc/terms/date> "1850/1910 circa" .
 <http://opaquenamespace.org/ns/creator/HowellJoseph> <http://purl.org/dc/terms/issued> "2020-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/HowellJoseph> <http://purl.org/dc/terms/modified> "2020-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/HowellJoseph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
