@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ParkJosephK> <http://purl.org/dc/terms/issued> "2020-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ParkJosephK> <http://purl.org/dc/terms/modified> "2020-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ParkJosephK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ParkJosephK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ParkJosephK> <http://www.w3.org/2000/01/rdf-schema#comment> "Joseph K. Park was Courtesy Associate Professor of Agricultural Engineering at OSU and Agricultural Engineer for the U.S. Department of Agriculture from 1963-1983."@en .
+<http://opaquenamespace.org/ns/people/ParkJosephK> <http://www.w3.org/2000/01/rdf-schema#label> "Park, Joseph Kenneth"@en .
