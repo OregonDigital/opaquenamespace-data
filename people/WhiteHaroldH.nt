@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/WhiteHaroldH> <http://purl.org/dc/terms/issued> "2020-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WhiteHaroldH> <http://purl.org/dc/terms/modified> "2020-01-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WhiteHaroldH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WhiteHaroldH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WhiteHaroldH> <http://www.w3.org/2000/01/rdf-schema#comment> "Harold H. White was Professor of Agronomy at OSAC/OSC/OSU and Superintendent of Southern Oregon Agricultural Experiment Station from 1931-1964."@en .
+<http://opaquenamespace.org/ns/people/WhiteHaroldH> <http://www.w3.org/2000/01/rdf-schema#label> "White, Harold H."@en .
