@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/DeitzPhotoStudio> <http://purl.org/dc/terms/issued> "2020-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DeitzPhotoStudio> <http://purl.org/dc/terms/modified> "2020-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DeitzPhotoStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/DeitzPhotoStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/DeitzPhotoStudio> <http://www.w3.org/2000/01/rdf-schema#comment> "Photography studio in Hood River, Oregon, from about 1907-1922. Operated by Horace C. Deitz."@en .
+<http://opaquenamespace.org/ns/creator/DeitzPhotoStudio> <http://www.w3.org/2000/01/rdf-schema#label> "Deitz Photo Studio"@en .
