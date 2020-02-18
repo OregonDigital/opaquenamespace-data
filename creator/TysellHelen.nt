@@ -1,3 +1,4 @@
+<http://opaquenamespace.org/ns/creator/TysellHelen> <http://purl.org/dc/terms/date> "1912/1974" .
 <http://opaquenamespace.org/ns/creator/TysellHelen> <http://purl.org/dc/terms/issued> "2020-02-11"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/TysellHelen> <http://purl.org/dc/terms/modified> "2020-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/TysellHelen> <http://schema.org/alternateName> "Helen Margaret Reynolds"@en .
