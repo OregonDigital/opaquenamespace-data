@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/WickWilliamQ> <http://purl.org/dc/terms/issued> "2020-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WickWilliamQ> <http://purl.org/dc/terms/modified> "2020-02-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WickWilliamQ> <http://schema.org/alternateName> "Wick, Bill"@en .
+<http://opaquenamespace.org/ns/creator/WickWilliamQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WickWilliamQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/WickWilliamQ> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in SCARC: http://scarc.library.oregonstate.edu/findingaids/index.php?p=collections/findingaid&id=2809"@en .
+<http://opaquenamespace.org/ns/creator/WickWilliamQ> <http://www.w3.org/2000/01/rdf-schema#label> "Wick, William Q."@en .
