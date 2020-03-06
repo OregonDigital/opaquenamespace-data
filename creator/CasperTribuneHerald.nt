@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/CasperTribuneHerald> <http://purl.org/dc/terms/issued> "2020-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CasperTribuneHerald> <http://purl.org/dc/terms/modified> "2020-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/CasperTribuneHerald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/CasperTribuneHerald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/CasperTribuneHerald> <http://www.w3.org/2000/01/rdf-schema#comment> "Daily newspaper published in Casper, Wyoming between 1931-1962. Featured in John Edward Tysell, Sr. papers collection. "@en .
+<http://opaquenamespace.org/ns/creator/CasperTribuneHerald> <http://www.w3.org/2000/01/rdf-schema#label> "Casper Tribune-Herald"@en .
