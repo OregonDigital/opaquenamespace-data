@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/ZeeviK> <http://purl.org/dc/terms/issued> "2020-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZeeviK> <http://schema.org/alternateName> "Zeevi, Rehavaam; Zeevi, Rehavam"@en .
+<http://opaquenamespace.org/ns/creator/ZeeviK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ZeeviK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/ZeeviK> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; editor found in Water Sources in Judea and Samaria and Their Exploitation, Yehuda Veshomron 1977-1978."@en .
+<http://opaquenamespace.org/ns/creator/ZeeviK> <http://www.w3.org/2000/01/rdf-schema#label> "Zeevi, K."@en .
