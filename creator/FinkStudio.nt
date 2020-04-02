@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/FinkStudio> <http://purl.org/dc/terms/issued> "2020-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FinkStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/FinkStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/FinkStudio> <http://www.w3.org/2000/01/rdf-schema#comment> "Photographer found in OSU Helen E. Plinkiewisch Papers, 1888-1995 (MSS Plinkiewisch); owned by Leonard Fink, a russian artist, Portland, Oregon, found in Bulletin of Photography v.26, page 472."@en .
+<http://opaquenamespace.org/ns/creator/FinkStudio> <http://www.w3.org/2000/01/rdf-schema#label> "Fink Studio"@en .
