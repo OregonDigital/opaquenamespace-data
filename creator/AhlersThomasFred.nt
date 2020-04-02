@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/AhlersThomasFred> <http://purl.org/dc/terms/issued> "2020-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AhlersThomasFred> <http://schema.org/alternateName> "Ahlers, Tom"@en .
+<http://opaquenamespace.org/ns/creator/AhlersThomasFred> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/AhlersThomasFred> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/AhlersThomasFred> <http://www.w3.org/2000/01/rdf-schema#comment> "Photographer found in OSU Barometer Photographs, 1950-1970 (P 035). Class of 1966. Married Linda Stebner, class of 1967 who was editor of Barometer. Both listed under original surnames in Commencement programs."@en .
+<http://opaquenamespace.org/ns/creator/AhlersThomasFred> <http://www.w3.org/2000/01/rdf-schema#label> "Ahlers, Thomas Fred"@en .
