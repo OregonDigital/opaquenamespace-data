@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/GribbleJohnE> <http://purl.org/dc/terms/issued> "2020-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GribbleJohnE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/GribbleJohnE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/GribbleJohnE> <http://www.w3.org/2000/01/rdf-schema#comment> "Began working for Forest Service by 1907 under Supervisor of Siskiyou National Forest, and of Siskiyou-Ashland-Coquille Reserves. Became Forest Guard in 1908, promoted to Assistant Forest Ranger in 1909. Became Forest Ranger in Star District in 1913, Ashland District in 1917-1918. Ranger in Klamath District, 1919. Assigned to scaling at Pelican Bay, June 12, 1920, and was Ranger on Sales until 1930. Retired in 1934 as Senior Ranger."@en .
+<http://opaquenamespace.org/ns/creator/GribbleJohnE> <http://www.w3.org/2000/01/rdf-schema#label> "Gribble, John E."@en .
