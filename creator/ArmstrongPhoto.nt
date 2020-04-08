@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/ArmstrongPhoto> <http://purl.org/dc/terms/issued> "2020-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ArmstrongPhoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/ArmstrongPhoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/ArmstrongPhoto> <http://www.w3.org/2000/01/rdf-schema#comment> "Photograph studio by A.J. Armstrong. First in Cottage Grove, Oregon, from 1909 to 1917, then later in Hammond, Oregon."@en .
+<http://opaquenamespace.org/ns/creator/ArmstrongPhoto> <http://www.w3.org/2000/01/rdf-schema#label> "Armstrong Photo"@en .
