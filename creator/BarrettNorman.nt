@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/BarrettNorman> <http://purl.org/dc/terms/issued> "2020-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BarrettNorman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BarrettNorman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/BarrettNorman> <http://www.w3.org/2000/01/rdf-schema#comment> "U.S. Forest Service biologist found in Oregonian, 1989-09-17, part of House Committee on Agriculture subcommittee on Forests, Family Farms, and Energy, 1989-11 and 1990-03."@en .
+<http://opaquenamespace.org/ns/creator/BarrettNorman> <http://www.w3.org/2000/01/rdf-schema#label> "Barrett, Norman"@en .
