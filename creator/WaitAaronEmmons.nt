@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://purl.org/dc/terms/date> "1813/1898" .
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://purl.org/dc/terms/issued> "2020-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://purl.org/dc/terms/modified> "2020-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://schema.org/alternateName> "Wait, A. E."@en .
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://www.w3.org/2000/01/rdf-schema#comment> "Judge. Former attorney of  Daniel H. Lownsdale, one of the founders of Portland, Oregon. Featured in the CA 1853 Feb 1 collection."@en .
+<http://opaquenamespace.org/ns/creator/WaitAaronEmmons> <http://www.w3.org/2000/01/rdf-schema#label> "Wait, Aaron Emmons"@en .
