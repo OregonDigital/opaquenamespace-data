@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/TobinMichael> <http://purl.org/dc/terms/issued> "2019-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/TobinMichael> <http://purl.org/dc/terms/modified> "2019-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/TobinMichael> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/TobinMichael> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/TobinMichael> <http://www.w3.org/2000/01/rdf-schema#comment> "Editor-in-Chief of Emerald Media 2019-2020 (University of Oregon)"@en .
+<http://opaquenamespace.org/ns/people/TobinMichael> <http://www.w3.org/2000/01/rdf-schema#label> "Tobin, Michael"@en .

@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/VanderslootMusicPublishingCo> <http://purl.org/dc/terms/issued> "2017-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/VanderslootMusicPublishingCo> <http://purl.org/dc/terms/modified> "2017-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/VanderslootMusicPublishingCo> <http://schema.org/alternateName> "Vandersloot Music Publishing Co."@en .
+<http://opaquenamespace.org/ns/creator/VanderslootMusicPublishingCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/VanderslootMusicPublishingCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/VanderslootMusicPublishingCo> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher. University of Oregon Historic Sheet Music Collection (\"The American Legion one-step march\", 1920)"@en .
+<http://opaquenamespace.org/ns/creator/VanderslootMusicPublishingCo> <http://www.w3.org/2000/01/rdf-schema#label> "Vandersloot Music Publishing Company"@en .

@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/osuDegreeFields/e0Wm1jOK> <http://purl.org/dc/terms/date> "2017" .
+<http://opaquenamespace.org/ns/osuDegreeFields/e0Wm1jOK> <http://purl.org/dc/terms/issued> "2018-05-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields/e0Wm1jOK> <http://purl.org/dc/terms/modified> "2018-05-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields/e0Wm1jOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/osuDegreeFields/e0Wm1jOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/osuDegreeFields/e0Wm1jOK> <http://www.w3.org/2000/01/rdf-schema#label> "Business Information Systems"@en .

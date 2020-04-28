@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/BassMaryMrsPerkinsB> <http://purl.org/dc/terms/issued> "2017-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BassMaryMrsPerkinsB> <http://purl.org/dc/terms/modified> "2017-03-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BassMaryMrsPerkinsB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BassMaryMrsPerkinsB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/BassMaryMrsPerkinsB> <http://www.w3.org/2000/01/rdf-schema#comment> "Wife of Perkins Burnham Bass, Sr. of Chicago, Illinois. Mother of Perkins B. Bass, Jr., Mrs. A. A. McLean and Mrs. Frank E. Corliss. Appears in the Gertrude Bass Warner manuscript collections, University of Oregon."@en .
+<http://opaquenamespace.org/ns/people/BassMaryMrsPerkinsB> <http://www.w3.org/2000/01/rdf-schema#label> "Bass, Mary (Mrs. Perkins B.)"@en .

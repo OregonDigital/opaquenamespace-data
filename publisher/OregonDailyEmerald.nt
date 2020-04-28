@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://purl.org/dc/terms/date> "1899/open" .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://purl.org/dc/terms/issued> "2017-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://purl.org/dc/terms/modified> "2017-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://schema.org/alternateName> "Daily Emerald"@en .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://schema.org/alternateName> "Eugene Daily Emerald"@en .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://schema.org/alternateName> "Oregon Weekly"@en .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://schema.org/alternateName> "Oregon Emerald"@en .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://www.w3.org/2000/01/rdf-schema#comment> "Student newspaper of the University of Oregon, LCCN: 2004260239 OCLC: 55134738. Previously published as the Oregon Weekly (LCCN: 2004260240 OCLC: 52198568) 1900-1909, the Oregon Emerald (LCCN: 2004260238 OCLC: 55134724) 1909-1920. Reorganized and renamed the Daily Emerald (LCCN: 2016260195 OCLC: 704987467) in 2012 when it became an online student news site with supplemental print publication twice a week. Appears in the Gertrude Bass Warner, 1879-1954 (UA022) collection"@en .
+<http://opaquenamespace.org/ns/publisher/OregonDailyEmerald> <http://www.w3.org/2000/01/rdf-schema#label> "Oregon Daily Emerald"@en .

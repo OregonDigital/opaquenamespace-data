@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/publisher/TheRailway> <http://purl.org/dc/terms/issued> "2017-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/TheRailway> <http://purl.org/dc/terms/modified> "2017-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/TheRailway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/TheRailway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/TheRailway> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher of The Columbia River Pictorial Map, of Portland, Oregon 1916. Appears in the University of Oregon Special Collections Manuscripts and Rare Books digital collection"@en .
+<http://opaquenamespace.org/ns/publisher/TheRailway> <http://www.w3.org/2000/01/rdf-schema#label> "The Railway"@en .

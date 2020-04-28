@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/CameronJessieG> <http://purl.org/dc/terms/issued> "2017-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CameronJessieG> <http://purl.org/dc/terms/modified> "2017-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CameronJessieG> <http://schema.org/alternateName> "Cameron, Jessie G. (Mrs. J. Fraser)"@en .
+<http://opaquenamespace.org/ns/people/CameronJessieG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CameronJessieG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CameronJessieG> <http://www.w3.org/2000/01/rdf-schema#comment> "Curator, University of Oregon Museum of Art. Appears in the Gertrude Bass Warner manuscript collections, University of Oregon."@en .
+<http://opaquenamespace.org/ns/people/CameronJessieG> <http://www.w3.org/2000/01/rdf-schema#label> "Cameron, Jessie G."@en .

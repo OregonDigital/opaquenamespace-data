@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/DoughertyRSA> <http://purl.org/dc/terms/issued> "2017-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/DoughertyRSA> <http://purl.org/dc/terms/modified> "2017-04-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/DoughertyRSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/DoughertyRSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/DoughertyRSA> <http://www.w3.org/2000/01/rdf-schema#comment> "Captain, United States Army Corps of Engineers, stationed at the General Engineer Depot, 1419 F Street, NW, Washington, DC ca. 1917. Appears in the Gertrude Bass Warner manuscripts collections, University of Oregon."@en .
+<http://opaquenamespace.org/ns/people/DoughertyRSA> <http://www.w3.org/2000/01/rdf-schema#label> "Dougherty, R. S. A."@en .

@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://purl.org/dc/terms/issued> "2019-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://purl.org/dc/terms/modified> "2019-11-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://schema.org/alternateName> "Allen, Thomas Cort, Jr."@en .
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://schema.org/alternateName> "Allen, Thomas Cort"@en .
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Plant Pathology, OSU, 1962-1992."@en .
+<http://opaquenamespace.org/ns/people/AllenThomasC> <http://www.w3.org/2000/01/rdf-schema#label> "Allen, Thomas C., Jr."@en .

@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://purl.org/dc/terms/date> "1857/1927" .
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://purl.org/dc/terms/issued> "2020-02-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://purl.org/dc/terms/modified> "2020-02-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://schema.org/alternateName> "Th. V. Holbé"@en .
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://www.w3.org/2000/01/rdf-schema#comment> "Membre de la Societe and Correspondant de l'Ecole d'Anthropologie de Paris, Membre de l;Institut International d'Anthropologie, Correspondant de l'Ecole Francase d'Extreme-Orient. Of 'Hermosillo' 2 Place Marechal Jottre, Saigon. Appears in the Gertrude Bass Warner manuscript collections, University of Oregon."@en .
+<http://opaquenamespace.org/ns/creator/HolbeThomasVictor> <http://www.w3.org/2000/01/rdf-schema#label> "Holbé, Thomas Victor"@en .

@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://purl.org/dc/terms/date> "1881/1972" .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://purl.org/dc/terms/issued> "2017-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://purl.org/dc/terms/modified> "2017-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://schema.org/alternateName> "Ruby Villard Hendricks"@en .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://www.w3.org/2000/01/rdf-schema#comment> "Ruby Hendricks Goodrich donated photographs that are now part of the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection. Mrs. Ruby Hendricks Goodrich, was the daughter of T. G. Hendricks, Hendricks Hall's namesake. Goodrich graduated from the University of Oregon with a B. A. in 1903. During her time at UO , she was a member of the Eutaxian Society (a literary society) and the Bohemian Club. After draduating UO, she was very active in the Eugene community."@en .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://www.w3.org/2000/01/rdf-schema#label> "Hendricks Goodrich, Ruby"@en .
+<http://opaquenamespace.org/ns/people/HendricksGoodrichRuby> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

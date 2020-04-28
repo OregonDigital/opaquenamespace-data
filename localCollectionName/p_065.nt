@@ -1,10 +1,10 @@
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://purl.org/dc/terms/issued> "2015-07-16" .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://purl.org/dc/terms/issued> "2015-06-18" .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://purl.org/dc/terms/modified> "2018-10-09"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in Special Collections & Archives Research Center, Oregon State University Libraries."@en .
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#label> "Mrs. George Case Photograph Collection, 1902-1904 (P 065)"@en .
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#comment> "The collection title was changed from \"Mrs. George Case Photograph Collection\" to \"Reva Buell Photograph Collection\" in September 2018 to better reflect the collection's creator."@en .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#label> "Reva Buell Photograph Collection (P 065)"@en .
+<http://opaquenamespace.org/ns/localCollectionName/p_065> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .

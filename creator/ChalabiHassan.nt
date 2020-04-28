@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/ChalabiHassan> <http://purl.org/dc/terms/issued> "2020-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ChalabiHassan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ChalabiHassan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/ChalabiHassan> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; Professor International Law, University of Lebanon."@en .
+<http://opaquenamespace.org/ns/creator/ChalabiHassan> <http://www.w3.org/2000/01/rdf-schema#label> "Chalabi, Hassan"@en .
+<http://opaquenamespace.org/ns/creator/ChalabiHassan> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/217252473> .

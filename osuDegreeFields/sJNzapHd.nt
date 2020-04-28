@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/osuDegreeFields/sJNzapHd> <http://purl.org/dc/terms/date> "{1970,1974,1976..1977,1980..1982,1988,1991..1992,1994,1998..1999,2005..2011}" .
+<http://opaquenamespace.org/ns/osuDegreeFields/sJNzapHd> <http://purl.org/dc/terms/issued> "2017-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields/sJNzapHd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/osuDegreeFields/sJNzapHd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/osuDegreeFields/sJNzapHd> <http://www.w3.org/2000/01/rdf-schema#label> "Ocean Engineering"@en .

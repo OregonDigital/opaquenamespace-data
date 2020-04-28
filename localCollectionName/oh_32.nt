@@ -1,5 +1,6 @@
-<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://purl.org/dc/terms/issued> "2015-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://purl.org/dc/terms/modified> "2015-11-06"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://purl.org/dc/terms/modified> "2016-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://purl.org/dc/terms/issued> "2015-11-06" .
+<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://purl.org/dc/terms/modified> "2018-05-29"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in Special Collections & Archives Research Center, Oregon State University Libraries." .
+<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in Special Collections & Archives Research Center, Oregon State University Libraries."@en .
+<http://opaquenamespace.org/ns/localCollectionName/oh_32> <http://www.w3.org/2000/01/rdf-schema#label> "Latinos en Oregón Oral History Collection (OH 32)"@en .

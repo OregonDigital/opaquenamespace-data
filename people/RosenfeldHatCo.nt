@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/RosenfeldHatCo> <http://purl.org/dc/terms/issued> "2017-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RosenfeldHatCo> <http://purl.org/dc/terms/modified> "2017-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RosenfeldHatCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/people/RosenfeldHatCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/RosenfeldHatCo> <http://www.w3.org/2000/01/rdf-schema#comment> "Portland hat company that was purchased by the Lanfrom family in 1938, after they fled Nazi-controlled Germany and emigrated to Portland. The Lanfroms changed the name to Columbia Hat Company, which later became Columbia Sportswear. Pictured in Angelus Studio photographs, 1880s-1940s collection."@en .
+<http://opaquenamespace.org/ns/people/RosenfeldHatCo> <http://www.w3.org/2000/01/rdf-schema#label> "Rosenfeld Hat Co."@en .

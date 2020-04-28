@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/people/MooreEW> <http://purl.org/dc/terms/issued> "2017-09-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/MooreEW> <http://purl.org/dc/terms/modified> "2017-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/MooreEW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/MooreEW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/MooreEW> <http://www.w3.org/2000/01/rdf-schema#comment> "Photographer. E. W. Moore was a Portland, Oregon based photographer, esteemed crayon artist, and Oregon National Guard member, during the late 19th century and early 20th century. Moore was an Abell & Son photography studio employee and, on January 2, 1888, Abell sold Moore his studio. According to the September 1909 Oregon Teachers Monthly Vol. 14, E. W. Moore's studio was in the Elks' Building Seventh and Stark in Portland. Pictured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
+<http://opaquenamespace.org/ns/people/MooreEW> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .
+<http://opaquenamespace.org/ns/people/MooreEW> <http://www.w3.org/2000/01/rdf-schema#label> "Moore, E. W."@en .
+<http://opaquenamespace.org/ns/people/MooreEW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt" .

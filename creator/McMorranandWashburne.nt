@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://purl.org/dc/terms/issued> "2017-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://purl.org/dc/terms/modified> "2017-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://schema.org/alternateName> "McMorran and Washburne"@en .
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://www.w3.org/2000/01/rdf-schema#comment> "Retail store in Eugene, Oregon, 1930s. Eugene's Own Store, sold Dry goods, cloaks and suits, men's and boy's wearing apparel. Appears in the Gertrude Bass Warner manuscript collections, University of Oregon."@en .
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://www.w3.org/2000/01/rdf-schema#label> "McMorran & Washburne"@en .
+<http://opaquenamespace.org/ns/creator/McMorranandWashburne> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

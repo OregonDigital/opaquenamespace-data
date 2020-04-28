@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://purl.org/dc/terms/date> "1920/1950" .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://purl.org/dc/terms/issued> "2017-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://purl.org/dc/terms/modified> "2017-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://schema.org/alternateName> "Chicago Journal of Commerce and Daily Financial Time"@en .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://schema.org/alternateName> "Chicago Journal of Commerce and LaSalle Street Journal"@en .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://www.w3.org/2000/01/rdf-schema#comment> "Financial newspaper of Chicago, Illinois. Purchased by the Wall Street Journal in 1950 and became the Chicago Edition of the Wall Street Journal. Appears in the Gertrude Bass Warner manuscript collections, University of Oregon."@en .
+<http://opaquenamespace.org/ns/publisher/ChicagoJournalofCommerce> <http://www.w3.org/2000/01/rdf-schema#label> "Chicago Journal of Commerce"@en .

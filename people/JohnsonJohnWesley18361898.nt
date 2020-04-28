@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/JohnsonJohnWesley18361898> <http://purl.org/dc/terms/date> "1836-03-22/1898-09-14" .
+<http://opaquenamespace.org/ns/people/JohnsonJohnWesley18361898> <http://purl.org/dc/terms/issued> "2018-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/JohnsonJohnWesley18361898> <http://purl.org/dc/terms/modified> "2018-05-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/JohnsonJohnWesley18361898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/JohnsonJohnWesley18361898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/JohnsonJohnWesley18361898> <http://www.w3.org/2000/01/rdf-schema#comment> "First president of the University of Oregon (1876 to 1893). At the age of fourteen Johnson immigrated to Oregon Territory with his family, arriving at Marysville in 1850. He graduated from Yale in 1862 and returned to Oregon. He taught at McMinnville College and Portland High School before the University of Oregon, where he taught Latin and Greek from 1873 through his presidency. Appears in the Herbert S. Johnson scrapbook, 1929 (A 190), University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/people/JohnsonJohnWesley18361898> <http://www.w3.org/2000/01/rdf-schema#label> "Johnson, John Wesley"@en .

@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://purl.org/dc/terms/date> "1820/1979" .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://purl.org/dc/terms/issued> "2017-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://purl.org/dc/terms/modified> "2017-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://schema.org/alternateName> "J.B. Cramer & Co.|Cramer, Addison & Beale|Cramer, Beale & Chappell|Cramer, Beale & Wood|Cramer, Wood, & Co."@en .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://www.w3.org/2000/01/rdf-schema#comment> "Music Publisher of London, England, United Kingdom. See http://imslp.org/wiki/J.B._Cramer"@en .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://www.w3.org/2000/01/rdf-schema#label> "J.B. Cramer"@en .
+<http://opaquenamespace.org/ns/publisher/JBCramer> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

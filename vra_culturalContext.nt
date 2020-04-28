@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/vra_culturalContext> <http://purl.org/dc/terms/issued> "2017-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/vra_culturalContext> <http://purl.org/dc/terms/modified> "2017-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/vra_culturalContext> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://opaquenamespace.org/ns/vra_culturalContext> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/vra_culturalContext> <http://www.w3.org/2000/01/rdf-schema#comment> "Use for the name of the culture, people (ethnonym), or adjectival form of a country name from which a resource originates, or the cultural context with which the resource has been associated."@en .
+<http://opaquenamespace.org/ns/vra_culturalContext> <http://www.w3.org/2000/01/rdf-schema#label> "Cultural Context"@en .

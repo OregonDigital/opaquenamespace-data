@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/ark> <http://purl.org/dc/terms/issued> "2019-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/ark> <http://purl.org/dc/terms/modified> "2019-03-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/ark> <http://schema.org/alternateName> "ARK"@en .
+<http://opaquenamespace.org/ns/ark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://opaquenamespace.org/ns/ark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/ark> <http://www.w3.org/2000/01/rdf-schema#comment> "Use for full Archival Resource Key URLs."@en .
+<http://opaquenamespace.org/ns/ark> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "http://n2t.net/e/ark_ids.html" .
+<http://opaquenamespace.org/ns/ark> <http://www.w3.org/2000/01/rdf-schema#label> "Archival Resource Key"@en .
+<http://opaquenamespace.org/ns/ark> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> "http://purl.org/dc/terms/identifier" .

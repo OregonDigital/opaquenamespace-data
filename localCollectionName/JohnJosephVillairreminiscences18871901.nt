@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/localCollectionName/JohnJosephVillairreminiscences18871901> <http://purl.org/dc/terms/issued> "2017-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnJosephVillairreminiscences18871901> <http://purl.org/dc/terms/modified> "2017-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnJosephVillairreminiscences18871901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnJosephVillairreminiscences18871901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnJosephVillairreminiscences18871901> <http://www.w3.org/2000/01/rdf-schema#comment> "CB V711 from the University of Oregon Special Collections and University Archives. John Joseph Villair (1876- ) was an Oregon pioneer and resident of Josephine County."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnJosephVillairreminiscences18871901> <http://www.w3.org/2000/01/rdf-schema#label> "John Joseph Villair reminiscences, 1887-1901"@en .

@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://purl.org/dc/terms/date> "1894-05-14/1988-03-22" .
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://purl.org/dc/terms/issued> "2018-02-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://purl.org/dc/terms/modified> "2018-02-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://schema.org/alternateName> "Woodyard, Maud Laray Skaggs"@en .
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor emeritus of Music at Northwest Christian University and Director of Vocal Music 1941-ca. 1963. Daughter of Abram D. Skaggs (1843-1929) and Gabrilla Jane Read Skaggs (1868-1897). Married Earl Austin Woodyard (1887-1966) on 3 Jul 1913 in Yakima County, Washington. They divorced after 1930 but before 24 Oct 1944 when he remarried in Clark County, Washington. Mother of Ray N. Woodyard (1914-1948)."@en .
+<http://opaquenamespace.org/ns/people/WoodyardMaudSkaggs> <http://www.w3.org/2000/01/rdf-schema#label> "Woodyard, Maud Skaggs"@en .

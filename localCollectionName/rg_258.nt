@@ -1,5 +1,6 @@
-<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://purl.org/dc/terms/issued> "2015-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://purl.org/dc/terms/modified> "2015-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://purl.org/dc/terms/issued> "2015-08-28" .
+<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://purl.org/dc/terms/modified> "2017-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in Special Collections & Archives Research Center, Oregon State University Libraries." .
-<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://www.w3.org/2000/01/rdf-schema#label> "Native American Longhouse Eena Haws Records, 1984-2012 (RG 258)" .
+<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection in Special Collections & Archives Research Center, Oregon State University Libraries."@en .
+<http://opaquenamespace.org/ns/localCollectionName/rg_258> <http://www.w3.org/2000/01/rdf-schema#label> "Student Incidental Fees Committee Records, 1993-2012 (RG 258)"@en .

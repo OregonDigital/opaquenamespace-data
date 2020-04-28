@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/GehrichAmanda> <http://purl.org/dc/terms/issued> "2018-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GehrichAmanda> <http://purl.org/dc/terms/modified> "2018-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GehrichAmanda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/GehrichAmanda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/GehrichAmanda> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon cross county team, 2018-"@en .
+<http://opaquenamespace.org/ns/people/GehrichAmanda> <http://www.w3.org/2000/01/rdf-schema#label> "Gehrich, Amanda"@en .

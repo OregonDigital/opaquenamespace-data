@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/EastmanGilmanL> <http://purl.org/dc/terms/issued> "2019-06-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EastmanGilmanL> <http://schema.org/alternateName> "Eastman"@en .
+<http://opaquenamespace.org/ns/creator/EastmanGilmanL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/EastmanGilmanL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/EastmanGilmanL> <http://www.w3.org/2000/01/rdf-schema#comment> "Photographer in Washington and Oregon, especially Portland, active in the 1880s-1890s."@en .
+<http://opaquenamespace.org/ns/creator/EastmanGilmanL> <http://www.w3.org/2000/01/rdf-schema#label> "Eastman, Gilman L."@en .

@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://purl.org/dc/terms/date> "1851/1920" .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://purl.org/dc/terms/issued> "2017-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://purl.org/dc/terms/modified> "2017-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://schema.org/alternateName> "Charles Sheard & Co.|Charles Sheard| Charles Sheard Company"@en .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://www.w3.org/2000/01/rdf-schema#comment> "Popular Music Publisher located in London, England, United Kingdom. From 1851 to 1898: 192 High Holborn, London WC. 1900 to 1920: 196 Shaftesbury Avenue, London WC. It was bought by Herman Darewski in the 1920s. See http://imslp.org/wiki/Charles_Sheard"@en .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Sheard"@en .
+<http://opaquenamespace.org/ns/publisher/CharlesSheard> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

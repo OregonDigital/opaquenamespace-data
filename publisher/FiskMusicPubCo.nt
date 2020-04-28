@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/publisher/FiskMusicPubCo> <http://purl.org/dc/terms/issued> "2017-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/FiskMusicPubCo> <http://purl.org/dc/terms/modified> "2017-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/FiskMusicPubCo> <http://schema.org/alternateName> "Fisk Music Publishing Company"@en .
+<http://opaquenamespace.org/ns/publisher/FiskMusicPubCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/FiskMusicPubCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/FiskMusicPubCo> <http://www.w3.org/2000/01/rdf-schema#comment> "Sheet music publishers of San Francisco, California. Active in the 1920s. University of Oregon Historic Sheet Music Collection"@en .
+<http://opaquenamespace.org/ns/publisher/FiskMusicPubCo> <http://www.w3.org/2000/01/rdf-schema#label> "Fisk Music Pub. Co."@en .

@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://purl.org/dc/terms/issued> "2017-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://purl.org/dc/terms/modified> "2017-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://schema.org/alternateName> "Koyle, Charles"@en .
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://www.w3.org/2000/01/rdf-schema#comment> "Charles Koyl graduated from the University of Oregon in 1911, where he had studied literature, sciences, and arts. While at UO, he was Recording Secretary and then President of the local Y.M.C.A.. Charles Koyl was known as an exemplary student, and is the namesake for University of Oregon's Koyl Cup award. Part of the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://www.w3.org/2000/01/rdf-schema#label> "Koyl, Charles"@en .
+<http://opaquenamespace.org/ns/people/KoylCharles> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

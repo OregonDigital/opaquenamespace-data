@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/ElectricStudioPortland> <http://purl.org/dc/terms/issued> "2020-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ElectricStudioPortland> <http://purl.org/dc/terms/modified> "2020-04-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ElectricStudioPortland> <http://schema.org/alternateName> "Cross & Dimmitt"@en .
+<http://opaquenamespace.org/ns/creator/ElectricStudioPortland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/ElectricStudioPortland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/ElectricStudioPortland> <http://www.w3.org/2000/01/rdf-schema#comment> "Photography studio operated by Arthur B. Cross and Edward L. Dimmitt from 1909-1935 located in Portland, Oregon; photographer found in OSU Gerald W. Williams Collection."@en .
+<http://opaquenamespace.org/ns/creator/ElectricStudioPortland> <http://www.w3.org/2000/01/rdf-schema#label> "Electric Studio (Portland)"@en .

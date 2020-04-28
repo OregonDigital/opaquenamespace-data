@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/OuthankKarlW> <http://purl.org/dc/terms/isReplacedBy> "http://id.loc.gov/authorities/names/no2016019608" .
+<http://opaquenamespace.org/ns/creator/OuthankKarlW> <http://purl.org/dc/terms/issued> "2017-03-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OuthankKarlW> <http://purl.org/dc/terms/modified> "2017-03-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/OuthankKarlW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/OuthankKarlW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/OuthankKarlW> <http://www.w3.org/2000/01/rdf-schema#comment> "University of Oregon Alumnus, class of 1913, edior of the Oregana and Oregon Emerald. Superintendent of schools at Tillamook ca. 1915. Member, UO Administrative Committee ca. 1925, later Executive Secretary. Married Ruth MacLaren, UO Alumna class of 1913, in 1915."@en .
+<http://opaquenamespace.org/ns/creator/OuthankKarlW> <http://www.w3.org/2000/01/rdf-schema#label> "Outhank, Karl W."@en .

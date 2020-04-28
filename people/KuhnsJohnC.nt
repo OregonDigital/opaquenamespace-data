@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/KuhnsJohnC> <http://purl.org/dc/terms/issued> "2018-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/KuhnsJohnC> <http://purl.org/dc/terms/modified> "2018-01-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/KuhnsJohnC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/KuhnsJohnC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/KuhnsJohnC> <http://www.w3.org/2000/01/rdf-schema#comment> "U. S. Forest Service, Pacific Northwest region 1910-1950. Appears in the John Joseph Villair (CB V711) collection in the University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/people/KuhnsJohnC> <http://www.w3.org/2000/01/rdf-schema#label> "Kuhns, John C."@en .

@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/WilsonEE> <http://purl.org/dc/terms/issued> "2017-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WilsonEE> <http://purl.org/dc/terms/modified> "2017-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WilsonEE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WilsonEE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WilsonEE> <http://www.w3.org/2000/01/rdf-schema#comment> "E.E. Wilson was a Corvallis College alumnus (1889); Board of Regents member; member of the Oregon State Game Commission; and Corvallis lawyer, businessman, and civic leader. "@en .
+<http://opaquenamespace.org/ns/people/WilsonEE> <http://www.w3.org/2000/01/rdf-schema#label> "Wilson, E. E. (Eddy Elbridge) (1869-1961)"@en .

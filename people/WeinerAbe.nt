@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/WeinerAbe> <http://purl.org/dc/terms/issued> "2017-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WeinerAbe> <http://purl.org/dc/terms/modified> "2017-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WeinerAbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WeinerAbe> <http://www.w3.org/2000/01/rdf-schema#comment> "Class treasurer ca. 1938, pictured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
+<http://opaquenamespace.org/ns/people/WeinerAbe> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/people/WeinerAbe> <http://www.w3.org/2000/01/rdf-schema#label> "Weiner, Abe"@en .
+<http://opaquenamespace.org/ns/people/WeinerAbe> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .

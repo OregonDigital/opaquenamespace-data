@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/HardisonJohnR> <http://purl.org/dc/terms/issued> "2019-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HardisonJohnR> <http://purl.org/dc/terms/modified> "2019-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HardisonJohnR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HardisonJohnR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/HardisonJohnR> <http://www.w3.org/2000/01/rdf-schema#comment> "John R. Hardison was a Research Pathologist with the U.S. Department of Agriculture in Corvallis from 1944 until 1980. In 1950-1955, he had a joint appointment with the USDA and the Agricultural Experiment Station. In 1981, he was appointed to a part-time research faculty position in the Department of Botany and Plant Pathology. OSU "@en .
+<http://opaquenamespace.org/ns/creator/HardisonJohnR> <http://www.w3.org/2000/01/rdf-schema#label> "Hardison, John R."@en .

@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/UnitedTechnologyCorporation> <http://purl.org/dc/terms/issued> "2017-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UnitedTechnologyCorporation> <http://purl.org/dc/terms/modified> "2017-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/UnitedTechnologyCorporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/UnitedTechnologyCorporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/UnitedTechnologyCorporation> <http://www.w3.org/2000/01/rdf-schema#comment> "Military Photographs Collection, Special Collections and Archives Research Center"@en .
+<http://opaquenamespace.org/ns/creator/UnitedTechnologyCorporation> <http://www.w3.org/2000/01/rdf-schema#label> "United Technology Corporation"@en .

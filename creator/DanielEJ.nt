@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/DanielEJ> <http://purl.org/dc/terms/issued> "2020-03-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DanielEJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/DanielEJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/DanielEJ> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; found in Lexique stratigraphique international: Volume 3: Asie, 1960"@en .
+<http://opaquenamespace.org/ns/creator/DanielEJ> <http://www.w3.org/2000/01/rdf-schema#label> "Daniel, E. J."@en .
+<http://opaquenamespace.org/ns/creator/DanielEJ> <http://www.w3.org/2002/07/owl#sameAs> <http://viaf.org/viaf/7861155566445613380007> .

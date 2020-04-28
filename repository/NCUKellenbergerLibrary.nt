@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/repository/NCUKellenbergerLibrary> <http://purl.org/dc/terms/issued> "2018-02-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/NCUKellenbergerLibrary> <http://purl.org/dc/terms/modified> "2018-02-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/NCUKellenbergerLibrary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/NCUKellenbergerLibrary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/NCUKellenbergerLibrary> <http://www.w3.org/2000/01/rdf-schema#comment> "The library first opened its doors in 1895 with the establishment of the school’s predecessor institution, Eugene Divinity School. The present library building, which was opened in 1957, was remodeled in 1995 and provides facilities for research, technology and study in a comfortable 'living room' atmosphere. --https://www.nwcu.edu/academics/library/"@en .
+<http://opaquenamespace.org/ns/repository/NCUKellenbergerLibrary> <http://www.w3.org/2000/01/rdf-schema#label> "Northwest Christian University. Kellenberger Library"@en .

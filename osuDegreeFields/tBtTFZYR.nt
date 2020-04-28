@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/osuDegreeFields/tBtTFZYR> <http://purl.org/dc/terms/date> "{1908..1911,1921,1929,1932,1935..1943,1946..2017}" .
+<http://opaquenamespace.org/ns/osuDegreeFields/tBtTFZYR> <http://purl.org/dc/terms/issued> "2017-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields/tBtTFZYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/osuDegreeFields/tBtTFZYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/osuDegreeFields/tBtTFZYR> <http://www.w3.org/2000/01/rdf-schema#label> "Mechanical Engineering"@en .

@@ -1,11 +1,10 @@
-<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/issued> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/modified> "2015-08-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/issued> "2015-08-25" .
+<http://opaquenamespace.org/ns/contributingInstitution> <http://purl.org/dc/terms/modified> "2016-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Class> .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
-<http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/2000/01/rdf-schema#comment> "A reference to the institutions or administrative units that contributed to the creation, management, description, and/or dissemination of the digital resource.  For example, one institution may physically hold the original resource, another may perform the digital imaging, and another may create metadata."@en .
-<http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/2000/01/rdf-schema#domain> <http://www.w3.org/2002/07/owl#Thing> .
+<http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/2000/01/rdf-schema#domain> "http://www.w3.org/2002/07/owl#Thing" .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/2000/01/rdf-schema#label> "Contributing Institution"@en .
-<http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/2000/01/rdf-schema#range> <https://raw.githubusercontent.com/OregonDigital/opaque_ns/master/Organization> .
 <http://opaquenamespace.org/ns/contributingInstitution> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://opaquenamespace.org/ns/contributingInstitution> .

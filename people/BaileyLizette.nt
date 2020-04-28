@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/BaileyLizette> <http://purl.org/dc/terms/date> "1830/1920" .
+<http://opaquenamespace.org/ns/people/BaileyLizette> <http://purl.org/dc/terms/issued> "2016-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BaileyLizette> <http://purl.org/dc/terms/modified> "2016-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BaileyLizette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BaileyLizette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/BaileyLizette> <http://www.w3.org/2000/01/rdf-schema#comment> "Wife of Professor Mark Bailey, pictured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
+<http://opaquenamespace.org/ns/people/BaileyLizette> <http://www.w3.org/2000/01/rdf-schema#label> "Bailey, Lizette"@en .

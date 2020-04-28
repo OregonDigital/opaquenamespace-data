@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/GrayKen> <http://purl.org/dc/terms/issued> "2016-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GrayKen> <http://purl.org/dc/terms/modified> "2016-10-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GrayKen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/GrayKen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/GrayKen> <http://www.w3.org/2000/01/rdf-schema#comment> "Ken Gray Photograph Collection, OSU Special Collections and Archives Research Center (P 256)"@en .
+<http://opaquenamespace.org/ns/people/GrayKen> <http://www.w3.org/2000/01/rdf-schema#comment> "Ken Gray worked for Pacific Supply Cooperative in Portland, Oregon, for over 30 years. Ken was also an avid photographer and amassed a large number of slides on an array of subjects including insects and related arthropods."@en .
+<http://opaquenamespace.org/ns/people/GrayKen> <http://www.w3.org/2000/01/rdf-schema#label> "Gray, Ken"@en .

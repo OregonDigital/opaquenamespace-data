@@ -1,6 +1,7 @@
-<http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://purl.org/dc/terms/issued> "2016-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://purl.org/dc/terms/modified> "2016-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://purl.org/dc/terms/issued> "2016-03-04" .
+<http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://purl.org/dc/terms/modified> "2017-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://www.w3.org/2000/01/rdf-schema#comment> "Testing 1 2"@th .
 <http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> "yup" .
 <http://opaquenamespace.org/ns/TestVocabulary/TestTerm> <http://www.w3.org/2000/01/rdf-schema#label> "hello"@fo .

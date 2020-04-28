@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/rights/rr-r> <http://purl.org/dc/terms/issued> "2017-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/rights/rr-r> <http://purl.org/dc/terms/modified> "2017-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/rights/rr-r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/rights/rr-r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/rights/rr-r> <http://www.w3.org/2000/01/rdf-schema#comment> "This rights statement is applicable when one of the hosting institutions has paid for licensed access to a resource for their user community.  This digital object is protected by copyright and/or related rights and is made available via a license to the contributing institution. This digital object is only accessible to members of the contributing institution and is subject to the licensing conditions agreed upon by the rightsholder and the organization giving access to it. "@en .
+<http://opaquenamespace.org/ns/rights/rr-r> <http://www.w3.org/2000/01/rdf-schema#label> "Rights Reserved - Restricted Access"@en .
+<http://opaquenamespace.org/ns/rights/rr-r> <http://www.w3.org/2002/07/owl#sameAs> "http://www.europeana.eu/rights/rr-r/" .

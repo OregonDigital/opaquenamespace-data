@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/McFarlaneEmily> <http://purl.org/dc/terms/issued> "2016-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/McFarlaneEmily> <http://purl.org/dc/terms/modified> "2016-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/McFarlaneEmily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/McFarlaneEmily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/McFarlaneEmily> <http://www.w3.org/2000/01/rdf-schema#comment> "This person was an AAA faculty member or student at the University of Oregon from 1920-1949, and pictured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection."@en .
+<http://opaquenamespace.org/ns/people/McFarlaneEmily> <http://www.w3.org/2000/01/rdf-schema#label> "McFarlane, Emily"@en .
