@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#comment> "A boulder khirigsuur is an elaborate Bronze Ageritual or funerary structure in the Mongolian Altai which includes a centralboulder, inplace of a mound, and a round or square surrounding frame. Usually the area between boulder and frame is left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circularal tars are usually found outside the frame on the north, west, and south sides, rarely on the east side.Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function."@en .
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#label> "boulder khirigsuur"@en .
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/workType/Altai-boulderkhirigsuur> <http://schema.org/alternateName> "boulder khirigsuurs"@en .

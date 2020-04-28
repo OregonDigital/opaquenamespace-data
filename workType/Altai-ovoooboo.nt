@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://www.w3.org/2000/01/rdf-schema#comment> "A modern-day altar in the Mongolian Altai, usually of piled stones, found ubiquitously on ridges, passes, and at difficult crossings. An ovoo is raised over a period of many years or generations in honor of the indwelling spirit of the mountain, river, or spring where it appears. In modern times travelers charcteristcally indicate their gratitude for a safe journey by adding a stone or other object to the pile."@en .
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://www.w3.org/2000/01/rdf-schema#label> "ovoo/oboo"@en .
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/workType/Altai-ovoooboo> <http://schema.org/alternateName> "ovoos/oboos"@en .

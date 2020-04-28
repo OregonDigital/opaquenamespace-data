@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://www.w3.org/2000/01/rdf-schema#comment> "Paired square piles of rough mountain stones or smooth river stones or a combination of the two types in the Mongolian Altai. Most mounds are probably funerary in function; thatis, they were raised at the time of an individual?s death and to mark that person?s burial. Whether, however, the body was actually placed under the mound or in a burial chamber sunk into the ground, varies according to period and culture"@en .
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://www.w3.org/2000/01/rdf-schema#label> "double mounds"@en .
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
+<http://opaquenamespace.org/ns/workType/Altai-doublemounds> <http://schema.org/alternateName> "double mound"@en .
