@@ -1,7 +1,0 @@
-<http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern> <http://www.w3.org/2000/01/rdf-schema#comment> "Referring to the period and cultures present in the Mongolian Altai Mountains in modern times"@en .
-<http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern> <http://www.w3.org/2000/01/rdf-schema#label> "Pre-Modern"@en .
-<http://opaquenamespace.org/ns/stylePeriod/Altai/PreModern> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
