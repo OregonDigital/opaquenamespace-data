@@ -1,8 +1,0 @@
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <http://www.w3.org/2000/01/rdf-schema#comment> "Inscriptions from Bayan Olgiy, in the Mongolian Altai, occur on rock outcroppings, usually together with pecked or engraved imagery. Inscriptions include two primary types: those from the Turkic period and others from the Mongol period. There are a few inscriptions executed in classical Mongolian script and others written in modern Kazakhor Mongolian."@en .
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <http://www.w3.org/2000/01/rdf-schema#label> "inscriptions"@en .
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/workType/Altai/inscriptions> <https://schema.org/alternateName> "inscription"@en .

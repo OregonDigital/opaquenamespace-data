@@ -1,8 +1,0 @@
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <http://www.w3.org/2000/01/rdf-schema#comment> "Features with forms consisting of a curved line that winds or meanders in multiple directions but does not cross or intersect itself"@en .
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <http://www.w3.org/2000/01/rdf-schema#label> "serpentine features"@en .
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/workType/Altai/serpentinefeatures> <https://schema.org/alternateName> "serpentine feature"@en .

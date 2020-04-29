@@ -1,8 +1,0 @@
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#comment> "An elaborate Bronze Age ritual or funerary structure in the Mongolian Altai including a central mound that extends to the surrounding wall in a kind of pavement and a round or square surrounding frame. The area between mound and frame may be left open and within it may be rays (radiae) aligned with the cardinal directions or their subdivisions. Small circular altars are usually found outside the frame on the north, west, and south sides, rarely on the east side. Some khirigsuur have entrances on the east side; many are accompanied by mounds of unknown function."@en .
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#label> "platform khirigsuur"@en .
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/workType/Altai/platformkhirigsuur> <https://schema.org/alternateName> "platform khirigsuurs"@en .
