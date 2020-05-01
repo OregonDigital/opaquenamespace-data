@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/RayHuffStudios> <http://purl.org/dc/terms/issued> "2020-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RayHuffStudios> <http://purl.org/dc/terms/modified> "2020-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/RayHuffStudios> <http://schema.org/alternateName> "Ray Huff Richter Studios"@en .
+<http://opaquenamespace.org/ns/creator/RayHuffStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/RayHuffStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/RayHuffStudios> <http://www.w3.org/2000/01/rdf-schema#comment> "Photographer featured in the UA Ref 3, University of Oregon Libraries, Special Collections and Archives photographs, 1890s-2010s collection. Studio located in Los Angeles, California."@en .
+<http://opaquenamespace.org/ns/creator/RayHuffStudios> <http://www.w3.org/2000/01/rdf-schema#label> "Ray Huff Studios"@en .
