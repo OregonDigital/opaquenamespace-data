@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/PittsMartha> <http://purl.org/dc/terms/issued> "2020-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/PittsMartha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/PittsMartha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/PittsMartha> <http://www.w3.org/2000/01/rdf-schema#comment> "Interviewee in the Eugene Lesbian Oral History Project, Coll 520 from the University of Oregon Special Collections and University Archives"@en .
+<http://opaquenamespace.org/ns/creator/PittsMartha> <http://www.w3.org/2000/01/rdf-schema#label> "Pitts, Martha"@en .
