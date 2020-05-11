@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_westpulp> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_westpulp> <http://www.w3.org/2000/01/rdf-schema#label> "Western Pulp and Paper Manufacturers Uniform Labor Agreements, 1952-2004 (MSS WestPulp)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_westpulp> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_westpulp> <http://www.w3.org/2001/XMLSchema#date> "active 2015"@en .

@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/pub_010-13c> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/pub_010-13c> <http://www.w3.org/2000/01/rdf-schema#label> "Orange Owl, 1920-1928 (PUB 10-13c)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/pub_010-13c> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/pub_010-13c> <http://www.w3.org/2001/XMLSchema#date> "active 2015"@en .
