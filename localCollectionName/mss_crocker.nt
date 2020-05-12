@@ -8,4 +8,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_crocker> <http://www.w3.org/2000/01/rdf-schema#label> "Bill Crocker Papers, 1970-1975 (MSS Crocker)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_crocker> <http://www.w3.org/2000/01/rdf-schema#label> "Harry B. Lagerstedt Papers, 1937-1981 (MSS Crocker)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_crocker> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_crocker> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/p_218-sg_6> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/p_218-sg_6> <http://www.w3.org/2000/01/rdf-schema#label> "Gifford Collection Photographs by Unknown or Other Photographers, circa 1915-1955 (P 218-SG 6)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/p_218-sg_6> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_218-sg_6> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

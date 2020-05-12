@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/p_185> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/p_185> <http://www.w3.org/2000/01/rdf-schema#label> "Sea Grant College Program Photographs, 1965-1996 (P 185)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/p_185> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_185> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

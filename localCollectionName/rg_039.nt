@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/rg_039> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/rg_039> <http://www.w3.org/2000/01/rdf-schema#label> "Forestry Club Records, 1906-1934 (RG 039)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rg_039> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_039> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

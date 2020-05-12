@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/maps_wetlands> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/maps_wetlands> <http://www.w3.org/2000/01/rdf-schema#label> "Wetlands Inventory and Survey Maps, circa 1976 - 1990 (MAPS Wetlands)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/maps_wetlands> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/maps_wetlands> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

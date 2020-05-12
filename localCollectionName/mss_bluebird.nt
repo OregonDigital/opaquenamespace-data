@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_bluebird> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_bluebird> <http://www.w3.org/2000/01/rdf-schema#label> "Bluebird Habitat Research Records, 1975-2004 (MSS Bluebird)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_bluebird> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_bluebird> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

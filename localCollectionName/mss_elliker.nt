@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_elliker> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_elliker> <http://www.w3.org/2000/01/rdf-schema#label> "Paul R. Elliker Papers, 1934-1973 (MSS Elliker)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_elliker> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_elliker> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

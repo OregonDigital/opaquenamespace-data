@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_seed> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_seed> <http://www.w3.org/2000/01/rdf-schema#label> "Nursery and Seed Trade Catalogues Collection, 1832-1999 (MSS Seed)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_seed> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_seed> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

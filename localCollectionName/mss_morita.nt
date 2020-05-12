@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_morita> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_morita> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Y. Morita Papers, 1949-2005 (MSS Morita)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_morita> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_morita> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

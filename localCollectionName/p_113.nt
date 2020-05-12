@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/p_113> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/p_113> <http://www.w3.org/2000/01/rdf-schema#label> "Alta McCormick Photograph Collection, 1905-1931 (P 113)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/p_113> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_113> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

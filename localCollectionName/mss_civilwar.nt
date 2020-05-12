@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_civilwar> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_civilwar> <http://www.w3.org/2000/01/rdf-schema#label> "U.S. Civil War Collection, 1862-1898 (MSS CivilWar)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_civilwar> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_civilwar> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

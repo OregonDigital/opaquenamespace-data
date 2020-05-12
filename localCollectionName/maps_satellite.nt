@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/maps_satellite> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/maps_satellite> <http://www.w3.org/2000/01/rdf-schema#label> "Satellite Images and Aerial Photographs of Oregon and the Pacific Northwest, 1972-1982 (MAPS Satellite)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/maps_satellite> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/maps_satellite> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

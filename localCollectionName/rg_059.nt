@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/rg_059> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/rg_059> <http://www.w3.org/2000/01/rdf-schema#label> "Army Specialized Training Program Records, 1943-1946 (RG 059)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rg_059> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_059> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

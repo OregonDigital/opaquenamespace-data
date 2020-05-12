@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/p_232> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/p_232> <http://www.w3.org/2000/01/rdf-schema#label> "David Robert Marr Photograph Album, [ca. 1918] - 1922 (P 232)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/p_232> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_232> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/rg_011> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/rg_011> <http://www.w3.org/2000/01/rdf-schema#label> "Associated Students of Oregon State University (ASOSU) Records, 1917-2006 (RG 011)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rg_011> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_011> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

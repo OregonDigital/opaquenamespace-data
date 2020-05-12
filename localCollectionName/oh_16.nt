@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/oh_16> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/oh_16> <http://www.w3.org/2000/01/rdf-schema#label> "How OSU Grew Nuclear Science Oral Histories, 2009-2010 (OH 16)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/oh_16> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/oh_16> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

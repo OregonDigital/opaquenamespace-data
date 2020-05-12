@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/rg_109> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/rg_109> <http://www.w3.org/2000/01/rdf-schema#label> "Biology Club Records, 1915-1951 (RG 109)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rg_109> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_109> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

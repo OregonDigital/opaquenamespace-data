@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_malheur> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_malheur> <http://www.w3.org/2000/01/rdf-schema#label> "Malheur County 4-H Leaders' Council Records, 1935-1966 (MSS Malheur)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_malheur> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_malheur> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

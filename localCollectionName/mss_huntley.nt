@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_huntley> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_huntley> <http://www.w3.org/2000/01/rdf-schema#label> "Floyd J. (\"Peck\") Huntley Collection, 1907-1959 (MSS Huntley)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_huntley> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_huntley> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

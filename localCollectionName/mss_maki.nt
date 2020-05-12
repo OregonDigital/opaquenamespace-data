@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_maki> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_maki> <http://www.w3.org/2000/01/rdf-schema#label> "Leonard M. Maki Nuclear Power Collection, 1936-1975 (MSS Maki)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_maki> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_maki> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

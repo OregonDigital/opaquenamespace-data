@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/rg_027> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/rg_027> <http://www.w3.org/2000/01/rdf-schema#label> "Entomology Department Records, 1887-2003 (RG 027)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rg_027> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_027> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_254> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_254> <http://www.w3.org/2000/01/rdf-schema#label> "Hatfield Marine Science Center Videotapes, 1968-1998 (FV P 254)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_254> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/fv_p_254> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

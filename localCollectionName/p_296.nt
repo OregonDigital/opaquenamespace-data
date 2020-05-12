@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/p_296> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/p_296> <http://www.w3.org/2000/01/rdf-schema#label> "Umatilla National Forest Aerial Photographs, 1939 (P 296)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/p_296> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_296> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

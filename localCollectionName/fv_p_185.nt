@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_185> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_185> <http://www.w3.org/2000/01/rdf-schema#label> "Oregon Sea Grant Communications Moving Images.1939-2007 (FV P 185)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_185> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/fv_p_185> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

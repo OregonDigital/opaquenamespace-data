@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/rg_029> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/rg_029> <http://www.w3.org/2000/01/rdf-schema#label> "Curriculum Coordination Records, 1924-1981 (RG 029)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rg_029> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/rg_029> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/oh_23> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/oh_23> <http://www.w3.org/2000/01/rdf-schema#label> "Oral Histories of the Benton County (Or.) Courthouse, 1987-1991 (OH 23)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/oh_23> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/oh_23> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

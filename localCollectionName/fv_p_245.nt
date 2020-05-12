@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_245> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_245> <http://www.w3.org/2000/01/rdf-schema#label> "Agricultural and Resource Economics Department Motion Picture Films and Videotapes, 1956-1994 (FV P 245)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/fv_p_245> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/fv_p_245> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

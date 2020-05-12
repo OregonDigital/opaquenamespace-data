@@ -8,4 +8,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/rb_mcdonald> <http://www.w3.org/2000/01/rdf-schema#label> "McDonald Rare Book Collection (RB McDonald)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rb_mcdonald> <http://www.w3.org/2000/01/rdf-schema#label> "McDonald Rare Book and Manuscript Collection, 2041-1763 BC, ca. 960-1941 AD (RB McDonald)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/rb_mcdonald> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/rb_mcdonald> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

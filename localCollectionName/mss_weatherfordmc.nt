@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_weatherfordmc> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_weatherfordmc> <http://www.w3.org/2000/01/rdf-schema#label> "Margaret Cartwright Weatherford Collection, 1926-1928 (MSS WeatherfordMC)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_weatherfordmc> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_weatherfordmc> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

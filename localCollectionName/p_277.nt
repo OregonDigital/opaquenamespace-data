@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/p_277> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/p_277> <http://www.w3.org/2000/01/rdf-schema#label> "Gamma Phi Beta Sorority Photographs, 1918-1963 (P 277)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/p_277> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/p_277> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .

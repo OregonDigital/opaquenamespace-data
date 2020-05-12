@@ -7,4 +7,3 @@
 <http://opaquenamespace.org/ns/localCollectionName/mss_peckb> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
 <http://opaquenamespace.org/ns/localCollectionName/mss_peckb> <http://www.w3.org/2000/01/rdf-schema#label> "Barbara B. Peck Papers, 1922-1987 (MSS PeckB)"@en .
 <http://opaquenamespace.org/ns/localCollectionName/mss_peckb> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/mss_peckb> <http://www.w3.org/2001/XMLSchema#date> "active 2013-2014"@en .
