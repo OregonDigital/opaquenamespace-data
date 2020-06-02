@@ -1,4 +1,4 @@
-<http://opaquenamespace.org/ns/osuDegreeFields/3KjCghJI> <http://purl.org/dc/terms/date> "2014..2020" .
+<http://opaquenamespace.org/ns/osuDegreeFields/3KjCghJI> <http://purl.org/dc/terms/date> "{2014..2020}" .
 <http://opaquenamespace.org/ns/osuDegreeFields/3KjCghJI> <http://purl.org/dc/terms/issued> "2017-11-13" .
 <http://opaquenamespace.org/ns/osuDegreeFields/3KjCghJI> <http://purl.org/dc/terms/modified> "2020-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/osuDegreeFields/3KjCghJI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
