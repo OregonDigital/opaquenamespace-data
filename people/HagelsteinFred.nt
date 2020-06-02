@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/HagelsteinFred> <http://purl.org/dc/terms/issued> "2020-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HagelsteinFred> <http://purl.org/dc/terms/modified> "2020-06-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HagelsteinFred> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/HagelsteinFred> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/HagelsteinFred> <http://www.w3.org/2000/01/rdf-schema#comment> "OSU Extension Agent, Assistant to the Director, 1951-1953, 1958-1984; OSU class of 1951."@en .
+<http://opaquenamespace.org/ns/people/HagelsteinFred> <http://www.w3.org/2000/01/rdf-schema#label> "Hagelstein, Fred"@en .
