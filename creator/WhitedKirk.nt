@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/WhitedKirk> <http://purl.org/dc/terms/issued> "2020-08-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WhitedKirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WhitedKirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/WhitedKirk> <http://www.w3.org/2000/01/rdf-schema#comment> "Botanist, plant collector found in OSU Herbarium Collection."@en .
+<http://opaquenamespace.org/ns/creator/WhitedKirk> <http://www.w3.org/2000/01/rdf-schema#label> "Whited, Kirk"@en .
