@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/FigueroaDawnL> <http://purl.org/dc/terms/issued> "2020-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/FigueroaDawnL> <http://purl.org/dc/terms/modified> "2020-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/FigueroaDawnL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/FigueroaDawnL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/FigueroaDawnL> <http://www.w3.org/2000/01/rdf-schema#comment> "Curator of Historic and Cultural Textile and Apparel Collection at Oregon State University. Assistant Curator of Fashion Collection at University of North Texas, 2008-2014. Graduated from Kean University in 1990. "@en .
+<http://opaquenamespace.org/ns/people/FigueroaDawnL> <http://www.w3.org/2000/01/rdf-schema#label> "Figueroa, Dawn L."@en .
