@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/EdaburnClaraW> <http://purl.org/dc/terms/issued> "2020-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/EdaburnClaraW> <http://purl.org/dc/terms/modified> "2020-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/EdaburnClaraW> <http://schema.org/alternateName> "Edaburn, Clara Williams"@en .
+<http://opaquenamespace.org/ns/people/EdaburnClaraW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/EdaburnClaraW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/EdaburnClaraW> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Clothing, Textiles, and Related Arts at Oregon State College / Oregon State University, 1939-circa 1970; Professor Emeritus circa 1970s-1980s."@en .
+<http://opaquenamespace.org/ns/people/EdaburnClaraW> <http://www.w3.org/2000/01/rdf-schema#label> "Edaburn, Clara W."@en .
