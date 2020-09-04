@@ -1,4 +1,5 @@
 <http://opaquenamespace.org/ns/osuAcademicUnits/jHW04BJV> <http://purl.org/dc/terms/date> "1982/1987" .
 <http://opaquenamespace.org/ns/osuAcademicUnits/jHW04BJV> <http://purl.org/dc/terms/issued> "2017-03-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuAcademicUnits/jHW04BJV> <http://purl.org/dc/terms/modified> "2020-09-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/osuAcademicUnits/jHW04BJV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
-<http://opaquenamespace.org/ns/osuAcademicUnits/jHW04BJV> <http://www.w3.org/2000/01/rdf-schema#label> "Science and Math Education"@en .
+<http://opaquenamespace.org/ns/osuAcademicUnits/jHW04BJV> <http://www.w3.org/2000/01/rdf-schema#label> "Science and Mathematics Education"@en .
