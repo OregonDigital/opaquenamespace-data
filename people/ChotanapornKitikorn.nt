@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ChotanapornKitikorn> <http://purl.org/dc/terms/issued> "2020-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ChotanapornKitikorn> <http://purl.org/dc/terms/modified> "2020-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ChotanapornKitikorn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ChotanapornKitikorn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ChotanapornKitikorn> <http://www.w3.org/2000/01/rdf-schema#comment> "Earned a BS in Business at Oregon State University in 1966. Donor of items in OSU Historic and Cultural Textile and Apparel Collection."@en .
+<http://opaquenamespace.org/ns/people/ChotanapornKitikorn> <http://www.w3.org/2000/01/rdf-schema#label> "Chotanaporn, Kitikorn"@en .
