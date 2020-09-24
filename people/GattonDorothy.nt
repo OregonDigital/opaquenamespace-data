@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/GattonDorothy> <http://purl.org/dc/terms/issued> "2020-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GattonDorothy> <http://purl.org/dc/terms/modified> "2020-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GattonDorothy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/GattonDorothy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/GattonDorothy> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Clothing, Textiles, and Related Arts at Oregon State College / Oregon State University, circa 1940s-1960s; Professor Emeritus circa 1970s."@en .
+<http://opaquenamespace.org/ns/people/GattonDorothy> <http://www.w3.org/2000/01/rdf-schema#label> "Gatton, Dorothy"@en .
