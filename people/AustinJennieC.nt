@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://purl.org/dc/terms/date> "1904/2002" .
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://purl.org/dc/terms/issued> "2020-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://purl.org/dc/terms/modified> "2020-08-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://schema.org/alternateName> "Clark, Jennie I."@en .
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://www.w3.org/2000/01/rdf-schema#comment> "Resident of Portland, OR, Hood River, OR, and Corvallis, OR. Earned a bachelor's degree from Oregon State Agricultural College in 1926. Earned a MA from Columbia University in 1942. Served in the U.S. Army Women's Army Corps in WWII. Worked as a high school teacher in Portland, OR and as an assistant professor at Oregon State College. Served as county Extension Service agent for 4-H and home economics in Hood River County, 1947-1956. Married to Kirby B. Austin. "@en .
+<http://opaquenamespace.org/ns/people/AustinJennieC> <http://www.w3.org/2000/01/rdf-schema#label> "Austin, Jennie C."@en .
