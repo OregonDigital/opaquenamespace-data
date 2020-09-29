@@ -1,7 +1,7 @@
 <http://opaquenamespace.org/ns/people/JensenLouisaA> <http://purl.org/dc/terms/issued> "2020-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/JensenLouisaA> <http://purl.org/dc/terms/modified> "2020-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/JensenLouisaA> <http://purl.org/dc/terms/modified> "2020-09-28"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/JensenLouisaA> <http://schema.org/alternateName> "Jensen, Louisa Ames"@en .
 <http://opaquenamespace.org/ns/people/JensenLouisaA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/JensenLouisaA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/JensenLouisaA> <http://www.w3.org/2000/01/rdf-schema#comment> "OSC/OSU Professor of Seed Technology 1938-1970. She completed a Bachelor of Science degree at Colorado State Univeresity in 1933."@en .
+<http://opaquenamespace.org/ns/people/JensenLouisaA> <http://www.w3.org/2000/01/rdf-schema#comment> "OSC/OSU Professor of Seed Technology 1938-1970. She completed a Bachelor of Science degree at Colorado State University in 1933."@en .
 <http://opaquenamespace.org/ns/people/JensenLouisaA> <http://www.w3.org/2000/01/rdf-schema#label> "Jensen, Louisa A."@en .
