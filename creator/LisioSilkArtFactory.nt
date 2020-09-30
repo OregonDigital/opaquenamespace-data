@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/LisioSilkArtFactory> <http://purl.org/dc/terms/issued> "2020-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LisioSilkArtFactory> <http://purl.org/dc/terms/modified> "2020-09-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/LisioSilkArtFactory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/LisioSilkArtFactory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/LisioSilkArtFactory> <http://www.w3.org/2000/01/rdf-schema#comment> "Hand-woven silk manufacturer founded by Giuseppe Lisio in 1906 in Florence, Italy. Designer in OSU Historic and Cultural Textile and Apparel Collection."@en .
+<http://opaquenamespace.org/ns/creator/LisioSilkArtFactory> <http://www.w3.org/2000/01/rdf-schema#label> "Lisio Silk Art Factory"@en .
