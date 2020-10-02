@@ -3,4 +3,4 @@
 <http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://www.w3.org/2000/01/rdf-schema#comment> "Secretary to Wayne L. Morse during his time as Dean of the University of Oregon School of Law. Lived in Eugene, Oregon. Found in the Wayne L. Morse papers, University of Oregon Libraries, Special Collections and Archives photographs, 1919-1969 collection."@en .
-<http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://www.w3.org/2000/01/rdf-schema#label> "Havemann, Elma Doris"@en .
+<http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://www.w3.org/2000/01/rdf-schema#label> "Haveman, Elma Doris"@en .
