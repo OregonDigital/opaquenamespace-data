@@ -1,3 +1,4 @@
+<http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://purl.org/dc/terms/isReplacedBy> "https://opaquenamespace.org/ns/creator/HavemanElmaDoris" .
 <http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://purl.org/dc/terms/issued> "2020-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://purl.org/dc/terms/modified> "2020-10-02"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/HavemannElmaDoris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
