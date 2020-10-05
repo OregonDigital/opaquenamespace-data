@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/McDanielLeeTaylor> <http://purl.org/dc/terms/issued> "2020-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/McDanielLeeTaylor> <http://purl.org/dc/terms/modified> "2020-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/McDanielLeeTaylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/McDanielLeeTaylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/McDanielLeeTaylor> <http://www.w3.org/2000/01/rdf-schema#comment> "Lee T. McDaniel was a Research Assistant and Instructor of the Ferrier School at Oregon State University from 1968-1980."@en .
+<http://opaquenamespace.org/ns/people/McDanielLeeTaylor> <http://www.w3.org/2000/01/rdf-schema#label> "McDaniel, Lee Taylor"@en .
