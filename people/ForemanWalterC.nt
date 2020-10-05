@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ForemanWalterC> <http://purl.org/dc/terms/issued> "2020-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ForemanWalterC> <http://purl.org/dc/terms/modified> "2020-10-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ForemanWalterC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ForemanWalterC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ForemanWalterC> <http://www.w3.org/2000/01/rdf-schema#comment> "Walter Foreman was a Professor of English from 1948-1976. Foreman served as the Chairman of the department from 1965-1975."@en .
+<http://opaquenamespace.org/ns/people/ForemanWalterC> <http://www.w3.org/2000/01/rdf-schema#label> "Foreman, Walter C."@en .
