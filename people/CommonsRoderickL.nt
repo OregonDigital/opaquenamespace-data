@@ -5,3 +5,4 @@
 <http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/2000/01/rdf-schema#comment> "Assistant Publicity Director at Oregon State University from 1968-1973."@en .
 <http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/2000/01/rdf-schema#label> "Commons, Roderick L."@en .
 <http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/2000/01/rdf-schema#label> "Commons, Rod"@en .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/2002/07/owl#sameAs> <http://opaquenamespace.org/ns/creator/CommonsRoderickL> .
