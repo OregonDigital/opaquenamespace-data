@@ -1,6 +1,6 @@
 <http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://purl.org/dc/terms/issued> "2020-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://purl.org/dc/terms/modified> "2020-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://purl.org/dc/terms/modified> "2020-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://www.w3.org/2000/01/rdf-schema#comment> " Graduated with a Master of Science in Farm Crops from Oregon State University in 1962. He was an Instructor in Farm Crops from 1963-1971. He was later Dean of the School of Agriculture at the Universidad de la Frontera in Temuco, Chile."@en .
-<http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://www.w3.org/2000/01/rdf-schema#label> "Lopez Villaneuva, Hernan"@en .
+<http://opaquenamespace.org/ns/people/LopezVillaneuvaHernan> <http://www.w3.org/2000/01/rdf-schema#label> "Lopez Villanueva, Hernan"@en .
