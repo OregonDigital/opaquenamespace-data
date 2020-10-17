@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/KartchnerJoan> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/KartchnerJoan> <http://schema.org/alternateName> "Kartchner, Grace Joan"@en .
+<http://opaquenamespace.org/ns/people/KartchnerJoan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/KartchnerJoan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/KartchnerJoan> <http://www.w3.org/2000/01/rdf-schema#comment> "Earned an MS in Clothing, Textiles and Related Arts from Oregon State University in 1975. Donor of an item in OSU Historic and Cultural Textile and Apparel Collection."@en .
+<http://opaquenamespace.org/ns/people/KartchnerJoan> <http://www.w3.org/2000/01/rdf-schema#label> "Kartchner, Joan"@en .
