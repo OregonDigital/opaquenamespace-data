@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://purl.org/dc/terms/issued> "2020-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://purl.org/dc/terms/modified> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://schema.org/alternateName> "Commons, Rod"@en .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/2000/01/rdf-schema#comment> "Assistant Publicity Director at Oregon State University from 1968-1973."@en .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/2000/01/rdf-schema#label> "Commons, Roderick L."@en .
+<http://opaquenamespace.org/ns/people/CommonsRoderickL> <http://www.w3.org/2002/07/owl#sameAs> <http://opaquenamespace.org/ns/creator/CommonsRoderickL> .
