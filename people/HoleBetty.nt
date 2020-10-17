@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/people/HoleBetty> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HoleBetty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/HoleBetty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/HoleBetty> <http://www.w3.org/2000/01/rdf-schema#comment> "Student at Oregon State College in the early 1930s. Creator of Betty Hole Collection 1925-1980 (MSS Hole), Oregon State University Special Collections and Archives Research Center. "@en .
+<http://opaquenamespace.org/ns/people/HoleBetty> <http://www.w3.org/2000/01/rdf-schema#label> "Hole, Betty"@en .
