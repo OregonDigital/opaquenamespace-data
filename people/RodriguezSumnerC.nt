@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/RodriguezSumnerC> <http://purl.org/dc/terms/date> "1920/2005" .
+<http://opaquenamespace.org/ns/people/RodriguezSumnerC> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RodriguezSumnerC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/RodriguezSumnerC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/RodriguezSumnerC> <http://www.w3.org/2000/01/rdf-schema#comment> "A resident of Madras, OR. Earned a BA from Reed College in 1942. Earned a JD from Stanford Law School in 1949. Practiced law in Madras, OR beginning in 1949. Married to Adele Knerr."@en .
+<http://opaquenamespace.org/ns/people/RodriguezSumnerC> <http://www.w3.org/2000/01/rdf-schema#label> "Rodriguez, Sumner C. (Charles)"@en .
