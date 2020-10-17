@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/KincaidClareG> <http://purl.org/dc/terms/date> "1915/2011" .
+<http://opaquenamespace.org/ns/people/KincaidClareG> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/KincaidClareG> <http://schema.org/alternateName> "Igoe, Clare"@en .
+<http://opaquenamespace.org/ns/people/KincaidClareG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/KincaidClareG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/KincaidClareG> <http://www.w3.org/2000/01/rdf-schema#comment> "Resident of Eugene, OR. Graduated from the University of Oregon, circa late 1930s. Owned and operated KASH radio station in Eugene for more than 30 years."@en .
+<http://opaquenamespace.org/ns/people/KincaidClareG> <http://www.w3.org/2000/01/rdf-schema#label> "Kincaid, Clare G."@en .
