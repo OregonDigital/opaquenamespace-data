@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/WeatherfordMargaretCartwright> <http://purl.org/dc/terms/date> "1906/1999" .
+<http://opaquenamespace.org/ns/people/WeatherfordMargaretCartwright> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WeatherfordMargaretCartwright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WeatherfordMargaretCartwright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WeatherfordMargaretCartwright> <http://www.w3.org/2000/01/rdf-schema#comment> "Studied Home Economics at Oregon State Agricultural College, graduating in 1928. Creator of Margaret Cartwright Weatherford Collection (MSS WeatherfordMC), Oregon State University Special Collections and Archives Research Center. Married to J. K. Weatherford, Jr. "@en .
+<http://opaquenamespace.org/ns/people/WeatherfordMargaretCartwright> <http://www.w3.org/2000/01/rdf-schema#label> "Weatherford, Margaret Cartwright"@en .
