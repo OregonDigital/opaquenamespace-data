@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/RatheJanetJ> <http://purl.org/dc/terms/date> "1924/2011" .
+<http://opaquenamespace.org/ns/people/RatheJanetJ> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RatheJanetJ> <http://schema.org/alternateName> "Johnson, Janet Roberta"@en .
+<http://opaquenamespace.org/ns/people/RatheJanetJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/RatheJanetJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/RatheJanetJ> <http://www.w3.org/2000/01/rdf-schema#comment> "Resident of Portland, OR. Studied Foods and Nutrition at Oregon State College, graduating in 1947. Worked as a food writer for The Oregonian's \"Hostess House.\" Cofounder of the Oregon Consumer League in 1966. Appointed in 1970 to the President's Consumer Advisory Council. Hosted weekly public radio show \"Consumerscoop\" in the 1970s."@en .
+<http://opaquenamespace.org/ns/people/RatheJanetJ> <http://www.w3.org/2000/01/rdf-schema#label> "Rathe, Janet J. (Johnson)"@en .
