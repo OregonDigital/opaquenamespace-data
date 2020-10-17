@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/RussellElizabeth> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/RussellElizabeth> <http://schema.org/alternateName> "Russell, Beth"@en .
+<http://opaquenamespace.org/ns/people/RussellElizabeth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/RussellElizabeth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/RussellElizabeth> <http://www.w3.org/2000/01/rdf-schema#comment> "Resident of Corvallis, OR. Studied Home Economics at Oregon State College, graduating in 1937. Worked for the Southern Pacific Railroad. Creator of Oregon State University’s Beth Russell Papers, 1941-2005 (MSS RussellB)."@en .
+<http://opaquenamespace.org/ns/people/RussellElizabeth> <http://www.w3.org/2000/01/rdf-schema#label> "Russell, Elizabeth"@en .
