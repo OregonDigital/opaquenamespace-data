@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/HugheyCarolP> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HugheyCarolP> <http://schema.org/alternateName> "Hughey, Carol Peterson"@en .
+<http://opaquenamespace.org/ns/people/HugheyCarolP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/HugheyCarolP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/HugheyCarolP> <http://www.w3.org/2000/01/rdf-schema#comment> "Earned a BS in Clothing, Textiles, and Related Arts and Home Economics Education from Oregon State University in 1980. Worked as a costume designer."@en .
+<http://opaquenamespace.org/ns/people/HugheyCarolP> <http://www.w3.org/2000/01/rdf-schema#label> "Hughey, Carol P."@en .
