@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ToweyRichardE> <http://purl.org/dc/terms/date> "1928/2017" .
+<http://opaquenamespace.org/ns/people/ToweyRichardE> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ToweyRichardE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ToweyRichardE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ToweyRichardE> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Economics at Oregon State University, 1962-1993."@en .
+<http://opaquenamespace.org/ns/people/ToweyRichardE> <http://www.w3.org/2000/01/rdf-schema#label> "Towey, Richard E."@en .
