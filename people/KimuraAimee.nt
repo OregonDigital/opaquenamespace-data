@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/KimuraAimee> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/KimuraAimee> <http://schema.org/alternateName> "Kimura-Koch, Aimee"@en .
+<http://opaquenamespace.org/ns/people/KimuraAimee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/KimuraAimee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/KimuraAimee> <http://www.w3.org/2000/01/rdf-schema#comment> "Resident of Wailuku, HI. Studied Home Economics at Oregon State University, graduating in 1979."@en .
+<http://opaquenamespace.org/ns/people/KimuraAimee> <http://www.w3.org/2000/01/rdf-schema#label> "Kimura, Aimee Emiko"@en .
