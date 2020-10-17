@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/YearickElisabethS> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/YearickElisabethS> <http://schema.org/alternateName> "Yearick, Elizabeth"@en .
+<http://opaquenamespace.org/ns/people/YearickElisabethS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/YearickElisabethS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/YearickElisabethS> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Foods and Nutrition at Oregon State University, circa 1960s-1970s."@en .
+<http://opaquenamespace.org/ns/people/YearickElisabethS> <http://www.w3.org/2000/01/rdf-schema#label> "Yearick, Elisabeth S."@en .
