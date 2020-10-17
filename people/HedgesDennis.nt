@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/HedgesDennis> <http://purl.org/dc/terms/issued> "2020-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HedgesDennis> <http://purl.org/dc/terms/modified> "2020-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HedgesDennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/HedgesDennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/HedgesDennis> <http://www.w3.org/2000/01/rdf-schema#comment> "Dennis Hedges completed a Bachelor of Science at Oregon State College in 1961. He was Assistant to the Athletic Director from 1966-1976."@en .
+<http://opaquenamespace.org/ns/people/HedgesDennis> <http://www.w3.org/2000/01/rdf-schema#label> "Hedges, Dennis"@en .
