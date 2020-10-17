@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/WassonJosephineA> <http://purl.org/dc/terms/date> "1900/1982" .
+<http://opaquenamespace.org/ns/people/WassonJosephineA> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WassonJosephineA> <http://schema.org/alternateName> "Wasson, Jo"@en .
+<http://opaquenamespace.org/ns/people/WassonJosephineA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WassonJosephineA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WassonJosephineA> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor, Art Department, Oregon State College / Oregon State University, 1943-1965. Helped establish the department of art at Portland State College. Earned an MA from Columbia University. "@en .
+<http://opaquenamespace.org/ns/people/WassonJosephineA> <http://www.w3.org/2000/01/rdf-schema#label> "Wasson, Josephine A."@en .
