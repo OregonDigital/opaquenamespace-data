@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/MayJanet> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/MayJanet> <http://schema.org/alternateName> "Hatch, Janet Katy"@en .
+<http://opaquenamespace.org/ns/people/MayJanet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/MayJanet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/MayJanet> <http://www.w3.org/2000/01/rdf-schema#comment> "Resident of Beaverton, OR. Earned a BS in Education from Oregon State University in 1966. Earned an MS in Clothing, Textiles and Related Arts from Oregon State University in 1982. "@en .
+<http://opaquenamespace.org/ns/people/MayJanet> <http://www.w3.org/2000/01/rdf-schema#label> "May, Janet"@en .
