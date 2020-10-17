@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/SagerAzalea> <http://purl.org/dc/terms/issued> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/SagerAzalea> <http://schema.org/alternateName> "Sager, Charles, Mrs.; Sager, Rachel A."@en .
+<http://opaquenamespace.org/ns/people/SagerAzalea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/SagerAzalea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/SagerAzalea> <http://www.w3.org/2000/01/rdf-schema#comment> "Clothing specialist and Home Economics specialist with the Oregon State College Extension Service from 1932-1952. The Azalea House, a women's cooperative, was named for her."@en .
+<http://opaquenamespace.org/ns/people/SagerAzalea> <http://www.w3.org/2000/01/rdf-schema#label> "Sager, Azalea"@en .
