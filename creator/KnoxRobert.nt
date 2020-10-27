@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/KnoxRobert> <http://purl.org/dc/terms/issued> "2020-10-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KnoxRobert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/KnoxRobert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/KnoxRobert> <http://www.w3.org/2000/01/rdf-schema#comment> "Designer for Ben Gershel & Co. and later Laird-Knox. Died in 1973. Designer founder in Historic and Cultural Textiles and Apparel Collection."@en .
+<http://opaquenamespace.org/ns/creator/KnoxRobert> <http://www.w3.org/2000/01/rdf-schema#label> "Knox, Robert"@en .
