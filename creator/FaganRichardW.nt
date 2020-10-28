@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://purl.org/dc/terms/date> "1911/1969" .
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://purl.org/dc/terms/issued> "2020-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://purl.org/dc/terms/modified> "2020-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://schema.org/alternateName> "Fagan, Dick"@en .
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://www.w3.org/2000/01/rdf-schema#comment> "Newspaper reporter and editor for the News-Telegram and Oregon Journal in Portland, Oregon. Found in the Wayne L. Morse papers, University of Oregon Libraries, Special Collections and Archives photographs, 1919-1969 collection."@en .
+<http://opaquenamespace.org/ns/creator/FaganRichardW> <http://www.w3.org/2000/01/rdf-schema#label> "Fagan, Richard W."@en .
