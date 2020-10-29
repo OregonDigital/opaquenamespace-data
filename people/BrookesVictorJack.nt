@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/BrookesVictorJack> <http://purl.org/dc/terms/issued> "2020-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BrookesVictorJack> <http://purl.org/dc/terms/modified> "2020-10-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BrookesVictorJack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BrookesVictorJack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/BrookesVictorJack> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Entomology at Oregon State College/Oregon State University from 1956-1991."@en .
+<http://opaquenamespace.org/ns/people/BrookesVictorJack> <http://www.w3.org/2000/01/rdf-schema#label> "Brookes, Victor Jack"@en .
