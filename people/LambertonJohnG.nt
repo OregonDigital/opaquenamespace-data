@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/LambertonJohnG> <http://purl.org/dc/terms/issued> "2020-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/LambertonJohnG> <http://purl.org/dc/terms/modified> "2020-11-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/LambertonJohnG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/LambertonJohnG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/LambertonJohnG> <http://www.w3.org/2000/01/rdf-schema#comment> "Oregon State University Research Assistant in Agricultural Chemistry from 1964-1975."@en .
+<http://opaquenamespace.org/ns/people/LambertonJohnG> <http://www.w3.org/2000/01/rdf-schema#label> "Lamberton, John G."@en .
