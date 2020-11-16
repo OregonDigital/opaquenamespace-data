@@ -1,4 +1,6 @@
 <http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://purl.org/dc/terms/issued> "2016-01-29"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://purl.org/dc/terms/modified> "2016-01-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://purl.org/dc/terms/modified> "2020-11-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://schema.org/alternateName> "Student Health Services Building"@en .
 <http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://www.w3.org/2000/01/rdf-schema#label> "Student Health Services Building"@en .
+<http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://www.w3.org/2000/01/rdf-schema#comment> "108 SW Memorial Place, Corvallis, Oregon, 97331. "@en .
+<http://opaquenamespace.org/ns/osuBuildings/StudentHealthServicesBuilding> <http://www.w3.org/2000/01/rdf-schema#label> "Plageman Student Health Center"@en .
