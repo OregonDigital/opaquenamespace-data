@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/StutzBerthaWhillock> <http://purl.org/dc/terms/issued> "2020-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/StutzBerthaWhillock> <http://purl.org/dc/terms/modified> "2020-11-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/StutzBerthaWhillock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/StutzBerthaWhillock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/StutzBerthaWhillock> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Master of Science at Oregon State Agricultural College in 1927. She was an Associate Professor of Secretarial Science from 1918-1954."@en .
+<http://opaquenamespace.org/ns/people/StutzBerthaWhillock> <http://www.w3.org/2000/01/rdf-schema#label> "Stutz, Bertha Whillock"@en .
