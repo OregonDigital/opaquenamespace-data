@@ -1,6 +1,6 @@
 <http://opaquenamespace.org/ns/people/LemonEB> <http://purl.org/dc/terms/issued> "2017-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/LemonEB> <http://purl.org/dc/terms/modified> "2017-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/LemonEB> <http://purl.org/dc/terms/modified> "2020-12-10"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/LemonEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/LemonEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/people/LemonEB> <http://www.w3.org/2000/01/rdf-schema#comment> "Erwin Bertran Lemon received a business degree from Oregon Agricultural College in 1911, becoming a part-time accounting instructor until 1943. Lemon also held the office of University Registrar from 1922-1943 and was Dean of Administration from 1943-1959."@en .
-<http://opaquenamespace.org/ns/people/LemonEB> <http://www.w3.org/2000/01/rdf-schema#label> "Lemon, E.B."@en .
+<http://opaquenamespace.org/ns/people/LemonEB> <http://www.w3.org/2000/01/rdf-schema#label> "Lemon, E. B."@en .
