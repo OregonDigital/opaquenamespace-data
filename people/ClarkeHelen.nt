@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ClarkeHelen> <http://purl.org/dc/terms/issued> "2020-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ClarkeHelen> <http://purl.org/dc/terms/modified> "2020-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ClarkeHelen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ClarkeHelen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ClarkeHelen> <http://www.w3.org/2000/01/rdf-schema#comment> "Oregon Agricultural College O.A.C. Barometer editor of co-ed edition,1912."@en .
+<http://opaquenamespace.org/ns/people/ClarkeHelen> <http://www.w3.org/2000/01/rdf-schema#label> "Clarke, Helen"@en .
