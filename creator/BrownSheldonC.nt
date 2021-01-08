@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/BrownSheldonC> <http://purl.org/dc/terms/issued> "2021-01-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BrownSheldonC> <http://purl.org/dc/terms/modified> "2021-01-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BrownSheldonC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BrownSheldonC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/BrownSheldonC> <http://www.w3.org/2000/01/rdf-schema#comment> "Oregon Agricultural College Editor-in-Chief, The College Barometer, 1896-1897."@en .
+<http://opaquenamespace.org/ns/creator/BrownSheldonC> <http://www.w3.org/2000/01/rdf-schema#label> "Brown, Sheldon C."@en .
