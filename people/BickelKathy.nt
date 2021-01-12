@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/BickelKathy> <http://purl.org/dc/terms/issued> "2021-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BickelKathy> <http://purl.org/dc/terms/modified> "2021-01-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BickelKathy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BickelKathy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/BickelKathy> <http://www.w3.org/2000/01/rdf-schema#comment> "Oregon State University Alumni Association executive director; vice president of alumni relations; publisher of Oregon Stater, 2013-2018."@en .
+<http://opaquenamespace.org/ns/people/BickelKathy> <http://www.w3.org/2000/01/rdf-schema#label> "Bickel, Kathy"@en .
