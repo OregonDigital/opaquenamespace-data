@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/StewartWalterL> <http://purl.org/dc/terms/issued> "2020-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/StewartWalterL> <http://purl.org/dc/terms/modified> "2020-12-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/StewartWalterL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/StewartWalterL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/StewartWalterL> <http://www.w3.org/2000/01/rdf-schema#comment> "United States Army Captain and Public Relations Officer stationed in Memphis, Tennessee at Second Army Headquarters, Office of the Assistant Chief of Staff, G-2. Found in the Hugh O'Connor papers, University of Oregon Libraries, Special Collections and Archives photographs, 1928-1968 collection."@en .
+<http://opaquenamespace.org/ns/people/StewartWalterL> <http://www.w3.org/2000/01/rdf-schema#label> "Stewart, Walter L."@en .
