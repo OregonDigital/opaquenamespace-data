@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ShepardCarolynBlakely> <http://purl.org/dc/terms/issued> "2021-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ShepardCarolynBlakely> <http://purl.org/dc/terms/modified> "2021-01-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ShepardCarolynBlakely> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ShepardCarolynBlakely> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ShepardCarolynBlakely> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed Bachelor's degree at Oregon State Agricultural College in 1934. Secretary for Dean of School of Agriculture, Agricultural Experiment Station and others from 1935-1974+."@en .
+<http://opaquenamespace.org/ns/people/ShepardCarolynBlakely> <http://www.w3.org/2000/01/rdf-schema#label> "Shepard, Carolyn Blakely"@en .
