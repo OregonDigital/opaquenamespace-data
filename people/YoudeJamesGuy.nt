@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/YoudeJamesGuy> <http://purl.org/dc/terms/issued> "2020-07-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/YoudeJamesGuy> <http://purl.org/dc/terms/modified> "2021-01-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/YoudeJamesGuy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/YoudeJamesGuy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/YoudeJamesGuy> <http://www.w3.org/2000/01/rdf-schema#comment> "Dr. James G. Youde completed a Bachelor of Science at Oregon State in 1962. He was an Associate Professor of Agricultural Economics from 1966-1975."@en .
+<http://opaquenamespace.org/ns/people/YoudeJamesGuy> <http://www.w3.org/2000/01/rdf-schema#label> "Youde, James Guy"@en .
