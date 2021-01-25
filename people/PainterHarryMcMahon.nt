@@ -2,5 +2,5 @@
 <http://opaquenamespace.org/ns/people/PainterHarryMcMahon> <http://purl.org/dc/terms/modified> "2021-01-25"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/PainterHarryMcMahon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/PainterHarryMcMahon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/PainterHarryMcMahon> <http://www.w3.org/2000/01/rdf-schema#comment> "Physician, obstetrician, and professor of Clinical Obstetrics associated with Columbia University. Found in Doris Ulmann photographs, University of Oregon Libraries, Special Collections and Archives photographs, 1914-1934 collection."@en .
+<http://opaquenamespace.org/ns/people/PainterHarryMcMahon> <http://www.w3.org/2000/01/rdf-schema#comment> "Physician, obstetrician, and professor of Clinical Obstetrics associated with Columbia University located in New York, New York. Found in Doris Ulmann photographs, University of Oregon Libraries, Special Collections and Archives photographs, 1914-1934 collection."@en .
 <http://opaquenamespace.org/ns/people/PainterHarryMcMahon> <http://www.w3.org/2000/01/rdf-schema#label> "Painter, Harry McMahon"@en .
