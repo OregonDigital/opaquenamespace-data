@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/StanfillRobertL> <http://purl.org/dc/terms/issued> "2021-01-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/StanfillRobertL> <http://purl.org/dc/terms/modified> "2021-01-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/StanfillRobertL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/StanfillRobertL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/StanfillRobertL> <http://www.w3.org/2000/01/rdf-schema#comment> "Executive Secretary of the Oregon State Building and Construction Trades Council, located in Portland, Oregon. Found in Oregon Women's Political Caucus (OWPC) records, University of Oregon Libraries, Special Collections and Archives photographs, 1971-1999 collection."@en .
+<http://opaquenamespace.org/ns/people/StanfillRobertL> <http://www.w3.org/2000/01/rdf-schema#label> "Stanfill, Robert L."@en .
