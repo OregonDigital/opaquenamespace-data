@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/EarpEd> <http://purl.org/dc/terms/issued> "2021-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EarpEd> <http://purl.org/dc/terms/modified> "2021-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EarpEd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/EarpEd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/EarpEd> <http://www.w3.org/2000/01/rdf-schema#comment> "Editor of Oregon State Monthly alumni magazine, -1937; OSC/OSU."@en .
+<http://opaquenamespace.org/ns/creator/EarpEd> <http://www.w3.org/2000/01/rdf-schema#label> "Earp, Ed"@en .
