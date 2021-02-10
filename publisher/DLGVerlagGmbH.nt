@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/publisher/DLGVerlagGmbH> <http://purl.org/dc/terms/issued> "2021-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/DLGVerlagGmbH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/DLGVerlagGmbH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/DLGVerlagGmbH> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher in Middle East Water Collection, OSU."@en .
+<http://opaquenamespace.org/ns/publisher/DLGVerlagGmbH> <http://www.w3.org/2000/01/rdf-schema#label> "DLG Verlag GmbH"@en .
+<http://opaquenamespace.org/ns/publisher/DLGVerlagGmbH> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/entities/providers/f88a610112e4b54cde4c25159e46b2c9> .
