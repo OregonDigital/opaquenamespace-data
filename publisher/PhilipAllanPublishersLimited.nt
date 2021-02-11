@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/publisher/PhilipAllanPublishersLimited> <http://purl.org/dc/terms/issued> "2021-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/PhilipAllanPublishersLimited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/PhilipAllanPublishersLimited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/PhilipAllanPublishersLimited> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher in Middle East Water Collection, OSU."@en .
+<http://opaquenamespace.org/ns/publisher/PhilipAllanPublishersLimited> <http://www.w3.org/2000/01/rdf-schema#label> "Philip Allan Publishers Limited"@en .
+<http://opaquenamespace.org/ns/publisher/PhilipAllanPublishersLimited> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/entities/providers/6726ac32ef1b9f37e1e6869547e0b969> .
