@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/publisher/SijthoffandNoordhoffInternational> <http://purl.org/dc/terms/issued> "2021-02-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/SijthoffandNoordhoffInternational> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/SijthoffandNoordhoffInternational> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/SijthoffandNoordhoffInternational> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher in Middle East Water Collection, OSU."@en .
+<http://opaquenamespace.org/ns/publisher/SijthoffandNoordhoffInternational> <http://www.w3.org/2000/01/rdf-schema#label> "Sijthoff and Noordhoff International"@en .
+<http://opaquenamespace.org/ns/publisher/SijthoffandNoordhoffInternational> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/entities/providers/05e248562e6cb3d65d33faf640f1e209> .
