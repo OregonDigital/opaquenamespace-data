@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/MitchellBerniceCompton> <http://purl.org/dc/terms/issued> "2021-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/MitchellBerniceCompton> <http://purl.org/dc/terms/modified> "2021-02-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/MitchellBerniceCompton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/MitchellBerniceCompton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/MitchellBerniceCompton> <http://www.w3.org/2000/01/rdf-schema#comment> "Born in New Orleans, Louisiana. Chairwoman of the Oklahoma Commission on the Status of Women and served as the president of the Oklahoma Women's Political Caucus. Associated with the National Women's Political Caucus. Found in Oregon Women's Political Caucus (OWPC) records, University of Oregon Libraries, Special Collections and Archives photographs, 1971-1999 collection."@en .
+<http://opaquenamespace.org/ns/people/MitchellBerniceCompton> <http://www.w3.org/2000/01/rdf-schema#label> "Mitchell, Bernice Compton"@en .
