@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/CulverAndrewJacksonJr> <http://purl.org/dc/terms/issued> "2021-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CulverAndrewJacksonJr> <http://purl.org/dc/terms/modified> "2021-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CulverAndrewJacksonJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CulverAndrewJacksonJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CulverAndrewJacksonJr> <http://www.w3.org/2000/01/rdf-schema#comment> "Associate Plant Pathologist and courtesy associate professor at the U.S. Department of Agriculture and Environmental Protection Agency from 1950-1980."@en .
+<http://opaquenamespace.org/ns/people/CulverAndrewJacksonJr> <http://www.w3.org/2000/01/rdf-schema#label> "Culver Jr, Andrew Jackson "@en .
