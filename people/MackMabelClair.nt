@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/MackMabelClair> <http://purl.org/dc/terms/issued> "2021-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/MackMabelClair> <http://purl.org/dc/terms/modified> "2021-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/MackMabelClair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/MackMabelClair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/MackMabelClair> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Bachelor of Science and Master of Science at Oregon State in 1928 and 1940, respectively. She was Assistant Director of the Federal Cooperative Extension Service and other roles at Oregon State from 1928-1964."@en .
+<http://opaquenamespace.org/ns/people/MackMabelClair> <http://www.w3.org/2000/01/rdf-schema#label> "Mack, Mabel Clair"@en .
