@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/GrausmanPhilipM> <http://purl.org/dc/terms/issued> "2021-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrausmanPhilipM> <http://purl.org/dc/terms/modified> "2021-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrausmanPhilipM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/GrausmanPhilipM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/GrausmanPhilipM> <http://www.w3.org/2000/01/rdf-schema#comment> "Born circa 1876, died in 1934 in New York. Physician and Surgeon. Served as president of the medical advisory board and director of surgery at the Hospital for Joint Diseases in New York. Former assistant professor of surgery at Polyclinic Hospital. Member of the American Medical Association, New York Academy of Medicine and fellow of the American College of Surgeons. Found in Doris Ulmann photographs, University of Oregon Libraries, Special Collections and Archives photographs, 1914-1934 collection."@en .
+<http://opaquenamespace.org/ns/creator/GrausmanPhilipM> <http://www.w3.org/2000/01/rdf-schema#label> "Grausman, Philip M."@en .
