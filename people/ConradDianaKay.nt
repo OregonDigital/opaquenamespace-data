@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ConradDianaKay> <http://purl.org/dc/terms/issued> "2021-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ConradDianaKay> <http://purl.org/dc/terms/modified> "2021-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ConradDianaKay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ConradDianaKay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ConradDianaKay> <http://www.w3.org/2000/01/rdf-schema#comment> "Held various roles at Oregon State including Assistant Dean of Women, Associate Director of Admissions, and Director of Admissions from 1970-1997."@en .
+<http://opaquenamespace.org/ns/people/ConradDianaKay> <http://www.w3.org/2000/01/rdf-schema#label> "Conrad, Diana Kay"@en .
