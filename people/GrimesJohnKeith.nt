@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/GrimesJohnKeith> <http://purl.org/dc/terms/issued> "2021-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GrimesJohnKeith> <http://purl.org/dc/terms/modified> "2021-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GrimesJohnKeith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/GrimesJohnKeith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/GrimesJohnKeith> <http://www.w3.org/2000/01/rdf-schema#comment> "Graduated from Oregon State in 1940. He was a Clatsop County Extension Agent and Chairman with Oregon State from 1942-1944, and 1953-1978."@en .
+<http://opaquenamespace.org/ns/people/GrimesJohnKeith> <http://www.w3.org/2000/01/rdf-schema#label> "Grimes, John Keith"@en .
