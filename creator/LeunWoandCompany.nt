@@ -1,3 +1,4 @@
+<http://opaquenamespace.org/ns/creator/LeunWoandCompany> <http://purl.org/dc/terms/isReplacedBy> "http://opaquenamespace.org/ns/creator/LuenWoandCompany" .
 <http://opaquenamespace.org/ns/creator/LeunWoandCompany> <http://purl.org/dc/terms/issued> "2017-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/LeunWoandCompany> <http://purl.org/dc/terms/modified> "2017-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/LeunWoandCompany> <http://schema.org/alternateName> "Leun Wo and Company"@en .
