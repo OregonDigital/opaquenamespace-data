@@ -2,6 +2,6 @@
 <http://opaquenamespace.org/ns/people/SatherLoisA> <http://purl.org/dc/terms/modified> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/SatherLoisA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/SatherLoisA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/SatherLoisA> <http://www.w3.org/2000/01/rdf-schema#comment> "Associate Professor of Food Science, OSC, OSU, 1945-1963. B.S. at OSC 1945."@en .
+<http://opaquenamespace.org/ns/people/SatherLoisA> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Food Science, OSC, OSU, 1945-1948, 1952-1984. B.S. at OSC 1945."@en .
 <http://opaquenamespace.org/ns/people/SatherLoisA> <http://www.w3.org/2000/01/rdf-schema#label> "Sather, Lois A."@en .
 <http://opaquenamespace.org/ns/people/SatherLoisA> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q105966607> .
