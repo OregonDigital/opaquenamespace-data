@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/CoupRichard> <http://purl.org/dc/terms/issued> "2021-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CoupRichard> <http://purl.org/dc/terms/modified> "2021-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CoupRichard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CoupRichard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CoupRichard> <http://www.w3.org/2000/01/rdf-schema#comment> "Served as a witness in 1434 to the signing of a deed declaring that William Bokenham of Weasenham, Alexander Webster of Weasenham and John Golle of Beeston give land in fief to John Costyn, a dyer, Geoffey Heye and Thomas Wryghte and their heirs, in Weasenham, Norfolk. Other witnesses include William Ede, Roger Wylkyn, John Wylkyn, Thomas Heye, and others. Appears in the University of Oregon Special Collections Manuscripts and Rare Books."@en .
+<http://opaquenamespace.org/ns/people/CoupRichard> <http://www.w3.org/2000/01/rdf-schema#label> "Coup, Richard"@en .
