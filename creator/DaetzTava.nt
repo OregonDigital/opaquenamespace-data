@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/DaetzTava> <http://purl.org/dc/terms/issued> "2021-06-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DaetzTava> <http://purl.org/dc/terms/modified> "2021-06-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DaetzTava> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/DaetzTava> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/DaetzTava> <http://www.w3.org/2000/01/rdf-schema#comment> "Photographer in The Daily Barometer; graduated from Oregon State University in 1974."@en .
+<http://opaquenamespace.org/ns/creator/DaetzTava> <http://www.w3.org/2000/01/rdf-schema#label> "Daetz, Tava"@en .
