@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/TFDDbasins> <http://purl.org/dc/terms/issued> "2021-07-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TFDDbasins> <http://purl.org/dc/terms/modified> "2021-07-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TFDDbasins> <http://purl.org/dc/terms/publisher> "Opaque Namespace"@en .
+<http://opaquenamespace.org/ns/TFDDbasins> <http://purl.org/dc/terms/title> "TFDD International River Basins"@en .
+<http://opaquenamespace.org/ns/TFDDbasins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
+<http://opaquenamespace.org/ns/TFDDbasins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/TFDDbasins> <http://www.w3.org/2000/01/rdf-schema#comment> "Vocabulary based on the Register of International River Basins, a list that identifies the world's international rivers basins which is maintained and updated by the Transboundary Freshwater Dispute Database at Oregon State University."@en .
+<http://opaquenamespace.org/ns/TFDDbasins> <http://www.w3.org/2000/01/rdf-schema#label> "TFDD International River Basins"@en .
