@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://purl.org/dc/terms/issued> "2021-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://schema.org/alternateName> "Congo"@en .
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://schema.org/alternateName> "Zaire"@en .
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://www.w3.org/2009/08/skos-reference/skos.html#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://www.w3.org/2000/01/rdf-schema#comment> "The Congo/Zaire basin is located in Burundi, Cameroon, Malawi, Rwanda, United Republic of Tanzania, Zambia, Central African Republic, Democratic Republic of the Congo, Angola, and Congo, covering an area of 3,688,888 square kilometers."@en .
+<http://opaquenamespace.org/ns/TFDDbasins/CNGO> <http://www.w3.org/2000/01/rdf-schema#label> "Congo/Zaire"@en .
