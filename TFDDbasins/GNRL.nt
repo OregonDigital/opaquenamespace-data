@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/TFDDbasins/GNRL> <http://purl.org/dc/terms/issued> "2021-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TFDDbasins/GNRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/GNRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://www.w3.org/2009/08/skos-reference/skos.html#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/GNRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/TFDDbasins/GNRL> <http://www.w3.org/2000/01/rdf-schema#comment> "Within the International Freshwater Treaties Collection, global international agreements are coded as General (GNRL). If the agreement is a multi-lateral regional agreement, i.e. SADC Protocol, or a global level agreement, i.e. 1997 UNWC Convention, then General (GNRL) is used."@en .
+<http://opaquenamespace.org/ns/TFDDbasins/GNRL> <http://www.w3.org/2000/01/rdf-schema#label> "General"@en .
