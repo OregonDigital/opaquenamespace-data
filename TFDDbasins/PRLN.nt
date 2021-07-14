@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/TFDDbasins/PRLN> <http://purl.org/dc/terms/issued> "2021-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TFDDbasins/PRLN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/PRLN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://www.w3.org/2009/08/skos-reference/skos.html#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/PRLN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/TFDDbasins/PRLN> <http://www.w3.org/2000/01/rdf-schema#comment> "The Prohladnaja basin is located in Poland and Russian Federation, covering an area of 1,791 square kilometers."@en .
+<http://opaquenamespace.org/ns/TFDDbasins/PRLN> <http://www.w3.org/2000/01/rdf-schema#label> "Prohladnaja"@en .
