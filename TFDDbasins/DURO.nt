@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://purl.org/dc/terms/issued> "2021-07-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://schema.org/alternateName> "Douro"@en .
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://schema.org/alternateName> "Duero"@en .
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://www.w3.org/2009/08/skos-reference/skos.html#Concept> .
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://www.w3.org/2000/01/rdf-schema#comment> "The Douro/Duero basin is located in Portugal and Spain, covering an area of 97,379 square kilometers."@en .
+<http://opaquenamespace.org/ns/TFDDbasins/DURO> <http://www.w3.org/2000/01/rdf-schema#label> "Douro/Duero"@en .
