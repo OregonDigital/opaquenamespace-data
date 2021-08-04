@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://purl.org/dc/terms/date> "1920/1979" .
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://purl.org/dc/terms/issued> "2021-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://purl.org/dc/terms/modified> "2021-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 776, Edwin Tunis papers, 1920s-1979. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://www.w3.org/2000/01/rdf-schema#comment> "The Edwin Tunis papers include manuscripts and illustrations for children's books, as well as correspondence, articles, reviews, publicity, and personal papers."@en .
+<http://opaquenamespace.org/ns/localCollectionName/EdwinTunispapers1920s1979> <http://www.w3.org/2000/01/rdf-schema#label> "Edwin Tunis papers, 1920s-1979"@en .
