@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://purl.org/dc/terms/date> "1919/1983" .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://purl.org/dc/terms/issued> "2021-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://purl.org/dc/terms/modified> "2021-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 100, Kurt Werth papers, 1919-1983. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://www.w3.org/2000/01/rdf-schema#comment> "Kurt Werth (1896-1983) was a German-born illustrator and author of American children's literature. The collection consists of original children's book illustrations and manuscripts, other artwork and manuscripts, personal papers, artifacts, personal and professional correspondence, and papers of his wife, Margaret Werth."@en .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWerthpapers19191983> <http://www.w3.org/2000/01/rdf-schema#label> "Kurt Werth papers, 1919-1983"@en .
