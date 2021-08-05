@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://purl.org/dc/terms/date> "1911/1974" .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://purl.org/dc/terms/issued> "2021-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://purl.org/dc/terms/modified> "2021-08-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 445, Kurt Wiese papers, circa 1911-1974. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://www.w3.org/2000/01/rdf-schema#comment> "Kurt Wiese (1887-1974) was a German-born illustrator and author of American children's literature. The collection is primarily comprised of children's book production material including original drawings, sketches, proofs, manuscripts, and correspondence. Other artwork and personal papers are also included."@en .
+<http://opaquenamespace.org/ns/localCollectionName/KurtWiesepapers> <http://www.w3.org/2000/01/rdf-schema#label> "Kurt Wiese papers, circa 1911-1974"@en .
