@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://purl.org/dc/terms/date> "1947/1989" .
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://purl.org/dc/terms/issued> "2021-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://purl.org/dc/terms/modified> "2021-07-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 522, Chester E. Corry papers, 1947-1989. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://www.w3.org/2000/01/rdf-schema#comment> "Chester E. Corry (1906-1989) was an Oregon landscape architect who worked predominantly in southern Oregon and is best known for his work at Ashland's Lithia Park. The Chester E. Corry papers contain landscape architecture plans for public areas and residential clients, some accompanying documentation for landscape projects, clippings, correspondence, and an autobiography."@en .
+<http://opaquenamespace.org/ns/localCollectionName/ChesterECorrypapers19471989> <http://www.w3.org/2000/01/rdf-schema#label> "Chester E. Corry papers, 1947-1989"@en .
