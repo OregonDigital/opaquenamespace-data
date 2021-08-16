@@ -3,3 +3,4 @@
 <http://opaquenamespace.org/ns/creator/SchoelerHildegarde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/SchoelerHildegarde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/SchoelerHildegarde> <http://www.w3.org/2000/01/rdf-schema#comment> "Graduated from Oregon State College in 1944; editor of Oregon State Daily Barometer, Co-Ed Edition, 1944."@en .
+<http://opaquenamespace.org/ns/creator/SchoelerHildegarde> <http://www.w3.org/2000/01/rdf-schema#label> "Schoeler, Hildegarde"@en .
