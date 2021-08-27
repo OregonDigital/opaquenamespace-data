@@ -1,6 +1,6 @@
 <http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://purl.org/dc/terms/issued> "2021-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://purl.org/dc/terms/modified> "2021-04-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://purl.org/dc/terms/modified> "2021-08-19"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Bachelor of Science at Oregon State University in 1970. He was Assistant Alumni Director at Oregon State from 1972-1978."@en .
+<http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Bachelor of Science at Oregon State University in 1970; Assistant Alumni Director at Oregon State from 1972-1978; editor of Oregon State Daily Barometer, 1969."@en .
 <http://opaquenamespace.org/ns/people/AllenRobertGregory> <http://www.w3.org/2000/01/rdf-schema#label> "Allen, Robert Gregory"@en .
