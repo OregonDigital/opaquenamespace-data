@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/WalkerClydeMarvin> <http://purl.org/dc/terms/issued> "2021-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WalkerClydeMarvin> <http://purl.org/dc/terms/modified> "2021-09-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WalkerClydeMarvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WalkerClydeMarvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/WalkerClydeMarvin> <http://www.w3.org/2000/01/rdf-schema#comment> "Graduated from Oregon State College in 1940; editor in Oregon State Barometer."@en .
+<http://opaquenamespace.org/ns/creator/WalkerClydeMarvin> <http://www.w3.org/2000/01/rdf-schema#label> "Walker, Clyde Marvin"@en .
