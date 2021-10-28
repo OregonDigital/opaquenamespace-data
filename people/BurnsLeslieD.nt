@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/BurnsLeslieD> <http://purl.org/dc/terms/issued> "2021-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BurnsLeslieD> <http://purl.org/dc/terms/modified> "2021-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BurnsLeslieD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BurnsLeslieD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/BurnsLeslieD> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor in the College of Business at Oregon State from 1985-2016."@en .
+<http://opaquenamespace.org/ns/people/BurnsLeslieD> <http://www.w3.org/2000/01/rdf-schema#label> "Burns, Leslie D."@en .
