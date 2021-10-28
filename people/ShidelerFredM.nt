@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ShidelerFredM> <http://purl.org/dc/terms/issued> "2021-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ShidelerFredM> <http://purl.org/dc/terms/modified> "2021-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ShidelerFredM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ShidelerFredM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ShidelerFredM> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Master of Education at Oregon State in 1941; Professor of Journalism at Oregon State from from 1929-1970, including time as Director of University Relations."@en .
+<http://opaquenamespace.org/ns/people/ShidelerFredM> <http://www.w3.org/2000/01/rdf-schema#label> "Shideler, Fred M."@en .
