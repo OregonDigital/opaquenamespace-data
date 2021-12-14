@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/GiffordStudio> <http://purl.org/dc/terms/issued> "2021-12-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GiffordStudio> <http://purl.org/dc/terms/modified> "2021-12-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GiffordStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/GiffordStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/GiffordStudio> <http://www.w3.org/2000/01/rdf-schema#comment> "Photography studio owned and operated by Benjamin A. Gifford (d.1919) and Ralph I. Gifford until 1928, when Ralph Gifford sold it. Located in Portland and The Dalles, Oregon."@en .
+<http://opaquenamespace.org/ns/creator/GiffordStudio> <http://www.w3.org/2000/01/rdf-schema#label> "Gifford Studio"@en .
