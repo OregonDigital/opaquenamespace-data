@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/HarlanTom> <http://purl.org/dc/terms/issued> "2021-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HarlanTom> <http://purl.org/dc/terms/modified> "2021-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HarlanTom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/HarlanTom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/HarlanTom> <http://www.w3.org/2000/01/rdf-schema#comment> "Resident of Oregon and Washington. Tom had a 30-year-career as Public Affairs Officer for the U.S. Forest Service and held positions on the Siuslaw National Forest in Corvallis, OR; and in regional offices in Portland, San Francisco and Missoula. He ended his career in the National Office in Washington, D.C. retiring in 1989. Spouse of Marylee Harlan. Photographer in the Siuslaw National Forest Collection."@en .
+<http://opaquenamespace.org/ns/people/HarlanTom> <http://www.w3.org/2000/01/rdf-schema#label> "Harlan, Tom"@en .
