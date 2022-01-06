@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/ZabdHusain> <http://purl.org/dc/terms/issued> "2021-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZabdHusain> <http://purl.org/dc/terms/modified> "2021-11-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/ZabdHusain> <http://schema.org/alternateName> "Husain ibn Ahd al Ramuz ibn Sadi al-Din"@en .
+<http://opaquenamespace.org/ns/creator/ZabdHusain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/ZabdHusain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/ZabdHusain> <http://www.w3.org/2000/01/rdf-schema#comment> "Scribe. Appears in Al Koran University of Oregon Libraries, Special Collections and Archives manuscripts, MS 046 collection."@en .
+<http://opaquenamespace.org/ns/creator/ZabdHusain> <http://www.w3.org/2000/01/rdf-schema#label> "Zabd, Husain"@en .
