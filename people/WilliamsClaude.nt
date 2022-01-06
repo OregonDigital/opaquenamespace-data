@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/WilliamsClaude> <http://purl.org/dc/terms/issued> "2021-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WilliamsClaude> <http://purl.org/dc/terms/modified> "2021-06-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WilliamsClaude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WilliamsClaude> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WilliamsClaude> <http://www.w3.org/2000/01/rdf-schema#comment> "Featured in the William C. Smith papers, University of Oregon Libraries, Special Collections and Archives photographs, 1924-1927 collection."@en .
+<http://opaquenamespace.org/ns/people/WilliamsClaude> <http://www.w3.org/2000/01/rdf-schema#label> "Williams, Claude"@en .
