@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://purl.org/dc/terms/issued> "2022-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://purl.org/dc/terms/modified> "2022-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://schema.org/alternateName> "Men's football"@en .
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://www.w3.org/2000/01/rdf-schema#comment> "American football practiced by men."@en .
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://www.w3.org/2000/01/rdf-schema#label> "Football for men"@en .
+<http://opaquenamespace.org/ns/subject/FootballForMen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q106586759> .
