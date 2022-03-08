@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://purl.org/dc/terms/issued> "2022-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://purl.org/dc/terms/modified> "2022-03-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://schema.org/alternateName> "Men's rowing"@en .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://schema.org/alternateName> "Crew for men"@en .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://www.w3.org/2000/01/rdf-schema#comment> "Rowing (or crew) practiced by men."@en .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://www.w3.org/2000/01/rdf-schema#label> "Rowing for men"@en .
+<http://opaquenamespace.org/ns/subject/RowingForMen> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q99463393> .
