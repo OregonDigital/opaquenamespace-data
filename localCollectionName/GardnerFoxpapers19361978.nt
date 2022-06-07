@@ -1,4 +1,4 @@
-<http://opaquenamespace.org/ns/localCollectionName/GardnerFoxpapers19361978> <http://purl.org/dc/terms/date> "1936-1978" .
+<http://opaquenamespace.org/ns/localCollectionName/GardnerFoxpapers19361978> <http://purl.org/dc/terms/date> "1936/1978" .
 <http://opaquenamespace.org/ns/localCollectionName/GardnerFoxpapers19361978> <http://purl.org/dc/terms/issued> "2022-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/localCollectionName/GardnerFoxpapers19361978> <http://purl.org/dc/terms/modified> "2022-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/localCollectionName/GardnerFoxpapers19361978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
