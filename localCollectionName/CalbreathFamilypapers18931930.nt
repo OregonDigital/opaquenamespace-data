@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://purl.org/dc/terms/date> "1893/1930" .
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 193, Calbreath Family papers, 1893-1930. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://www.w3.org/2000/01/rdf-schema#comment> "The Calbreath Family papers (1893-1930) document the Calbreath and Smith families, both pioneer families in Oregon. The collection contains incoming and outgoing correspondence, diaries, account books, day books, and manuscripts of poetry and prose by Irene Smith Calbreath."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CalbreathFamilypapers18931930> <http://www.w3.org/2000/01/rdf-schema#label> "Calbreath Family papers, 1893-1930"@en .
