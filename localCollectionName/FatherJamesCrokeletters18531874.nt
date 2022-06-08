@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://purl.org/dc/terms/date> "1853/1874" .
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://www.w3.org/2000/01/rdf-schema#comment> "A 023, Father James Croke letters, 1853-1874. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://www.w3.org/2000/01/rdf-schema#comment> "Rev. James Croke (1827-1888) was a Catholic missionary priest who served in Oregon in the 1850s, reporting directly to Bishop Francis Blanchet of Oregon City, Oregon. The Father James Croke letters (1853-1874) collection consists of typed transcripts of letters from Croke to Blanchet concerning the details of his missionary work."@en .
+<http://opaquenamespace.org/ns/localCollectionName/FatherJamesCrokeletters18531874> <http://www.w3.org/2000/01/rdf-schema#label> "Father James Croke letters, 1853-1874"@en .
