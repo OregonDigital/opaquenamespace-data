@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://purl.org/dc/terms/date> "1958/1961" .
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://www.w3.org/2000/01/rdf-schema#comment> "UA 346, John Edward Tysell, Jr. papers, 1958-1961. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://www.w3.org/2000/01/rdf-schema#comment> "John Edward Tysell, Jr. attended the University of Oregon from 1958-1962. This John Edward Tysell, Jr. papers (1958-1961) contain political ephemera and slides documenting Tysell's collegiate experience at the University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnEdwardTysellJrpapers19581961> <http://www.w3.org/2000/01/rdf-schema#label> "John Edward Tysell, Jr. papers, 1958-1961"@en .
