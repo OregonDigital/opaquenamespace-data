@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://purl.org/dc/terms/date> "1910/2008" .
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 326, Morris Graves papers, 1910-2008. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://www.w3.org/2000/01/rdf-schema#comment> "Morris Cole Graves (1910-2001) was an American expressionist painter. Along with Guy Anderson, Kenneth Callahan, William Cumming, and Mark Tobey, he founded the Northwest School. The Morris Graves papers (1910-2008) contain correspondence, gallery records, financial documents, information on Graves' houses and properties, artifacts, photographs, and extensive biographical information about Graves and his parents."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MorrisGravespapers19102008> <http://www.w3.org/2000/01/rdf-schema#label> "Morris Graves papers, 1910-2008"@en .
