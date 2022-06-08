@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://purl.org/dc/terms/date> "1858/1961" .
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 264, Edith Wherry Muckleston papers, 1858-1961. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://www.w3.org/2000/01/rdf-schema#comment> "Edith Wherry Muckleston (1876-1961) was an author who spent her childhood in Peking, China with her missionary parents. The Edith Wherry Muckleston papers (1858-1961) consists of personal and professional correspondence, manuscripts, photographs and Chinese manuscripts and artifacts."@en .
+<http://opaquenamespace.org/ns/localCollectionName/EdithWherryMucklestonpapers18581961> <http://www.w3.org/2000/01/rdf-schema#label> "Edith Wherry Muckleston papers, 1858-1961"@en .
