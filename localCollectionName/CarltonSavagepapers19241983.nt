@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://purl.org/dc/terms/date> "1924/1983" .
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 216, Carlton Savage papers, 1924-1983. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://www.w3.org/2000/01/rdf-schema#comment> "The Carlton Savage papers (1924-1983) contains correspondence, speeches, a personal journal, political biographical files, State Department's Policy Planning Council and United Nations subject files, reviews and publicity for State Department publications by Savage, a volume of hearings before the House Judiciary Subcommittee concerning a declaration of war, and photographs."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CarltonSavagepapers19241983> <http://www.w3.org/2000/01/rdf-schema#label> "Carlton Savage papers, 1924-1983"@en .
