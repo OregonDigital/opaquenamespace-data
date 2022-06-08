@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://purl.org/dc/terms/date> "1946/1981" .
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 202, Robert LeFevre papers, 1946-1981. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://www.w3.org/2000/01/rdf-schema#comment> "Robert LeFevre (1911-1986) was a conservative and later radical libertarian journalist, writer and teacher. The Robert LeFevre papers (1946-1981) include correspondence, literary manuscripts, speeches, organizational files, and other materials that reflect his career."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RobertLeFevrepapers19461981> <http://www.w3.org/2000/01/rdf-schema#label> "Robert LeFevre papers, 1946-1981"@en .
