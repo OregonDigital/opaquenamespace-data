@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://purl.org/dc/terms/date> "1950/1969" .
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 460, Earl Conrad papers, 1950-1969. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://www.w3.org/2000/01/rdf-schema#comment> "Earl Conrad (1912–1986) was an author who specialized in biographies and books about the African American experience and race relations, among other non-fiction books and criticisms. The Earl Conrad papers (1950-1969) contain manuscript material and published works, professional and personal correspondence, research materials, underground newspapers, teaching materials, reviews, publicity, and news clippings."@en .
+<http://opaquenamespace.org/ns/localCollectionName/EarlConradpapers19501969> <http://www.w3.org/2000/01/rdf-schema#label> "Earl Conrad papers, 1950-1969"@en .
