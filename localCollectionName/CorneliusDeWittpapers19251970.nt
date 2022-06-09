@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://purl.org/dc/terms/date> "1925/1970" .
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 347, Cornelius DeWitt papers, 1925-1970. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://www.w3.org/2000/01/rdf-schema#comment> "Cornelius Hugh DeWitt (1905-1995) was a German-born children's book illustrator. The Cornelius DeWitt papers (1925-1970) include original artwork for children’s book illustrations, as well as artwork for proposed publications. Also included are correspondence files and production notes for his work."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CorneliusDeWittpapers19251970> <http://www.w3.org/2000/01/rdf-schema#label> "Cornelius DeWitt papers, 1925-1970"@en .
