@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://purl.org/dc/terms/date> "1930/1960" .
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://purl.org/dc/terms/issued> "2022-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://purl.org/dc/terms/modified> "2022-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 078, Richard Neuberger papers, 1930-1960. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://www.w3.org/2000/01/rdf-schema#comment> "Richard Lewis Neuberger (1912-1960), an Oregon native, was a U.S. Senator (D-OR) from 1954 to 1960. The Richard Neuberger papers (1930-1960) consist of correspondence, legislation, published articles, and newspaper articles which pertain to the literary and political career of Richard Lewis Neuberger."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RichardNeubergerpapers19301960> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Neuberger papers, 1930-1960"@en .
