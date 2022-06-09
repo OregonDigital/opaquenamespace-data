@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://purl.org/dc/terms/date> "1970/1992" .
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://purl.org/dc/terms/issued> "2022-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://purl.org/dc/terms/modified> "2022-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 365, Margie Hendriksen papers, 1970-1992. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://www.w3.org/2000/01/rdf-schema#comment> "Margie Hendriksen was a Democratic Oregon politician. The Margie Hendriksen papers (1970-1992) collection include materials relating to Hendriksen's involvement with the National Women's Political Caucus/Oregon Women's Political Caucus, the Equal Rights Amendment, and other women's rights issues. The collection contains significant material relating to abortion rights."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MargieHendriksenpapers19701992> <http://www.w3.org/2000/01/rdf-schema#label> "Margie Hendriksen papers, 1970-1992"@en .
