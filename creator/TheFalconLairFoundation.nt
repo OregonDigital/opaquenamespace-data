@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/TheFalconLairFoundation> <http://purl.org/dc/terms/issued> "2022-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TheFalconLairFoundation> <http://purl.org/dc/terms/modified> "2022-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/TheFalconLairFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/TheFalconLairFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/TheFalconLairFoundation> <http://www.w3.org/2000/01/rdf-schema#comment> "Nonprofit group interested in religion, philosophy, and government; located in Beverly Hills, California; associated with American libertarian, Robert LeFevre. Featured in the Robert LeFevre papers, University of Oregon Libraries, Special Collections and Archives photographs, 1946-1981 collection."@en .
+<http://opaquenamespace.org/ns/creator/TheFalconLairFoundation> <http://www.w3.org/2000/01/rdf-schema#label> "The Falcon Lair Foundation"@en .
