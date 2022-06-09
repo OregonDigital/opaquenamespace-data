@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://purl.org/dc/terms/date> "1851" .
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://www.w3.org/2000/01/rdf-schema#comment> "A 043, Amelia A. Hadley journal, 1851. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://www.w3.org/2000/01/rdf-schema#comment> "The Amelia A. Hadley journal includes entries regarding her 1851 journey from Galesburg, Illinois to Oregon City, Oregon. Hadley describes life on the trail including gunshot wounds and trail fever as well as animals encountered along the way."@en .
+<http://opaquenamespace.org/ns/localCollectionName/AmeliaAHadleyjournal1851> <http://www.w3.org/2000/01/rdf-schema#label> "Amelia A. Hadley journal, 1851"@en .
