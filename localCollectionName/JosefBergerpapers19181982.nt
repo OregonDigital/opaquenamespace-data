@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://purl.org/dc/terms/date> "1918/1982" .
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 058, Josef Berger papers, 1918-1982. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://www.w3.org/2000/01/rdf-schema#comment> "Josef Berger (1903-1971) was a children's book author, political speechwriter, poet, and lyricist. The Josef Berger papers (1918-1982) include correspondence, manuscripts, short stories, poems, song lyrics, speeches, teleplays, and published articles, relating to Berger's interest in American history, politics, and culture."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JosefBergerpapers19181982> <http://www.w3.org/2000/01/rdf-schema#label> "Josef Berger papers, 1918-1982"@en .
