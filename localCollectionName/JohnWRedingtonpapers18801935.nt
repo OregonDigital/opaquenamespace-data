@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://purl.org/dc/terms/date> "1880/1935" .
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 093, John W. Redington papers, 1880-1935. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://www.w3.org/2000/01/rdf-schema#comment> "John Watermelon Redington (1851-1935) was an Indian War scout, newspaper editor, writer, publisher and humorist. The John W. Redington papers (1880-1935) consist of manuscripts, scrapbooks, 19th century newspapers, broadsides, photographs, and approximately 800 pieces of correspondence."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnWRedingtonpapers18801935> <http://www.w3.org/2000/01/rdf-schema#label> "John W. Redington papers, 1880-1935"@en .
