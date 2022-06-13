@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://purl.org/dc/terms/date> "1918/1950" .
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 217, Frank M. Toothaker papers, 1918-1950. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://www.w3.org/2000/01/rdf-schema#comment> "The Frank M. Toothaker papers (1918-1950) include 9 volumes of diaries, 268 letters received, and 104 letters sent belonging to Frank M. Toothaker, Methodist missionary to China."@en .
+<http://opaquenamespace.org/ns/localCollectionName/FrankMToothakerpapers19181950> <http://www.w3.org/2000/01/rdf-schema#label> "Frank M. Toothaker papers, 1918-1950"@en .
