@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://purl.org/dc/terms/date> "1960/1969" .
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 518, Lawrence Block manuscripts, 1960-1969. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://www.w3.org/2000/01/rdf-schema#comment> "Lawrence Block (1938- ) is an acclaimed contemporary American crime writer. The Lawrence Block manuscripts (1960-1969) collection consists of 17 of Block's manuscripts, as well as short stories, articles and outlines."@en .
+<http://opaquenamespace.org/ns/localCollectionName/LawrenceBlockmanuscripts19601969> <http://www.w3.org/2000/01/rdf-schema#label> "Lawrence Block manuscripts, 1960-1969"@en .
