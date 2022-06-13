@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://purl.org/dc/terms/date> "1851" .
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://www.w3.org/2000/01/rdf-schema#comment> "CA 1851 Jan 19, George Allingham letter to William Allingham, 1851. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://www.w3.org/2000/01/rdf-schema#comment> "George Allingham ( d.1873) was a resident of Warren County, Illinois, whose son, William, emigrated to Oregon in 1850. The George Allingham letter to William Allingham (1851) consists of a photostat copy of a letter from the elder Allingham to his son."@en .
+<http://opaquenamespace.org/ns/localCollectionName/GeorgeAllinghamletter1851> <http://www.w3.org/2000/01/rdf-schema#label> "George Allingham letter to William Allingham, 1851"@en .
