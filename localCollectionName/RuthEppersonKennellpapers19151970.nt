@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://purl.org/dc/terms/date> "1915/1970" .
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://purl.org/dc/terms/issued> "2022-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://purl.org/dc/terms/modified> "2022-06-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 872, Ruth Epperson Kennell papers, 1915-1970. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://www.w3.org/2000/01/rdf-schema#comment> "Ruth Epperson Kennell (1889-1977) was an author with a long and varied career, which included many years spent in the Soviet Union. The Ruth Epperson Kennell papers (1915-1970) include book manuscripts, short stories, screenplays, magazine articles, and general correspondence. Kennell was secretary to Theodore Dreiser."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RuthEppersonKennellpapers19151970> <http://www.w3.org/2000/01/rdf-schema#label> "Ruth Epperson Kennell papers, 1915-1970"@en .
