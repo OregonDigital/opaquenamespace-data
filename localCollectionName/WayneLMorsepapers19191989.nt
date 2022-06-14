@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://purl.org/dc/terms/date> "1919/1989" .
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://purl.org/dc/terms/issued> "2022-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://purl.org/dc/terms/modified> "2022-06-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 001, Wayne L. Morse papers, 1919-1989. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://www.w3.org/2000/01/rdf-schema#comment> "Wayne Lyman Morse (1900-1974) was a United States Senator from 1945-1969. He was a member of the Labor and Welfare Committee, Armed Services Committee, and Foreign Relations Committee and served as a delegate to the United Nations. The collection contains senatorial papers, 1944-1968, research material, arbitration decisions, speeches, financial material, mementos and personal and general correspondence."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WayneLMorsepapers19191989> <http://www.w3.org/2000/01/rdf-schema#label> "Wayne L. Morse papers, 1919-1989"@en .
