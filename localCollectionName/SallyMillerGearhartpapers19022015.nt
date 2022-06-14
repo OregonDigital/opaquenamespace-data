@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://purl.org/dc/terms/date> "1902/2015" .
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 305, Sally Miller Gearhart papers, 1902-2015. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://www.w3.org/2000/01/rdf-schema#comment> "Dr. Sally Miller Gearhart (1931-2021) was a scholar, educator, science-fiction writer, feminist, and lesbian activist. The Sally Miller Gearhart papers (1902-2015) include correspondence, literary works, academic work, public appearances and publicity materials, photographs, journals and artwork, personal papers, and writings of others."@en .
+<http://opaquenamespace.org/ns/localCollectionName/SallyMillerGearhartpapers19022015> <http://www.w3.org/2000/01/rdf-schema#label> "Sally Miller Gearhart papers, 1902-2015"@en .
