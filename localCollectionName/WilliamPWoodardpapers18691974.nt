@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://purl.org/dc/terms/date> "1869/1974" .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://purl.org/dc/terms/issued> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 153, William P. Woodard papers, 1869-1974. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://www.w3.org/2000/01/rdf-schema#comment> "William P. Woodard (1896-1973) was a scholar of Japanese religion, and served as an advisor on religion and cultural resources during the allied command after World War II. The William P. Woodard papers (1869-1974) contain correspondence, literary manuscripts, Allied Occupation documents, research files, mission records, films, and audiotapes."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamPWoodardpapers18691974> <http://www.w3.org/2000/01/rdf-schema#label> "William P. Woodard papers, 1869-1974"@en .
