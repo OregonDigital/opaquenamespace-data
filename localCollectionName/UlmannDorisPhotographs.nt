@@ -1,9 +1,11 @@
+<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://purl.org/dc/terms/date> "1914/1934" .
 <http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://purl.org/dc/terms/issued> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://purl.org/dc/terms/issued> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://purl.org/dc/terms/modified> "2015-06-18"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://purl.org/dc/terms/modified> "2015-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://purl.org/dc/terms/modified> "2022-06-08"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/2000/01/rdf-schema#comment> "PH038 University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/2000/01/rdf-schema#comment> "PH 038, Doris Ulmann photographs. 1914-1934. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/2000/01/rdf-schema#comment> "Doris Ulmann (1822-1934) was a New York photographer. The Doris Ulmann photographs (1914-1934) consist of vintage prints, proof prints bound in albums, and glass-plate negatives primarily featuring portraits of notable people, craftspeople, and farmers. The collection also includes reference prints and negatives reproduced from Ulmann's original negatives."@en .
 <http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
-<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/2000/01/rdf-schema#label> "Ulmann (Doris) Photographs"@en .
+<http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/2000/01/rdf-schema#label> "Doris Ulmann photographs, 1914-1934"@en .
 <http://opaquenamespace.org/ns/localCollectionName/UlmannDorisPhotographs> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://opaquenamespace.org/VOCAB_PLACEHOLDER.nt> .
