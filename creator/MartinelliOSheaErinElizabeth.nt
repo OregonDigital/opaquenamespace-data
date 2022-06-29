@@ -3,4 +3,4 @@
 <http://opaquenamespace.org/ns/creator/MartinelliOSheaErinElizabeth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/MartinelliOSheaErinElizabeth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/MartinelliOSheaErinElizabeth> <http://www.w3.org/2000/01/rdf-schema#comment> "Graduated from Oregon State University in 2010; photographer in The Daily Barometer."@en .
-<http://opaquenamespace.org/ns/creator/MartinelliOSheaErinElizabeth> <http://www.w3.org/2000/01/rdf-schema#label> "Martinelli, O'Shea Erin Elizabeth"@en .
+<http://opaquenamespace.org/ns/creator/MartinelliOSheaErinElizabeth> <http://www.w3.org/2000/01/rdf-schema#label> "Martinelli-O'Shea, Erin Elizabeth"@en .
