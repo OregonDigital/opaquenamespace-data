@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/WitterAlfredS> <http://purl.org/dc/terms/date> "1876-03-24/1956-08-18" .
+<http://opaquenamespace.org/ns/creator/WitterAlfredS> <http://purl.org/dc/terms/issued> "2022-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WitterAlfredS> <http://purl.org/dc/terms/modified> "2022-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/WitterAlfredS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/WitterAlfredS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/WitterAlfredS> <http://www.w3.org/2000/01/rdf-schema#comment> "Alfred S. Witter worked as a photographer in Washington for 64 years, from 1892 until his death in 1956. He established his own photography business in Seattle in 1897, later opening branches in Bridgeport and Waterville in central Washington. Witter left an extensive body of work documenting life in Douglas County between 1908 and 1915. (Source: https://www.findagrave.com/memorial/168587242/alfred-samuel-witter)"@en .
+<http://opaquenamespace.org/ns/creator/WitterAlfredS> <http://www.w3.org/2000/01/rdf-schema#label> "Witter, Alfred S."@en .
