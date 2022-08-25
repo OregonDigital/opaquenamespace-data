@@ -4,3 +4,4 @@
 <http://opaquenamespace.org/ns/species> <http://purl.org/dc/terms/title> "species controlled vocabulary"@en .
 <http://opaquenamespace.org/ns/species> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcam/VocabularyEncodingScheme> .
 <http://opaquenamespace.org/ns/species> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/species> <http://www.w3.org/2000/01/rdf-schema#label> "species controlled vocabulary"@en .
