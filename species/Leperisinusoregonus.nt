@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/species/Leperisinusoregonus> <http://purl.org/dc/terms/issued> "2022-08-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/species/Leperisinusoregonus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/species/Leperisinusoregonus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/species/Leperisinusoregonus> <http://www.w3.org/2000/01/rdf-schema#comment> "Species of insect (Oregon ash bark beetle). Appears in the Ken Gray Insect Image Collection, Oregon State University."@en .
+<http://opaquenamespace.org/ns/species/Leperisinusoregonus> <http://www.w3.org/2000/01/rdf-schema#label> "Leperisinus oregonus"@en .
+<http://opaquenamespace.org/ns/species/Leperisinusoregonus> <http://www.w3.org/2002/07/owl#sameAs> <https://www.gbif.org/species/1235141> .
