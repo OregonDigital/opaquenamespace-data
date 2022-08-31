@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/genus/Oxygonodera> <http://purl.org/dc/terms/issued> "2022-08-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/genus/Oxygonodera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/genus/Oxygonodera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/genus/Oxygonodera> <http://www.w3.org/2000/01/rdf-schema#comment> "Genus of darkling beetles in the family Tenebrionidae. Appears in the Ken Gray Insect Image Collection, Oregon State University."@en .
+<http://opaquenamespace.org/ns/genus/Oxygonodera> <http://www.w3.org/2000/01/rdf-schema#label> "Oxygonodera"@en .
+<http://opaquenamespace.org/ns/genus/Oxygonodera> <http://www.w3.org/2002/07/owl#sameAs> <https://www.gbif.org/species/4721616> .
