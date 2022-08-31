@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://purl.org/dc/terms/issued> "2022-08-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://schema.org/alternateName> "nettleleaf giant hyssop"@en .
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://www.w3.org/2000/01/rdf-schema#comment> "Common name for the plant species Agastache urticifolia. Appears in the The OSU Herbarium Type Specimens Collection, Oregon State University."@en .
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://www.w3.org/2000/01/rdf-schema#label> "nettleleaf horsemint"@en .
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://www.w3.org/2002/07/owl#sameAs> <https://www.gbif.org/species/2926403> .
+<http://opaquenamespace.org/ns/commonNames/nettleleafhorsemint> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4691442> .
