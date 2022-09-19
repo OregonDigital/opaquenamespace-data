@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://purl.org/dc/terms/date> "1905/1911" .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://purl.org/dc/terms/issued> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://purl.org/dc/terms/modified> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://schema.org/alternateName> "Stoclet Palace"@en .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://schema.org/alternateName> "Adolphe Stoclet House"@en .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://www.w3.org/2000/01/rdf-schema#comment> "Mansion designed by architect Josef Hoffmann for the Belgian financier Adolphe Stoclet, it was designated as a World Heritage Site by UNESCO in June 2009."@en .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://www.w3.org/2000/01/rdf-schema#label> "Palais Stoclet"@fr .
+<http://opaquenamespace.org/ns/repository/PalaisStoclet> <http://www.w3.org/2002/07/owl#sameAs> <http://id.worldcat.org/fast/702507/> .
