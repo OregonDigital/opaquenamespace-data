@@ -1,0 +1,12 @@
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://purl.org/dc/terms/date> "1897/1898" .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://purl.org/dc/terms/issued> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://purl.org/dc/terms/modified> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://schema.org/alternateName> "Ausstellungsgebäude der Vereinigung Bildender Künstler Österreichs"@de .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://schema.org/alternateName> "Secession Building"@en .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://schema.org/alternateName> "Wiener Sezession Ausstellungspavillon"@de .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://schema.org/alternateName> "Pavillon de la Sécession"@fr .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://www.w3.org/2000/01/rdf-schema#comment> "Exhibition building in Vienna, Austria built by Joseph Maria Olbrich with interiors designed by Koloman Moser and Gustav Klimt."@en .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://www.w3.org/2000/01/rdf-schema#label> "Haus der Secession"@de .
+<http://opaquenamespace.org/ns/repository/HausderSecession> <http://www.w3.org/2002/07/owl#sameAs> <http://id.worldcat.org/fast/640914/> .
