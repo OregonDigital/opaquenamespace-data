@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://purl.org/dc/terms/date> "1150/1766" .
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://purl.org/dc/terms/issued> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://purl.org/dc/terms/modified> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://www.w3.org/2000/01/rdf-schema#comment> "Castle located in Kimbolton, Huntingdonshire, Cambridgeshire, England, United Kingdom, built for Geoffrey Fitz Peter, 1st Earl of Essex."@en .
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://www.w3.org/2000/01/rdf-schema#label> "Kimbolton Castle"@en .
+<http://opaquenamespace.org/ns/repository/KimboltonCastle> <http://www.w3.org/2002/07/owl#sameAs> <http://id.worldcat.org/fast/1770071/> .
