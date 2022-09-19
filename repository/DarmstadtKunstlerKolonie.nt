@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://purl.org/dc/terms/date> "1899/1929" .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://purl.org/dc/terms/issued> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://purl.org/dc/terms/modified> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://schema.org/alternateName> "Darmstadter Künstlerkolonie"@de .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://schema.org/alternateName> "Darmstadt artists' colony"@en .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://schema.org/alternateName> "Künstlerkolonie Mathildenhöhe"@de .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://www.w3.org/2000/01/rdf-schema#comment> "Artists' colony founded in 1899 by Grand Duke Ernst Ludwig that included Art Nouveau artists Peter Behrens, Paul Bürck, Rudolf Bosselt, Hans Christiansen, Ludwig Habic, Patriz Huber and Joseph Maria Olbrich. The purpose of the colony was to develop modern forms of housing and contribute to revitalizing the economy of the Grand Duchy of Hesse."@en .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://www.w3.org/2000/01/rdf-schema#label> "Darmstadt Künstler-Kolonie"@de .
+<http://opaquenamespace.org/ns/repository/DarmstadtKunstlerKolonie> <http://www.w3.org/2002/07/owl#sameAs> <http://id.worldcat.org/fast/1736051/> .
