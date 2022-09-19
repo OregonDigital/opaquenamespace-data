@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://purl.org/dc/terms/date> "1905/1928" .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://purl.org/dc/terms/issued> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://purl.org/dc/terms/modified> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://schema.org/alternateName> "Crabtree Farm"@en .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://www.w3.org/2000/01/rdf-schema#comment> "Farm located in Lake Bluff, Illinois, United States. Originally owned by Judge Henry W. Blodgett (1821-1905), Grace and Scott Durand purchased the 265 acre property in 1906 and began running a dairy farm."@en .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://www.w3.org/2000/01/rdf-schema#label> "Crab Tree Farm"@en .
+<http://opaquenamespace.org/ns/repository/CrabTreeFarm> <http://www.w3.org/2002/07/owl#sameAs> <http://id.worldcat.org/fast/1939595/> .
