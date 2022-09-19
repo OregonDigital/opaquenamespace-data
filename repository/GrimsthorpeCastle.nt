@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://purl.org/dc/terms/date> "1135/1750" .
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://purl.org/dc/terms/issued> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://purl.org/dc/terms/modified> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://www.w3.org/2000/01/rdf-schema#comment> "Castle and country house located in Lincolnshire, England, United Kingdom, built for Gilbert de Gant, Earl of Lincoln."@en .
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://www.w3.org/2000/01/rdf-schema#label> "Grimsthorpe Castle"@en .
+<http://opaquenamespace.org/ns/repository/GrimsthorpeCastle> <http://www.w3.org/2002/07/owl#sameAs> <http://id.worldcat.org/fast/1769566/> .
