@@ -1,0 +1,11 @@
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://purl.org/dc/terms/date> "1758/1780" .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://purl.org/dc/terms/issued> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://purl.org/dc/terms/modified> "2022-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://schema.org/alternateName> "Epsewasson"@en .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://schema.org/alternateName> "Little Hunting Creek Plantation"@en .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://schema.org/alternateName> "Mansion House Farm"@en .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://www.w3.org/2000/01/rdf-schema#comment> "Estate located in Fairfax County, Virginia, United States, built for Augustine Washington, father of George Washington, first president of the United States. It was designated a National Historic Landmark in 1960 and is listed on the National Register of Historic Places."@en .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://www.w3.org/2000/01/rdf-schema#label> "Mount Vernon"@en .
+<http://opaquenamespace.org/ns/repository/MountVernon> <http://www.w3.org/2002/07/owl#sameAs> <http://id.worldcat.org/fast/1333596/> .
