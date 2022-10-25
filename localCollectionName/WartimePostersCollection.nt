@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://purl.org/dc/terms/date> "1914/1953" .
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://purl.org/dc/terms/issued> "2022-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://purl.org/dc/terms/modified> "2022-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 467, Wartime Posters collection, University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://www.w3.org/2000/01/rdf-schema#comment> "The collection comprises more than 550 propagandistic and informational posters created during various conflicts, primarily World War I and World War II. Posters within the collection cover a wide range of war-related themes such as conservation, production, recruitment, and patriotism. Individual posters range in size from small leaflets and magazine covers, to larger banners and posters several square feet in size."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WartimePostersCollection> <http://www.w3.org/2000/01/rdf-schema#label> "Wartime Posters Collection"@en .
