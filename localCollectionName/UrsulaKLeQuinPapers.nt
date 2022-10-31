@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://purl.org/dc/terms/date> "1930/2018" .
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://purl.org/dc/terms/issued> "2022-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://purl.org/dc/terms/modified> "2022-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 270, Ursula K. Le Guin papers, 1930s-2018. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://www.w3.org/2000/01/rdf-schema#comment> "The Ursula K. Le Guin papers document Le Guin's career as a novelist, short story writer, children’s author, essayist, and poet best known for her world-building science fiction and fantasy works."@en .
+<http://opaquenamespace.org/ns/localCollectionName/UrsulaKLeQuinPapers> <http://www.w3.org/2000/01/rdf-schema#label> "Ursula K. Le Guin papers, 1930s-2018"@en .
