@@ -1,7 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://id.loc.gov/vocabulary/identifiers/local> <https://scua.uoregon.edu/repositories/2/resources/3155> .
 <http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://purl.org/dc/terms/date> "1847/1882" .
 <http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://purl.org/dc/terms/issued> "2022-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://purl.org/dc/terms/modified> "2022-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://purl.org/dc/terms/modified> "2022-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
 <http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax031, Benjamin Franklin Dowell papers. University of Oregon Special Collections and University Archives. "@en .
 <http://opaquenamespace.org/ns/localCollectionName/BenjaminFranklinDowellPapers> <http://www.w3.org/2000/01/rdf-schema#comment> "The Benjamin Franklin Dowell Papers include correspondence, diaries, and newspaper clippings. "@en .
