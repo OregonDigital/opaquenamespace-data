@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://id.loc.gov/vocabulary/identifiers/local> <https://scua.uoregon.edu/repositories/2/resources/864> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://purl.org/dc/terms/date> "1911/1942" .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://purl.org/dc/terms/issued> "2022-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://purl.org/dc/terms/modified> "2022-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 604, William J. Rapp papers, 1911-1942. University of Oregon Special Collections and University Archives. "@en .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection comprises papers of American author William J. Rapp (1895-1942) and contains correspondence, plays, advertising and article manuscripts, Harlem Renaissance research, biographical material, publications, photographs, and a WWI era scrapbook of a YMCA camp in Greece."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WilliamJRappPapers19111942> <http://www.w3.org/2000/01/rdf-schema#label> "William J. Rapp papers, 1911-1942"@en .
