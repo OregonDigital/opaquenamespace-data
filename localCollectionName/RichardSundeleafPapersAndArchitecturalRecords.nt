@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://id.loc.gov/vocabulary/identifiers/local> <https://scua.uoregon.edu/repositories/2/resources/2117> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://purl.org/dc/terms/date> "1924/1984" .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://purl.org/dc/terms/issued> "2022-10-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://purl.org/dc/terms/modified> "2022-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 196, Richard Sundeleaf papers and architectural records. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://www.w3.org/2000/01/rdf-schema#comment> "The Richard Sundeleaf Papers and Architectural Records contain office files, job files, architectural records and photographic materials documenting the Portland, Oregon architect's work from 1924 to 1984. "@en .
+<http://opaquenamespace.org/ns/localCollectionName/RichardSundeleafPapersAndArchitecturalRecords> <http://www.w3.org/2000/01/rdf-schema#label> "Richard Sundeleaf papers and architectural records"@en .
