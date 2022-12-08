@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/GeigerNicolaus> <http://purl.org/dc/terms/date> "1848/1897" .
+<http://opaquenamespace.org/ns/creator/GeigerNicolaus> <http://purl.org/dc/terms/issued> "2022-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GeigerNicolaus> <http://purl.org/dc/terms/modified> "2022-12-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GeigerNicolaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/GeigerNicolaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/GeigerNicolaus> <http://www.w3.org/2000/01/rdf-schema#comment> "German sculptor and painter. Appears in the Art and Architecture Images collection, University of Oregon Libraries."@en .
+<http://opaquenamespace.org/ns/creator/GeigerNicolaus> <http://www.w3.org/2000/01/rdf-schema#label> "Geiger, Nicolaus"@en .
