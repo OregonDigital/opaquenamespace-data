@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/CalvertJanetKathryn> <http://purl.org/dc/terms/issued> "2023-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CalvertJanetKathryn> <http://purl.org/dc/terms/modified> "2023-01-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CalvertJanetKathryn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CalvertJanetKathryn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CalvertJanetKathryn> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Bachelor of Science and Master of Science at Oregon State in 1958 and 1965, respectively. Calvert was an Associate Professor and Home Economics extension agent at Oregon State from 1985-2000."@en .
+<http://opaquenamespace.org/ns/people/CalvertJanetKathryn> <http://www.w3.org/2000/01/rdf-schema#label> "Calvert, Janet Kathryn"@en .
