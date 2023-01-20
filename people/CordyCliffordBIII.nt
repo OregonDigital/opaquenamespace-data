@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/CordyCliffordBIII> <http://purl.org/dc/terms/issued> "2023-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CordyCliffordBIII> <http://purl.org/dc/terms/modified> "2023-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CordyCliffordBIII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CordyCliffordBIII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CordyCliffordBIII> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Master of Science at Oregon State University in 1984. Cordy was a Research Associate in Statistics from 1991-1997 and Intructor in the College of Business from 2004-2006 at Oregon State."@en .
+<http://opaquenamespace.org/ns/people/CordyCliffordBIII> <http://www.w3.org/2000/01/rdf-schema#label> "Cordy, Clifford B., III."@en .
