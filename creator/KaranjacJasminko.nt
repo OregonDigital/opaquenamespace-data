@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/KaranjacJasminko> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KaranjacJasminko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/KaranjacJasminko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/KaranjacJasminko> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Ground Water vol. 15, no. 5 (1977), Journal of Hydrology vol. 45, no. 3-4 (1980) and Proceedings from the Second Gulf Water Conference, Bahrain, 5th - 9th November 1994; Consultant Hydrogeologist and Computer Specialist located in Atlanta, GA, USA circa 1994."@en .
+<http://opaquenamespace.org/ns/creator/KaranjacJasminko> <http://www.w3.org/2000/01/rdf-schema#label> "Karanjac, Jasminko"@en .
