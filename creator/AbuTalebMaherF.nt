@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/AbuTalebMaherF> <http://purl.org/dc/terms/issued> "2023-01-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/AbuTalebMaherF> <http://schema.org/alternateName> "Abu-Taleb, M. F."@en .
+<http://opaquenamespace.org/ns/creator/AbuTalebMaherF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/AbuTalebMaherF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/AbuTalebMaherF> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Water International vol. 23 (1998); Assistant Professor, Department of Civil Engineering, Applied Science University, Amman, Jordan."@en .
+<http://opaquenamespace.org/ns/creator/AbuTalebMaherF> <http://www.w3.org/2000/01/rdf-schema#label> "Abu-Taleb, Maher F."@en .
