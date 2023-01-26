@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/KatzenelsonEliyahu> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/KatzenelsonEliyahu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/KatzenelsonEliyahu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/KatzenelsonEliyahu> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Science vol. 194, no. 4268 (1976-11-26) and Water Research vol. 17, no. 4 (1983-04); affiliated with Environmental Health Laboratory, Hebrew University -- Hadassah Medical School, Jerusalem, Israel."@en .
+<http://opaquenamespace.org/ns/creator/KatzenelsonEliyahu> <http://www.w3.org/2000/01/rdf-schema#label> "Katzenelson, Eliyahu"@en .
