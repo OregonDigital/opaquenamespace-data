@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/DayanimBehnam> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/DayanimBehnam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/DayanimBehnam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/DayanimBehnam> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Stanford Journal of International Law 30:41; B.A. 1989, Yeshiva University; J.D. 1993, Harvard Law School; Clerk to Hon. Frank A. Kaufman, U.S. District Court, District of Maryland, 1993-1994."@en .
+<http://opaquenamespace.org/ns/creator/DayanimBehnam> <http://www.w3.org/2000/01/rdf-schema#label> "Dayanim, Behnam"@en .
