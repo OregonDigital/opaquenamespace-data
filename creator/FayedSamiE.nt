@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/FayedSamiE> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/FayedSamiE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/FayedSamiE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/FayedSamiE> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; principal investigator in \"role of fresh water algae and weeds in the concentration of heavy metals: final report, 1982\"; affiliated with National Research Center - Egypt."@en .
+<http://opaquenamespace.org/ns/creator/FayedSamiE> <http://www.w3.org/2000/01/rdf-schema#label> "Fayed, Sami E."@en .
