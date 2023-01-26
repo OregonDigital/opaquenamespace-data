@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/GablingerMoshe> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GablingerMoshe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/GablingerMoshe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/GablingerMoshe> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Hydrology of Lakes Symposium: Proceedings of the Helsinki Symposium, 1973-07; in \"Use of Mathematical Programming and Simulation in Management and Development of Israel Water Resources,\" 1979-05; and in \"Analysis of Lake Tiberias Spilling Policy,\" 1981-03. Affiliated with Tahal Consulting Engineers, Ltd."@en .
+<http://opaquenamespace.org/ns/creator/GablingerMoshe> <http://www.w3.org/2000/01/rdf-schema#label> "Gablinger, Moshe"@en .
