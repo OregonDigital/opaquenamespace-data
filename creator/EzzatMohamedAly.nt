@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/EzzatMohamedAly> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EzzatMohamedAly> <http://schema.org/alternateName> "Ezzat, M. A."@en .
+<http://opaquenamespace.org/ns/creator/EzzatMohamedAly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/EzzatMohamedAly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/EzzatMohamedAly> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Alternative Strategies for Desert Development and Management, vol. 3 and vol. 4 (1977) and in Resource Management and Optimization vol. 2, no. 1 (1982); affiliated with Ministry of Land Reclamation and Ministry of Irrigation, Cairo, Egypt."@en .
+<http://opaquenamespace.org/ns/creator/EzzatMohamedAly> <http://www.w3.org/2000/01/rdf-schema#label> "Ezzat, Mohamed Aly"@en .
