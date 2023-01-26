@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/VardiYaacov> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/VardiYaacov> <http://schema.org/alternateName> "Vardi, Y."@en .
+<http://opaquenamespace.org/ns/creator/VardiYaacov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/VardiYaacov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/VardiYaacov> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Water Quality Under Conditons of Scarcity: Israel as a Case Study (1980) and Alternativot Le-Mediniut Maim Le-Israel / Alternatives for Water Policy in Israel (1985)."@en .
+<http://opaquenamespace.org/ns/creator/VardiYaacov> <http://www.w3.org/2000/01/rdf-schema#label> "Vardi, Yaacov"@en .
