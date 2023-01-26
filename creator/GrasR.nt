@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/GrasR> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/GrasR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/GrasR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/GrasR> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Water Power and Dam Construction, April 1985 and May 1985; affiliated with Electricité de France, Direction des Etuddes et Recherches, Département Environnement Aquatique et Amosphérique, Chatou, France."@en .
+<http://opaquenamespace.org/ns/creator/GrasR> <http://www.w3.org/2000/01/rdf-schema#label> "Gras, R."@en .
