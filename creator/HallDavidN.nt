@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/HallDavidN> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/HallDavidN> <http://schema.org/alternateName> "Hall, D. N."@en .
+<http://opaquenamespace.org/ns/creator/HallDavidN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/HallDavidN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/HallDavidN> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Geography Journal vol. 142 (1976); Lt. Col. Hall was Honorary Foreign Secretary of the Royal Geographical Society beginning in 1973 and became director of The London Science Center in 1981."@en .
+<http://opaquenamespace.org/ns/creator/HallDavidN> <http://www.w3.org/2000/01/rdf-schema#label> "Hall, David N."@en .
