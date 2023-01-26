@@ -1,0 +1,5 @@
+<http://opaquenamespace.org/ns/creator/EzzatAA> <http://purl.org/dc/terms/issued> "2023-01-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EzzatAA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/EzzatAA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/EzzatAA> <http://www.w3.org/2000/01/rdf-schema#comment> "In OSU Middle East Water Collection; writer found in Water, Air, and Soil Pollution vol. 16, no. 4 (1981); affiliated with Oceanography Department, Faculty of Science, Alexandria University, Moharem Bey, Alexandria, U. A. R."@en .
+<http://opaquenamespace.org/ns/creator/EzzatAA> <http://www.w3.org/2000/01/rdf-schema#label> "Ezzat, A. A."@en .
