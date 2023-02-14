@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/GygaxOttoA> <http://purl.org/dc/terms/issued> "2023-02-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GygaxOttoA> <http://purl.org/dc/terms/modified> "2023-02-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/GygaxOttoA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/GygaxOttoA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/GygaxOttoA> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed Bachelor of Science and Master of Science at Oregon State University in 1982 and 1985, respectively. Gygax was an Instructor in Electrical and Computer Engineering at Oregon State from 1986-2000."@en .
+<http://opaquenamespace.org/ns/people/GygaxOttoA> <http://www.w3.org/2000/01/rdf-schema#label> "Gygax, Otto A."@en .
