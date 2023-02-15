@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/HareJanMarie> <http://purl.org/dc/terms/issued> "2023-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HareJanMarie> <http://purl.org/dc/terms/modified> "2023-02-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HareJanMarie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/HareJanMarie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/HareJanMarie> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Master of Education and a Doctor of Philosophy at Oregon State University in 1976 and 1986, respectively. Hare was an Extension Home Economics and Human Development and Family Sciences Specialist at Oregon State from 1990-1997."@en .
+<http://opaquenamespace.org/ns/people/HareJanMarie> <http://www.w3.org/2000/01/rdf-schema#label> "Hare, Jan Marie"@en .
