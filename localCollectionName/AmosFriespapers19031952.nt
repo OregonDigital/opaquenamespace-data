@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/AmosFriespapers19031952> <http://purl.org/dc/terms/issued> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/AmosFriespapers19031952> <http://purl.org/dc/terms/modified> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/AmosFriespapers19031952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/AmosFriespapers19031952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/AmosFriespapers19031952> <http://www.w3.org/2000/01/rdf-schema#comment> "AX 234, Amos Fries papers, 1903-1952. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/AmosFriespapers19031952> <http://www.w3.org/2000/01/rdf-schema#comment> "Amos Fries (1873-1963) was an engineer, served in the Philippines during the Moro uprising, organized the Chemical Warfare Service, and was an advocate for conservative causes. The collection consists of biographical material, correspondence, manuscripts by Fries, others, and Elizabeth Fries, and photographs."@en .
+<http://opaquenamespace.org/ns/localCollectionName/AmosFriespapers19031952> <http://www.w3.org/2000/01/rdf-schema#label> "Amos Fries papers, 1903-1952"@en .
