@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/CachotTherkelsencollection19061952> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CachotTherkelsencollection19061952> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CachotTherkelsencollection19061952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/CachotTherkelsencollection19061952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/CachotTherkelsencollection19061952> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 094, Cachot Therkelsen collection, 1906-1952. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CachotTherkelsencollection19061952> <http://www.w3.org/2000/01/rdf-schema#comment> "Cachot Therkelsen (March 30, 1894-May 12, 1964) was a realtor in Portland, Oregon and founded the Therkelsen Investment Company. The collection includes drawings that he collected of architects' original plans and specifications of projects."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CachotTherkelsencollection19061952> <http://www.w3.org/2000/01/rdf-schema#label> "Cachot Therkelsen collection, 1906-1952"@en .
