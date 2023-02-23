@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/JohnRWhitepapers18791961> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnRWhitepapers18791961> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnRWhitepapers18791961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnRWhitepapers18791961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnRWhitepapers18791961> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 192, John R. White papers, 1879-1961. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnRWhitepapers18791961> <http://www.w3.org/2000/01/rdf-schema#comment> "John Roberts White (1879-1961), an English soldier who served with the Philippine Constabulary, was also superintendent of the Iwahig Penal Colony, and served in the U.S. National Park Service. The collection includes biographical material, diaries, correspondence, publications, clippings and ephemera, scrapbooks, and photographs."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnRWhitepapers18791961> <http://www.w3.org/2000/01/rdf-schema#label> "John R. White papers, 1879-1961"@en .
