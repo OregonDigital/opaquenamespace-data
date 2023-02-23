@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/LurtonBlassingameLiteraryAgencyrecords19651978> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/LurtonBlassingameLiteraryAgencyrecords19651978> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/LurtonBlassingameLiteraryAgencyrecords19651978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/LurtonBlassingameLiteraryAgencyrecords19651978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/LurtonBlassingameLiteraryAgencyrecords19651978> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 043, Lurton Blassingame Literary Agency records, 1965-1978. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/LurtonBlassingameLiteraryAgencyrecords19651978> <http://www.w3.org/2000/01/rdf-schema#comment> "Lurton Blassingame (1904-1988) was a notable literary agent. The collection primarily includes correspondence with clients."@en .
+<http://opaquenamespace.org/ns/localCollectionName/LurtonBlassingameLiteraryAgencyrecords19651978> <http://www.w3.org/2000/01/rdf-schema#label> "Lurton Blassingame Literary Agency records, 1965-1978"@en .
