@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/OswaldWestpapers19101940> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/OswaldWestpapers19101940> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/OswaldWestpapers19101940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/OswaldWestpapers19101940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/OswaldWestpapers19101940> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 174, Oswald West papers, 1910-1940. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/OswaldWestpapers19101940> <http://www.w3.org/2000/01/rdf-schema#comment> "Oswald West (1873-1960) was an attorney in Portland, Oregon, and served as governor of Oregon from 1911 until 1915. The collection (1910-1940) contains correspondence, campaign broadsides from 1910, a scrapbook of newspaper clippings by and about West, and photographs."@en .
+<http://opaquenamespace.org/ns/localCollectionName/OswaldWestpapers19101940> <http://www.w3.org/2000/01/rdf-schema#label> "Oswald West papers, 1910-1940"@en .
