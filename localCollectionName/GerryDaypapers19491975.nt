@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/GerryDaypapers19491975> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GerryDaypapers19491975> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GerryDaypapers19491975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/GerryDaypapers19491975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/GerryDaypapers19491975> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 436, Gerry Day papers, 1949-1975. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/GerryDaypapers19491975> <http://www.w3.org/2000/01/rdf-schema#comment> "Gerry Day was an author and screenwriter for film and television. The collection contains manuscripts of screenplays, screen stories, and television scripts for T.V. series including Wagon Train, The Virginian, The New Perry Mason, Marcus Welby, M.D, The High Chaparral, Little House on the Prairie, The Ford Television Theatre, and Whiplash."@en .
+<http://opaquenamespace.org/ns/localCollectionName/GerryDaypapers19491975> <http://www.w3.org/2000/01/rdf-schema#label> "Gerry Day papers, 1949-1975"@en .
