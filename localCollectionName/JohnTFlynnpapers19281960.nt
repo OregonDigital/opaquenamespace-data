@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/JohnTFlynnpapers19281960> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnTFlynnpapers19281960> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnTFlynnpapers19281960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnTFlynnpapers19281960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JohnTFlynnpapers19281960> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 116, John T. Flynn papers, 1928-1960. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnTFlynnpapers19281960> <http://www.w3.org/2000/01/rdf-schema#comment> "John T. Flynn (October 25, 1882-April 13, 1964) was an American journalist and political writer. The collection contains correspondence, literary manuscripts, scripts of radio broadcasts and other addresses, and reference files that reflect Flynn's career as a writer and his interests in business, economics, politics."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JohnTFlynnpapers19281960> <http://www.w3.org/2000/01/rdf-schema#label> "John T. Flynn papers, 1928-1960"@en .
