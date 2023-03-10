@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter> <http://purl.org/dc/terms/issued> "2023-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter> <http://purl.org/dc/terms/modified> "2023-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Topic> .
+<http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter> <http://www.w3.org/2000/01/rdf-schema#comment> "The Whitney Young Learning Center was an educational program that operated out of St. Andrew’s Church on NE Alberta Street in Portland, Oregon, and was funded by the Urban League of Portland. Started in 1980 by Deborah Cochrane, the voluntary program offered homework help and tutoring to young people for over 25 years."@en .
+<http://opaquenamespace.org/ns/subject/WhitneyYoungLearningCenter> <http://www.w3.org/2000/01/rdf-schema#label> "Whitney Young Learning Center"@en .
