@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/creator/BoakThomasIS> <http://purl.org/dc/terms/issued> "2023-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoakThomasIS> <http://purl.org/dc/terms/modified> "2023-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/BoakThomasIS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/creator/BoakThomasIS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/BoakThomasIS> <http://www.w3.org/2000/01/rdf-schema#comment> "Correspondent in Coll 121, Merwin K. Hart papers, 1929-1962. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/creator/BoakThomasIS> <http://www.w3.org/2000/01/rdf-schema#label> "Boak, Thomas I. S."@en .
