@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/CarpenterHillaryM> <http://purl.org/dc/terms/issued> "2023-01-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CarpenterHillaryM> <http://purl.org/dc/terms/modified> "2023-01-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CarpenterHillaryM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CarpenterHillaryM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CarpenterHillaryM> <http://www.w3.org/2000/01/rdf-schema#comment> "Assistant Professor of Fisheries and Wildlife at Oregon State University from 1978-1996."@en .
+<http://opaquenamespace.org/ns/people/CarpenterHillaryM> <http://www.w3.org/2000/01/rdf-schema#label> "Carpenter, Hillary M."@en .
