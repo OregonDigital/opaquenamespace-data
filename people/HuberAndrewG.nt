@@ -1,6 +1,6 @@
 <http://opaquenamespace.org/ns/people/HuberAndrewG> <http://purl.org/dc/terms/issued> "2023-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/HuberAndrewG> <http://purl.org/dc/terms/modified> "2023-03-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/HuberAndrewG> <http://purl.org/dc/terms/modified> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/HuberAndrewG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/HuberAndrewG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/HuberAndrewG> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Doctor of Philosophy at Oregon State University in 1983. Huber was an Associate  Professor of Crop Science at Oregon State from 1985-.2013."@en .
+<http://opaquenamespace.org/ns/people/HuberAndrewG> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed a Doctor of Philosophy at Oregon State University in 1983. Huber was an Associate Professor of Crop Science at Oregon State from 1985-2013."@en .
 <http://opaquenamespace.org/ns/people/HuberAndrewG> <http://www.w3.org/2000/01/rdf-schema#label> "Huber, Andrew G."@en .
