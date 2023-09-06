@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/archival_object_id> <http://purl.org/dc/terms/issued> "2023-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/archival_object_id> <http://purl.org/dc/terms/modified> "2023-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/archival_object_id> <http://schema.org/alternateName> "Archival Object Identifier"@en .
+<http://opaquenamespace.org/ns/archival_object_id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://opaquenamespace.org/ns/archival_object_id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/archival_object_id> <http://www.w3.org/2000/01/rdf-schema#comment> "Use for system-generated identifiers from archival collections management systems or digital asset management systems"@en .
+<http://opaquenamespace.org/ns/archival_object_id> <http://www.w3.org/2000/01/rdf-schema#label> "Archival Object ID"@en .
+<http://opaquenamespace.org/ns/archival_object_id> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <http://purl.org/dc/terms/identifier> .
