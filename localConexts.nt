@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localConexts> <http://purl.org/dc/terms/issued> "2023-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localConexts> <http://purl.org/dc/terms/modified> "2023-09-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localConexts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> .
+<http://opaquenamespace.org/ns/localConexts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localConexts> <http://www.w3.org/2000/01/rdf-schema#comment> "Use for recording Labels and Notices from Local Contexts (https://localcontexts.org/) to indicate the cultural authority of indigenous communities"@en .
+<http://opaquenamespace.org/ns/localConexts> <http://www.w3.org/2000/01/rdf-schema#domain> <http://purl.org/dc/elements/1.1/rights> .
+<http://opaquenamespace.org/ns/localConexts> <http://www.w3.org/2000/01/rdf-schema#label> "Local Contexts"@en .
+<http://opaquenamespace.org/ns/localConexts> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2000/01/rdf-schema#Literal> .
