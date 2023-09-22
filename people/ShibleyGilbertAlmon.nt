@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/ShibleyGilbertAlmon> <http://purl.org/dc/terms/issued> "2023-09-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ShibleyGilbertAlmon> <http://purl.org/dc/terms/modified> "2023-09-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/ShibleyGilbertAlmon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/ShibleyGilbertAlmon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/ShibleyGilbertAlmon> <http://www.w3.org/2000/01/rdf-schema#comment> "Extension Agent for 4-H from 1976-1990, and an Extension Forestry Assistant at Oregon State University from 1993-2008."@en .
+<http://opaquenamespace.org/ns/people/ShibleyGilbertAlmon> <http://www.w3.org/2000/01/rdf-schema#label> "Shibley, Gilbert Almon"@en .
