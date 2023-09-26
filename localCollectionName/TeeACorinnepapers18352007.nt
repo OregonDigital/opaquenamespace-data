@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/TeeACorinnepapers18352007> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/TeeACorinnepapers18352007> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/TeeACorinnepapers18352007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/TeeACorinnepapers18352007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/TeeACorinnepapers18352007> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 263, Tee A. Corinne papers, 1835-2007. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/TeeACorinnepapers18352007> <http://www.w3.org/2000/01/rdf-schema#comment> "Tee A. Corinne (1943-2006) is a photographer, artist, writer, and lesbian activist. The collection includes correspondence, literary manuscripts, artwork, photographs, artifacts, and other documents that reflect Corinne's life and work."@en .
+<http://opaquenamespace.org/ns/localCollectionName/TeeACorinnepapers18352007> <http://www.w3.org/2000/01/rdf-schema#label> "Tee A. Corinne papers, 1835-2007"@en .
