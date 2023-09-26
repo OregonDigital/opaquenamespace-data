@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/TColemanAndrewspapers19311965> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/TColemanAndrewspapers19311965> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/TColemanAndrewspapers19311965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/TColemanAndrewspapers19311965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/TColemanAndrewspapers19311965> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 119, T. Coleman Andrews papers, 1931-1965. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/TColemanAndrewspapers19311965> <http://www.w3.org/2000/01/rdf-schema#comment> "T. Coleman Andrews was an accountant and public official. The T. Coleman Andrews papers contains about 10,000 letters as well as various reports, documents, and manuscripts of speeches documenting his activities."@en .
+<http://opaquenamespace.org/ns/localCollectionName/TColemanAndrewspapers19311965> <http://www.w3.org/2000/01/rdf-schema#label> "T. Coleman Andrews papers, 1931-1965"@en .
