@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/ElizabethGoltrapapers1853> <http://purl.org/dc/terms/issued> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/ElizabethGoltrapapers1853> <http://purl.org/dc/terms/modified> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/ElizabethGoltrapapers1853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/ElizabethGoltrapapers1853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/ElizabethGoltrapapers1853> <http://www.w3.org/2000/01/rdf-schema#comment> "A 034, Elizabeth Goltra papers, 1853. "@en .
+<http://opaquenamespace.org/ns/localCollectionName/ElizabethGoltrapapers1853> <http://www.w3.org/2000/01/rdf-schema#comment> "Elizabeth Goltra traveled with her husband to Oregon from Missouri in 1853. This collection contains copies of the journal she kept during their overland crossing. Pages dealing with the history of the Goltra family are also included."@en .
+<http://opaquenamespace.org/ns/localCollectionName/ElizabethGoltrapapers1853> <http://www.w3.org/2000/01/rdf-schema#label> "Elizabeth Goltra papers, 1853"@en .
