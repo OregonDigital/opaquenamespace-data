@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/GumMoonWomensResidencerecords18702007> <http://purl.org/dc/terms/issued> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GumMoonWomensResidencerecords18702007> <http://purl.org/dc/terms/modified> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/GumMoonWomensResidencerecords18702007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/GumMoonWomensResidencerecords18702007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/GumMoonWomensResidencerecords18702007> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll 918, Gum Moon Women's Residence records, 1870-2007. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/GumMoonWomensResidencerecords18702007> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection contains records of the Gum Moon Women's Residence including case files, ephemera, diaries, photographs, publications, and other materials documenting the administration of the residence."@en .
+<http://opaquenamespace.org/ns/localCollectionName/GumMoonWomensResidencerecords18702007> <http://www.w3.org/2000/01/rdf-schema#label> "Gum Moon Women's Residence records, 1870-2007"@en .
