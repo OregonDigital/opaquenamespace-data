@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/UniversityofOregonArchivesnegatives19291973> <http://purl.org/dc/terms/issued> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/UniversityofOregonArchivesnegatives19291973> <http://purl.org/dc/terms/modified> "2023-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/UniversityofOregonArchivesnegatives19291973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/UniversityofOregonArchivesnegatives19291973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/UniversityofOregonArchivesnegatives19291973> <http://www.w3.org/2000/01/rdf-schema#comment> "UA 149, University of Oregon Archives negatives, 1929-1973. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/UniversityofOregonArchivesnegatives19291973> <http://www.w3.org/2000/01/rdf-schema#comment> "The collection contains over 4800 photographic negatives of University of Oregon faculty, students, buildings, organizations, and events, circa 1929 to 1973."@en .
+<http://opaquenamespace.org/ns/localCollectionName/UniversityofOregonArchivesnegatives19291973> <http://www.w3.org/2000/01/rdf-schema#label> "University of Oregon Archives negatives, 1929-1973"@en .
