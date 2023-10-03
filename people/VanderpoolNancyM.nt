@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/VanderpoolNancyM> <http://purl.org/dc/terms/issued> "2023-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/VanderpoolNancyM> <http://purl.org/dc/terms/modified> "2023-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/VanderpoolNancyM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/VanderpoolNancyM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/VanderpoolNancyM> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed Doctor of Philosophy at Oregon State University in 1987. Vanderpool was an Assistant Professor of Education, Assistant Dean of Students, and Assistant to the Vice Provost for Student Affairs at Oregon State University from 1979-1999."@en .
+<http://opaquenamespace.org/ns/people/VanderpoolNancyM> <http://www.w3.org/2000/01/rdf-schema#label> "Vanderpool, Nancy M."@en .
