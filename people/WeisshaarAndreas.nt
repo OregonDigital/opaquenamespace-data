@@ -2,5 +2,5 @@
 <http://opaquenamespace.org/ns/people/WeisshaarAndreas> <http://purl.org/dc/terms/modified> "2023-10-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/WeisshaarAndreas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/WeisshaarAndreas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/WeisshaarAndreas> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed Master of Science and Doctor of Philosophy at Oregon State University in 1986 and 1991, respectively. Weisshaar was a Professor of Electrical and Computer Science at Oregon State from 1986-present."@en .
+<http://opaquenamespace.org/ns/people/WeisshaarAndreas> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed Master of Science and Doctor of Philosophy at Oregon State University in 1986 and 1991, respectively. Weisshaar was a Professor of Electrical Engineering and Computer Science at Oregon State from 1986-present."@en .
 <http://opaquenamespace.org/ns/people/WeisshaarAndreas> <http://www.w3.org/2000/01/rdf-schema#label> "Weisshaar, Andreas"@en .
