@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/WoodardErnestSteve> <http://purl.org/dc/terms/issued> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WoodardErnestSteve> <http://purl.org/dc/terms/modified> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WoodardErnestSteve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WoodardErnestSteve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WoodardErnestSteve> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed Bachelor of Science and Master of Science at Oregon State University in 1963 and 1966, respectively. Woodard was an Associate Professor and Staff Chair in the Extension Service at Oregon State University from 1963-1968 and 1974-1992."@en .
+<http://opaquenamespace.org/ns/people/WoodardErnestSteve> <http://www.w3.org/2000/01/rdf-schema#label> "Woodard, Ernest Steve"@en .
