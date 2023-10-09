@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/people/WoodsSandraL> <http://purl.org/dc/terms/issued> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WoodsSandraL> <http://purl.org/dc/terms/modified> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/WoodsSandraL> <http://schema.org/alternateName> "Williams, Sandra L. Woods"@en .
+<http://opaquenamespace.org/ns/people/WoodsSandraL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/WoodsSandraL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/WoodsSandraL> <http://www.w3.org/2000/01/rdf-schema#comment> "Professor of Civil Engineering and Dean of the College Engineering at Oregon State University from 1984-2000 and 2012- 2014."@en .
+<http://opaquenamespace.org/ns/people/WoodsSandraL> <http://www.w3.org/2000/01/rdf-schema#label> "Woods, Sandra L."@en .
