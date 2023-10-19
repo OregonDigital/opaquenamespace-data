@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/BurridgeJudithA> <http://purl.org/dc/terms/issued> "2023-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BurridgeJudithA> <http://purl.org/dc/terms/modified> "2023-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/BurridgeJudithA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/BurridgeJudithA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/BurridgeJudithA> <http://www.w3.org/2000/01/rdf-schema#comment> "Completed Bachelor of Science, Master of Science, and Doctor of Philosophy at Oregon State University in 1960, 1971, and 1985, respectively. Burridge was a Professor and Staff Chair in the Extension Service at Oregon State University from 1971-2000."@en .
+<http://opaquenamespace.org/ns/people/BurridgeJudithA> <http://www.w3.org/2000/01/rdf-schema#label> "Burridge, Judith A."@en .
