@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/MaureenDalypapers19381997> <http://purl.org/dc/terms/issued> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MaureenDalypapers19381997> <http://purl.org/dc/terms/modified> "2023-02-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MaureenDalypapers19381997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/MaureenDalypapers19381997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/MaureenDalypapers19381997> <http://www.w3.org/2000/01/rdf-schema#comment> "AX 753, Maureen Daly papers, 1938-1997. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MaureenDalypapers19381997> <http://www.w3.org/2000/01/rdf-schema#comment> "Maureen Daly (1921-) wrote fiction, both short stories and novels, and nonfiction articles and books. She is credited with establishing the category of Young Adult fiction with her novel Seventeenth Summer, first published in 1942. The collection includes correspondence, literary manuscripts, reviews, interviews, and tearsheets."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MaureenDalypapers19381997> <http://www.w3.org/2000/01/rdf-schema#label> "Maureen Daly papers, 1938-1997"@en .
