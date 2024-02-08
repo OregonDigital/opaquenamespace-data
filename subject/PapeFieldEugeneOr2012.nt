@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/subject/PapeFieldEugeneOr2012> <http://purl.org/dc/terms/issued> "2024-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/PapeFieldEugeneOr2012> <http://purl.org/dc/terms/modified> "2024-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/PapeFieldEugeneOr2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Geographic> .
+<http://opaquenamespace.org/ns/subject/PapeFieldEugeneOr2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/subject/PapeFieldEugeneOr2012> <http://www.w3.org/2000/01/rdf-schema#comment> "Found in UO Athletics."@en .
+<http://opaquenamespace.org/ns/subject/PapeFieldEugeneOr2012> <http://www.w3.org/2000/01/rdf-schema#label> "Papé Field, Eugene, Or, 2012"@en .
