@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://id.loc.gov/vocabulary/identifiers/local> <https://casaycomunidad.org/> .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://purl.org/dc/terms/date> "2022-2023" .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://purl.org/dc/terms/issued> "2024-02-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://purl.org/dc/terms/modified> "2024-02-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://schema.org/alternateName> "Casa y Comunidad"@en .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://www.w3.org/2000/01/rdf-schema#comment> "Casa y Comunidad: Latino/a/x Housing in Oregon is an oral history-based limited documentary series (docuseries) about salient housing access issues affecting the Latino/a/x community in Oregon, one of the fastest-growing immigrant gateways for Mexican and Central American migrants in the U.S."@en .
+<http://opaquenamespace.org/ns/localCollectionName/CasayComunidad> <http://www.w3.org/2000/01/rdf-schema#label> "Casa y Comunidad: Latino/a/x Housing in Oregon"@en .
