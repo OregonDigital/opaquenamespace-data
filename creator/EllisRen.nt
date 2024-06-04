@@ -1,6 +1,6 @@
 <http://opaquenamespace.org/ns/creator/EllisRen> <http://purl.org/dc/terms/issued> "2024-06-03"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/EllisRen> <http://purl.org/dc/terms/modified> "2024-06-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/EllisRen> <http://purl.org/dc/terms/modified> "2024-06-04"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/creator/EllisRen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/EllisRen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/creator/EllisRen> <http://www.w3.org/2000/01/rdf-schema#comment> "Fasion designer known for edgy and rebellious designs, particularly suede jackets. Headquartered in New York City, popular circa 1980s and 1990s. Appears in the OSU Historic and Cultural Textiles and Apparel Collection."@en .
+<http://opaquenamespace.org/ns/creator/EllisRen> <http://www.w3.org/2000/01/rdf-schema#comment> "Fashion designer known for edgy and rebellious designs, particularly suede jackets. Headquartered in New York City, popular circa 1980s and 1990s. Appears in the OSU Historic and Cultural Textiles and Apparel Collection."@en .
 <http://opaquenamespace.org/ns/creator/EllisRen> <http://www.w3.org/2000/01/rdf-schema#label> "Ellis, Ren"@en .
