@@ -1,5 +1,6 @@
-<http://opaquenamespace.org/ns/osuDegreeFields/S3LgKhiC> <http://purl.org/dc/terms/date> "{1962..2017}" .
+<http://opaquenamespace.org/ns/osuDegreeFields/S3LgKhiC> <http://purl.org/dc/terms/date> "{1962..2017..2024}" .
 <http://opaquenamespace.org/ns/osuDegreeFields/S3LgKhiC> <http://purl.org/dc/terms/issued> "2017-08-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/osuDegreeFields/S3LgKhiC> <http://purl.org/dc/terms/modified> "2024-06-06"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/osuDegreeFields/S3LgKhiC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
 <http://opaquenamespace.org/ns/osuDegreeFields/S3LgKhiC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/osuDegreeFields/S3LgKhiC> <http://www.w3.org/2000/01/rdf-schema#label> "Oceanography"@en .
