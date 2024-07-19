@@ -1,0 +1,9 @@
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://purl.org/dc/terms/date> "2024-07-19" .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://purl.org/dc/terms/issued> "2024-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://purl.org/dc/terms/modified> "2024-07-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://schema.org/alternateName> "test literals with lang tag other than 'en'"@en .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://opaquenamespace.org/ns/TestVocabulary> .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://www.w3.org/2000/01/rdf-schema#label> "Benjamin's test concept"@en .
+<http://opaquenamespace.org/ns/TestVocabulary/DWAa7eHG> <http://www.w3.org/2000/01/rdf-schema#label> "ベンジャミンの試し"@ja .
