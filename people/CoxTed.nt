@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/CoxTed> <http://purl.org/dc/terms/issued> "2024-07-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CoxTed> <http://purl.org/dc/terms/modified> "2024-07-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/CoxTed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/CoxTed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/CoxTed> <http://www.w3.org/2000/01/rdf-schema#comment> "OSU master's in Physical Education (1975), past OSU women's volleyball coach; owner of Old World Deli, Corvallis, Oregon. Interviewee in Oral Histories at Oregon State University Libraries collection."@en .
+<http://opaquenamespace.org/ns/people/CoxTed> <http://www.w3.org/2000/01/rdf-schema#label> "Cox, Ted, 1947-"@en .
