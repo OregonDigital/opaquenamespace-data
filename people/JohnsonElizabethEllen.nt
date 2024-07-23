@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/JohnsonElizabethEllen> <http://purl.org/dc/terms/issued> "2024-07-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/JohnsonElizabethEllen> <http://purl.org/dc/terms/modified> "2024-07-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/JohnsonElizabethEllen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/JohnsonElizabethEllen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/JohnsonElizabethEllen> <http://www.w3.org/2000/01/rdf-schema#comment> "OSC bachelor's in General Science (1954); Daughter of OSU Dean of Science and College President Francois Gilfillan. Interviewee in Oral Histories at Oregon State University Libraries collection."@en .
+<http://opaquenamespace.org/ns/people/JohnsonElizabethEllen> <http://www.w3.org/2000/01/rdf-schema#label> "Johnson, Elizabeth (Ellen)"@en .
