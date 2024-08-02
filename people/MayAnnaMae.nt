@@ -3,5 +3,5 @@
 <http://opaquenamespace.org/ns/people/MayAnnaMae> <http://schema.org/alternateName> "Starker, Anna Mae"@en .
 <http://opaquenamespace.org/ns/people/MayAnnaMae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/MayAnnaMae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/MayAnnaMae> <http://www.w3.org/2000/01/rdf-schema#comment> "Starker Forests, Inc. executive and OSU alum. Granddaughter of T. J. Starker. Interviewee in Oral Histories at Oregon State University Libraries collection."@en .
+<http://opaquenamespace.org/ns/people/MayAnnaMae> <http://www.w3.org/2000/01/rdf-schema#comment> "Starker Forests, Inc. executive and OSU bachelor's in Forest Management (2005). Granddaughter of T. J. Starker. Interviewee in Oral Histories at Oregon State University Libraries collection."@en .
 <http://opaquenamespace.org/ns/people/MayAnnaMae> <http://www.w3.org/2000/01/rdf-schema#label> "May, Anna Mae"@en .
