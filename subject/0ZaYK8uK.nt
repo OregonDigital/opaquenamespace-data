@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/subject/0ZaYK8uK> <http://purl.org/dc/terms/issued> "2024-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/0ZaYK8uK> <http://purl.org/dc/terms/modified> "2024-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/subject/0ZaYK8uK> <http://schema.org/alternateName> "CAPE"@en .
+<http://opaquenamespace.org/ns/subject/0ZaYK8uK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/subject/0ZaYK8uK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/subject/0ZaYK8uK> <http://www.w3.org/2000/01/rdf-schema#comment> "Program at OSU that works to cultivate a survivor-centered, trauma-informed culture of consent. Provides violence survivor advocacy and prevention services."@en .
+<http://opaquenamespace.org/ns/subject/0ZaYK8uK> <http://www.w3.org/2000/01/rdf-schema#label> "Center for Advocacy, Prevention and Education (Oregon State University)"@en .
