@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://purl.org/dc/terms/date> "1862-1864" .
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://purl.org/dc/terms/issued> "2024-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://purl.org/dc/terms/modified> "2024-10-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax118 collection in Special Collections and University Archives, University of Oregon English"@en .
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://www.w3.org/2000/01/rdf-schema#comment> "The collection (1862-1864) contains a diary kept during the American Civil War, and a scrapbook."@en .
+<http://opaquenamespace.org/ns/localCollectionName/RoyalAugustusBenselldiaryandscrapbook18621864> <http://www.w3.org/2000/01/rdf-schema#label> "Royal Augustus Bensell diary and scrapbook, 1862-1864"@en .
