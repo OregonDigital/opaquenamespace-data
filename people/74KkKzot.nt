@@ -1,0 +1,10 @@
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://purl.org/dc/terms/date> "active late 19th early 20th century" .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://purl.org/dc/terms/issued> "2024-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://purl.org/dc/terms/modified> "2024-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://schema.org/alternateName> "Hirotsuka Fukutaro"@en .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://schema.org/alternateName> "広塚福太郎"@ja .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nosatsu practitioner in Meiji-Taisho Japan. Appears in the Gertrude Bass Warner Nosatsu collection, University of Oregon"@en .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://www.w3.org/2000/01/rdf-schema#label> "Hirotsuka"@en .
+<http://opaquenamespace.org/ns/people/74KkKzot> <http://www.w3.org/2000/01/rdf-schema#label> "ひろつか"@ja .
