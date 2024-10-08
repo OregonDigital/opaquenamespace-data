@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://purl.org/dc/terms/date> "1889-1956" .
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://purl.org/dc/terms/issued> "2024-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://purl.org/dc/terms/modified> "2024-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://www.w3.org/2000/01/rdf-schema#comment> "Ax 209 James E. and Susan L. Skinner papers, 1889-1956. University of Oregon Special Collections and University Archives. "@en .
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://www.w3.org/2000/01/rdf-schema#comment> "James E. Skinner (1867-1959) and his wife Susan Lawrence Skinner (1871-1952) were Christian medical missionaries who served in China from 1897 to 1944. The collection contains correspondence, diaries, literary manuscripts, photographs and biographical materials."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JamesEandSusanLSkinnerpapers18891956> <http://www.w3.org/2000/01/rdf-schema#label> "James E. and Susan L. Skinner papers, 1889-1956"@en .
