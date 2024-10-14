@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://purl.org/dc/terms/date> "1840-1943" .
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://purl.org/dc/terms/issued> "2024-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://purl.org/dc/terms/modified> "2024-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection Ax065 in Special Collection and University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://www.w3.org/2000/01/rdf-schema#comment> "Walter E. Meacham (1879-1951) was a historian and Oregon Trail enthusiast. The Walter Meacham papers consist of correspondence, manuscripts, research notes, and a variety of materials associated with the Old Oregon Trail Association and Meacham's promotional activities."@en .
+<http://opaquenamespace.org/ns/localCollectionName/WalterMeachampapers18401943> <http://www.w3.org/2000/01/rdf-schema#label> "Walter Meacham papers, 1840-1943"@en .
