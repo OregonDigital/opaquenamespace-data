@@ -6,5 +6,5 @@
 <http://opaquenamespace.org/ns/creator/F5NAvRWb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/F5NAvRWb> <http://www.w3.org/2000/01/rdf-schema#comment> "active late 19th early 20th century"@en .
 <http://opaquenamespace.org/ns/creator/F5NAvRWb> <http://www.w3.org/2000/01/rdf-schema#comment> "Japanese patron for the creation of votive slips. Gertrude Bass Warner Nosatsu Collection, University of Oregon"@en .
-<http://opaquenamespace.org/ns/creator/F5NAvRWb> <http://www.w3.org/2000/01/rdf-schema#label> "Shima Yone"@en .
-<http://opaquenamespace.org/ns/creator/F5NAvRWb> <http://www.w3.org/2000/01/rdf-schema#label> "しま米 "@ja .
+<http://opaquenamespace.org/ns/creator/F5NAvRWb> <http://www.w3.org/2000/01/rdf-schema#label> "しま米"@ja .
+<http://opaquenamespace.org/ns/creator/F5NAvRWb> <http://www.w3.org/2000/01/rdf-schema#label> "Shimayone"@en .
