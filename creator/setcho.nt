@@ -1,8 +1,9 @@
-<http://opaquenamespace.org/ns/creator/setcho> <http://purl.org/dc/terms/issued> "2017-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/setcho> <http://purl.org/dc/terms/modified> "2024-08-14"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/setcho> <http://schema.org/alternateName> "Ota, Kichiei"@en .
+<http://opaquenamespace.org/ns/creator/setcho> <http://purl.org/dc/terms/issued> "2017-11-30" .
+<http://opaquenamespace.org/ns/creator/setcho> <http://purl.org/dc/terms/modified> "2024-10-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/setcho> <http://schema.org/alternateName> "Ota, Setcho"@en .
+<http://opaquenamespace.org/ns/creator/setcho> <http://schema.org/alternateName> "太田櫛朝"@en .
 <http://opaquenamespace.org/ns/creator/setcho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/setcho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://opaquenamespace.org/ns/creator/setcho> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nosatsu practitioner in Meiji-Taisho Japan. Appears in the Gertrude Bass Warner Collection of Japanese Votive Slips (nōsatsu), 1850s to 1930s digital collection, University of Oregon Libraries"@en .
 <http://opaquenamespace.org/ns/creator/setcho> <http://www.w3.org/2000/01/rdf-schema#label> "Setcho"@en .
-<http://opaquenamespace.org/ns/creator/setcho> <http://www.w3.org/2000/01/rdf-schema#label> "節朝"@ja .
+<http://opaquenamespace.org/ns/creator/setcho> <http://www.w3.org/2000/01/rdf-schema#label> "櫛朝"@ja .
