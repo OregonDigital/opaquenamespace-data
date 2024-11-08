@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/creator/Adelaar> <http://purl.org/dc/terms/date> "1934/1986" .
+<http://opaquenamespace.org/ns/creator/Adelaar> <http://purl.org/dc/terms/issued> "2024-11-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Adelaar> <http://purl.org/dc/terms/modified> "2024-11-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/Adelaar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/creator/Adelaar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/creator/Adelaar> <http://www.w3.org/2000/01/rdf-schema#comment> "Clothing production company, founded as Adelaar Blouse Company 1934 in Chicago, moved to New York in 1945, and closed in 1986. Produced tailored blouses, separates, dresses and lightweight suits, with a production peak in the late 1940s to the late 1960s. Originally known as Adelaar Brothers Inc., then Adelaar Blouse Company. Appears in the OSU Historic and Cultural Textiles and Apparel Collection."@en .
+<http://opaquenamespace.org/ns/creator/Adelaar> <http://www.w3.org/2000/01/rdf-schema#label> "Adelaar"@en .
