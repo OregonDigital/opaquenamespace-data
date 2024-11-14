@@ -4,6 +4,8 @@
 <http://opaquenamespace.org/ns/creator/futami> <http://schema.org/alternateName> "二見卯八"@ja .
 <http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nosatsu practitioner in Meiji-Taisho Japan. He was a tabi (Japanese socks maker) in the Kanda district of Tokyo. Appears in the Gertrude Bass Warner Collection of Japanese Votive Slips (nōsatsu), 1850s to 1930s digital collection, University of Oregon Libraries"@en .
+<http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nosatsu practitioner in Meiji-Taisho Japan."@en .
+<http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/2000/01/rdf-schema#comment> "He was a maker of tabi (Japanese socks) in the Kanda district of Tokyo. "@en .
+<http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/2000/01/rdf-schema#comment> "Appears in the Gertrude Bass Warner Collection of Japanese Votive Slips (nōsatsu), 1850s to 1930s digital collection, University of Oregon Libraries."@en .
 <http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/2000/01/rdf-schema#label> "Futami"@en .
 <http://opaquenamespace.org/ns/creator/futami> <http://www.w3.org/2000/01/rdf-schema#label> "二見"@ja .
