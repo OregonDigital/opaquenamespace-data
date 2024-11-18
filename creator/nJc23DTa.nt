@@ -1,9 +1,11 @@
 <http://opaquenamespace.org/ns/creator/nJc23DTa> <http://purl.org/dc/terms/issued> "2024-10-07"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://purl.org/dc/terms/modified> "2024-10-08"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://schema.org/alternateName> "Oebusu Kenkichi"@en .
+<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://purl.org/dc/terms/modified> "2024-11-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://schema.org/alternateName> "Ogo Kenkichi"@en .
+<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://schema.org/alternateName> "大胡兼吉"@ja .
 <http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/2000/01/rdf-schema#comment> "Japanese patron for the creation of votive slips. Gertrude Bass Warner Nosatsu Collection, University of Oregon"@en .
-<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/2000/01/rdf-schema#comment> "active late 19th early 20th century"@en .
+<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/2000/01/rdf-schema#comment> "Active late 19th early 20th century."@en .
+<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nōsatsu practitioner in Meiji-Taisho Japan."@en .
+<http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/2000/01/rdf-schema#comment> "Appears in the Gertrude Bass Warner Collection of Japanese Votive Slips (nōsatsu), University of Oregon Libraries."@en .
 <http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/2000/01/rdf-schema#label> "Matsuken"@en .
 <http://opaquenamespace.org/ns/creator/nJc23DTa> <http://www.w3.org/2000/01/rdf-schema#label> "松兼"@ja .
