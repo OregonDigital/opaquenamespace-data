@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/PalmsJerome> <http://purl.org/dc/terms/issued> "2024-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/PalmsJerome> <http://purl.org/dc/terms/modified> "2024-12-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/PalmsJerome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
+<http://opaquenamespace.org/ns/people/PalmsJerome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/PalmsJerome> <http://www.w3.org/2000/01/rdf-schema#comment> "Correspondent found in Ax 043, Lurton Blassingame Literary Agency records, 1965-1978. Collection in Special Collections University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/people/PalmsJerome> <http://www.w3.org/2000/01/rdf-schema#label> "Palms, Jerome"@en .
