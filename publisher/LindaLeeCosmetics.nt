@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/publisher/LindaLeeCosmetics> <http://purl.org/dc/terms/issued> "2025-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/LindaLeeCosmetics> <http://purl.org/dc/terms/modified> "2025-01-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/LindaLeeCosmetics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/LindaLeeCosmetics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/LindaLeeCosmetics> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher found in Ax460, Earl Conrad papers, 1950-1969. University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/publisher/LindaLeeCosmetics> <http://www.w3.org/2000/01/rdf-schema#label> "Linda Lee Cosmetics, Pitkin Inc. (Newark NY)"@en .
