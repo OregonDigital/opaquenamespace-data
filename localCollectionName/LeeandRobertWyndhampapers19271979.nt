@@ -1,0 +1,7 @@
+<http://opaquenamespace.org/ns/localCollectionName/LeeandRobertWyndhampapers19271979> <http://purl.org/dc/terms/issued> "2025-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/LeeandRobertWyndhampapers19271979> <http://purl.org/dc/terms/modified> "2025-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/LeeandRobertWyndhampapers19271979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/LeeandRobertWyndhampapers19271979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/LeeandRobertWyndhampapers19271979> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection Ax472, Lee and Robert Wyndham papers, 1927-1979. University of Oregon Special Collections and University Archives. "@en .
+<http://opaquenamespace.org/ns/localCollectionName/LeeandRobertWyndhampapers19271979> <http://www.w3.org/2000/01/rdf-schema#comment> "Lee and Robert Wyndham were authors of children’s books as well as holding many other positions pertaining to writing. Their collection includes correspondence, miscellaneous materials, published works and many manuscripts that represent the careers of the Wyndhams."@en .
+<http://opaquenamespace.org/ns/localCollectionName/LeeandRobertWyndhampapers19271979> <http://www.w3.org/2000/01/rdf-schema#label> "Lee and Robert Wyndham papers, 1927-1979"@en .
