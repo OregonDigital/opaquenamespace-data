@@ -1,3 +1,4 @@
+<http://opaquenamespace.org/ns/people/RodriguezWandaMaríanelaCalzado> <http://purl.org/dc/terms/isReplacedBy> "http://opaquenamespace.org/ns/people/RodriguezWandaMarianelaCalzado" .
 <http://opaquenamespace.org/ns/people/RodriguezWandaMaríanelaCalzado> <http://purl.org/dc/terms/issued> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/RodriguezWandaMaríanelaCalzado> <http://purl.org/dc/terms/modified> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://opaquenamespace.org/ns/people/RodriguezWandaMaríanelaCalzado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
