@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/publisher/Montecito> <http://purl.org/dc/terms/issued> "2025-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/Montecito> <http://purl.org/dc/terms/modified> "2025-02-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/publisher/Montecito> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/publisher/Montecito> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/publisher/Montecito> <http://www.w3.org/2000/01/rdf-schema#comment> "Found in Ax527, Frank R. Adams papers, 1908-1955, in University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/publisher/Montecito> <http://www.w3.org/2000/01/rdf-schema#label> "The Montecito"@en .
