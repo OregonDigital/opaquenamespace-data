@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://purl.org/dc/terms/date> "1947/2017" .
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://purl.org/dc/terms/issued> "2025-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://purl.org/dc/terms/modified> "2025-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection Ax477, Jon Sutton papers, 1947-2017, in Special Collection and University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://www.w3.org/2000/01/rdf-schema#comment> "The collection comprises the papers of composer, musician, and artist Jon Sutton, and includes artifacts, biographical material, professional papers, books and poetry, musical scores, recordings, news clippings and ephemera, and photographs and artwork."@en .
+<http://opaquenamespace.org/ns/localCollectionName/JonSuttonpapers19472017> <http://www.w3.org/2000/01/rdf-schema#label> "Jon Sutton papers, 1947-2017"@en .
