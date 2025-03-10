@@ -1,0 +1,6 @@
+<http://opaquenamespace.org/ns/people/SundeleafandHagestad> <http://purl.org/dc/terms/issued> "2025-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/SundeleafandHagestad> <http://purl.org/dc/terms/modified> "2025-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/SundeleafandHagestad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#CorporateName> .
+<http://opaquenamespace.org/ns/people/SundeleafandHagestad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/people/SundeleafandHagestad> <http://www.w3.org/2000/01/rdf-schema#comment> "Found in Coll196, Richard Sundeleaf papers and architectural records, 1924-1984, in University of Oregon Special Collections and University Archives."@en .
+<http://opaquenamespace.org/ns/people/SundeleafandHagestad> <http://www.w3.org/2000/01/rdf-schema#label> "Sundeleaf and Hagestad (Architects)"@en .
