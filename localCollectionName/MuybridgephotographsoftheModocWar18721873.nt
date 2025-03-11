@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://purl.org/dc/terms/date> "1872/1873" .
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://purl.org/dc/terms/issued> "2025-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://purl.org/dc/terms/modified> "2025-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://www.w3.org/2000/01/rdf-schema#comment> "Collection PH200_217, Muybridge photographs of the Modoc War, 1872-1873, in Special Collection and University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://www.w3.org/2000/01/rdf-schema#comment> "This collection consists of 15 stereo images documenting the Modoc War of 1872-1873. The images were produced by Muybridge and published by Bradley & Rulofson Gallery of Photographic Art in San Francisco California."@en .
+<http://opaquenamespace.org/ns/localCollectionName/MuybridgephotographsoftheModocWar18721873> <http://www.w3.org/2000/01/rdf-schema#label> "Muybridge photographs of the Modoc War, 1872-1873"@en .
