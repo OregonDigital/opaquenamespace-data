@@ -1,0 +1,8 @@
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://purl.org/dc/terms/date> "1970s/2000" .
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://purl.org/dc/terms/issued> "2025-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://purl.org/dc/terms/modified> "2025-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Collection> .
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://www.w3.org/2000/01/rdf-schema#comment> "Coll519, Paula Gunn Allen papers, 1970s-2000, in Special Collection and University Archives, University of Oregon."@en .
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://www.w3.org/2000/01/rdf-schema#comment> "Paula Gunn Allen (1939-2008) was a Native American author, literary critic, activist, and scholar known for her contributions to American Indian studies and the nascent field of Indigenous feminism. The papers include materials related to her writing and literary career, workshop material, and audio recordings."@en .
+<http://opaquenamespace.org/ns/localCollectionName/PaulaGunnAllenpapers1970s2000> <http://www.w3.org/2000/01/rdf-schema#label> "Paula Gunn Allen papers, 1970s-2000"@en .
