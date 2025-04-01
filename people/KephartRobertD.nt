@@ -1,6 +1,0 @@
-<http://opaquenamespace.org/ns/people/KephartRobertD> <http://purl.org/dc/terms/issued> "2025-03-31"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/KephartRobertD> <http://purl.org/dc/terms/modified> "2025-03-31"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/KephartRobertD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
-<http://opaquenamespace.org/ns/people/KephartRobertD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/KephartRobertD> <http://www.w3.org/2000/01/rdf-schema#comment> "Found in Coll202, Robert LeFevre papers, 1946-1981, in University of Oregon Special Collections and University Archives."@en .
-<http://opaquenamespace.org/ns/people/KephartRobertD> <http://www.w3.org/2000/01/rdf-schema#label> "Kephart, Robert D."@en .
