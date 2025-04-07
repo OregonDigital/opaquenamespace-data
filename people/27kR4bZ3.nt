@@ -1,11 +1,11 @@
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://purl.org/dc/terms/issued> "2024-10-30"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://purl.org/dc/terms/modified> "2024-11-13"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://schema.org/alternateName> "Frederick Starr"@en .
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://schema.org/alternateName> "フレデリック・スタール"@ja .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://purl.org/dc/terms/issued> "2024-10-30" .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://purl.org/dc/terms/modified> "2025-04-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://schema.org/alternateName> "Sutaru"@en .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://schema.org/alternateName> "寿多有"@ja .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://schema.org/alternateName> "スタール"@ja .
 <http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#PersonalName> .
 <http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nosatsu practitioner in Meiji-Taisho Japan."@en .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#comment> "Prominent nōsatsu practitioner in Meiji-Taisho Japan."@en .
 <http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#comment> " Appears in the Gertrude Bass Warner Nosatsu collection, University of Oregon."@en .
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#label> "Sutaru"@ja .
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#label> "スタール"@ja .
-<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#label> "寿多有"@ja .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick Starr"@en .
+<http://opaquenamespace.org/ns/people/27kR4bZ3> <http://www.w3.org/2000/01/rdf-schema#label> "フレデリック・スタール"@ja .
